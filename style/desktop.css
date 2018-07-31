@@ -393,6 +393,15 @@ div#head-nav li.selected a:hover
 {
 
 }
+
+/*Table formatting for sharp and utax range
+Not sure why but still have to use border="1" otherwise it only does the outside*/
+table.productTable {
+	border: 1px solid #000000;
+	width: 100%;
+	border-collapse: collapse;
+	padding: 10px;
+}
 /*Header Image*/
 #LogoImage{
 	width: 100%;

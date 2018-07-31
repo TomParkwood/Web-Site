@@ -28,7 +28,7 @@ include('include/pds-header.php');
         <td>See all of the details <a href="griffin.php">here</a>.<br>
           a href to griffin page then link the image for the hyperlink.
         </td>
-        <td>See all of the details here.<br>
+        <td>See all of the details <a href="neo.php">here</a>.<br>
           a href to neo page then link the image for the hyperlink.
         </td>
       </tr>
