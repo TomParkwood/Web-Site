@@ -440,7 +440,7 @@ include('include/pds-header.php');
   <br>
   </div>
 <?php
-include('include/pds.sidebar.php');
+include('include/pds-sidebar.php');
 ?>
 </div>
 <?php
