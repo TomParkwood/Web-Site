@@ -21,15 +21,15 @@ include('include/pds-header.php');
         <td style="width:50%;"><strong>The Neo Range</strong></td>
       </tr>
       <tr>
-        <td>A range of 5 SRA3 machines with varying speeds from 30 pages per minute up to 60 pages per minute, with plenty of finishing and software options. Very easy to use and super reliable.</td>
-        <td>A pair of A4 colour devices for the small office or low user. Running speeds of 25 or 30 pages per minute with all the bells and whistles expected from a much larger machine.</td>
+        <td style="width:50%;"><a href="griffin.php"><img src="images/sharp/griffin.jpg"></a></td>
+        <td style="width:50%;"><a href="neo.php"><img src="images/sharp/neo.jpg"></a></td>
       </tr>
       <tr>
-        <td>See all of the details <a href="griffin.php">here</a>.<br>
-          a href to griffin page then link the image for the hyperlink.
+        <td>A range of 5 SRA3 machines with varying speeds from 30 pages per minute up to 60 pages per minute, with plenty of finishing and software options. Very easy to use and super reliable.<br>
+          See all of the details <a href="griffin.php">here</a>.
         </td>
-        <td>See all of the details <a href="neo.php">here</a>.<br>
-          a href to neo page then link the image for the hyperlink.
+        <td>A pair of A4 colour devices for the small office or low user. Running speeds of 25 or 30 pages per minute with all the bells and whistles expected from a much larger machine.<br>
+          See all of the details <a href="neo.php">here</a>.
         </td>
       </tr>
     </table>
@@ -40,18 +40,19 @@ include('include/pds-header.php');
         <td style="width:50%;"><strong>The Polaris Range</strong></td>
       </tr>
       <tr>
-        <td>The MX-2630N is ideal for the offices who want the functionality of a small MFP but with the options of a higher range such as more trays and finishing options.</td>
-        <td>A pair of high speed machines with speed of up to 75 pages per minute with a wide range of finishing options. Need high productivity and quality machine then look no further than the Polaris range.</td>
+        <td style="width:50%;"><a href="sphinx.php"><img src="images/sharp/sphinx.jpg"></a></td>
+        <td style="width:50%;"><a href="polaris.php"><img src="images/sharp/polaris.jpg"></a></td>
       </tr>
       <tr>
-        <td>See all of the details here.<br>
-          a href to sphinx page then link the image for the hyperlink.
+        <td>The MX-2630N is ideal for the offices who want the functionality of a small MFP but with the options of a higher range such as more trays and finishing options.<br>
+          See all of the details <a href="sphinx.php">here</a>.
         </td>
-        <td>See all of the details here.<br>
-         a href to polaris page then link the image for the hyperlink.
+        <td>A pair of high speed machines with speed of up to 75 pages per minute with a wide range of finishing options. Need high productivity and quality machine then look no further than the Polaris range.<br>
+          See all of the details <a href="polaris.php">here</a>.
        </td>
       </tr>
     </table>
+    <br>
   </div>
   <?php
   include('include/pds-sidebar.php');

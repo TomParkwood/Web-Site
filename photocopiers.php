@@ -14,32 +14,49 @@ include('include/pds-header.php');
 </div>
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
-    <div class="main-span">
       <h1>Photocopiers, Printers &amp; MFD's</h1>
-      <h2>The Sharp Range</h2>
+      <h2><a href="sharp-range.php">The Sharp Range</a></h2>
       <p>The Sharp range consists of four different types of machines, which go from smaller desktop machines all the way to high speed machines with up to 75 pages per minute.</p>
         <table style="width:100%;">
           <tr>
-            <td style="width:50%;"><strong>The Griffin Range</strong></td>
-            <td style="width:50%;"><strong>The Neo Range</strong></td>
+            <td style="width:50%;"><strong><a href="griffin.php">The Griffin Range</a></strong></td>
+            <td style="width:50%;"><strong><a href="neo.php">The Neo Range</a></strong></td>
           </tr>
           <tr>
-            <td>Place image here with a hyperlink to the page</td>
-            <td>Place image here with a hyperlink to the page</td>
+            <td><a href="griffin.php"><img src="images/sharp/griffin.jpg" alt=""></a></td>
+            <td><a href="neo.php"><img src="images/sharp/neo.jpg" alt=""></a></td>
           </tr>
         </table>
         <br>
         <table style="width:100%;">
           <tr>
-            <td style="width:50%;"><strong>The Sphinx Range</strong></td>
-            <td style="width:50%;"><strong>The Polaris Range</strong></td>
+            <td style="width:50%;"><strong><a href="sphinx.php">The Sphinx Range</a></strong></td>
+            <td style="width:50%;"><strong><a href="polaris.php">The Polaris Range</a></strong></td>
           </tr>
           <tr>
-            <td>Place image here with a hyperlink to the page</td>
-            <td>Place image here with a hyperlink to the page</td>
+            <td><a href="sphinx.php"><img src="images/sharp/sphinx.jpg" alt=""></a></td>
+            <td><a href="polaris.php"><img src="images/sharp/polaris.jpg" alt=""></a></td>
           </tr>
         </table>
         <br>
         <br>
       <h2>The Utax Range</h2>
-      <p>The Utax
+      <p>The Utax range consists of two different types of machines, which are A4 colour machines and A3 colour machines. With speeds ranging from 21 pages per minute up to 60 pages per minute.</p>
+        <table style="width:100%;">
+          <tr>
+            <td style="width:50%;"><strong>The A4 Colour Range</strong></td>
+            <td style="width:50%;"><strong>The A3 Colour Range</strong></td>
+          </tr>
+          <tr>
+            <td><a href="index.php"><img src="images/utax/C2655w.jpg"></a></td>
+            <td><a href="index.php"><img src="images/utax/6006ci.jpg"></a></td>
+          </tr>
+        </table>
+    </div>
+    <?php
+    include('include/pds-sidebar.php');
+     ?>
+</div>
+<?php
+include('include/pds-footer.php');
+ ?>
