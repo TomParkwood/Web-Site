@@ -1,9 +1,9 @@
 <!--A3 Utax-->
 <?php
 $pageTitle = "A3 Utax";
-$pageSummary = "Summary";
-$metaKeywords = "keywords";
-$metaDescription = "description";
+$pageSummary = "A range of five SRA3 machine with varying speeds from 25 pages per minute all the way up to 60 pages per minute, with plenty of finishing and software options available.";
+$metaKeywords = "2506ci, 3206ci, 4006ci, 5006ci, 6006ci, UTAX, Photocopier, banner printer, folding unit, internal finisher, utax 2506ci, utax 3206ci, utax 4006ci, utax 5006ci, utax 6006ci.";
+$metaDescription = "The A3 range of machines by UTAX offer up to 60 pages per minute printing and many different finishing options so you will be guaranteed to find the machine which suits your needs.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -427,3 +427,23 @@ include('include/pds-header.php');
           <td>600000</td>
           <td>FK-8595IH</td>
         </tr>
+      </table>
+    <h2>Additional Information</h2>
+    <h3>Drivers</h3>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V731721_PrDr20180528.zip/%24FILE/KxDriver_cCD_cLP_V731721_PrDr20180528.zip">Windows 7, 8.1, 10 32bit</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V710330_PrDr20170418.zip/%24FILE/KxDriver_cCD_cLP_V710330_PrDr20170418.zip">Windows 7, 8.1, 10 64bit</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/CCD-cLP_MacOSx10.8-10.12_20180528.zip/%24FILE/CCD-cLP_MacOSx10.8-10.12_20180528.zip">MacOS X 10.8-10.12</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/Linux-Driver_4056i-6056i_2506ci-6006ci_20160701.zip/%24FILE/Linux-Driver_4056i-6056i_2506ci-6006ci_20160701.zip">Linux</a></p>
+    <h3>Other Documents</h3>
+    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/DB_UT_2506ci_3206ci_UK.pdf/$FILE/DB_UT_2506ci_3206ci_UK.pdf" target="_blank" rel="noopener noreferrer">Brochure (2506ci, 3206ci)</a></p>
+    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/DB_UT_4006ci_5006ci_6006ci_UK.pdf/$FILE/DB_UT_4006ci_5006ci_6006ci_UK.pdf" target="_blank" rel="noreferrer">Brochure (4006ci, 5006ci, 6006ci)</a></p>
+    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/IH_2506ci-6006ci_UT_UK.pdf/$FILE/IH_2506ci-6006ci_UT_UK.pdf" target="_blank" rel="noreferrer">Operation Guide</a></p>
+    <br>
+  </div>
+<?php
+include('include/pds-sidebar.php');
+?>
+</div>
+<?php
+include('include/pds-footer.php');
+?>

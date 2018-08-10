@@ -40,16 +40,16 @@ include('include/pds-header.php');
         </table>
         <br>
         <br>
-      <h2>The Utax Range</h2>
+      <h2><a href="utax-range.php">The Utax Range</a></h2>
       <p>The Utax range consists of two different types of machines, which are A4 colour machines and A3 colour machines. With speeds ranging from 21 pages per minute up to 60 pages per minute.</p>
         <table style="width:100%;">
           <tr>
-            <td style="width:50%;"><strong>The A4 Colour Range</strong></td>
-            <td style="width:50%;"><strong>The A3 Colour Range</strong></td>
+            <td style="width:50%;"><strong><a href="a4utax.php">The A4 Colour Range</a></strong></td>
+            <td style="width:50%;"><strong><a href="a3utax.php">The A3 Colour Range</a></strong></td>
           </tr>
           <tr>
-            <td><a href="index.php"><img src="images/utax/C2655w.jpg"></a></td>
-            <td><a href="index.php"><img src="images/utax/6006ci.jpg"></a></td>
+            <td><a href="a4utax.php"><img src="images/utax/C2655w.jpg"></a></td>
+            <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
           </tr>
         </table>
     </div>

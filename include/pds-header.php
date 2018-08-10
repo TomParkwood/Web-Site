@@ -17,11 +17,13 @@
 			<i class="fa fa-caret-down"></i>
 		</button>
 		<div class="dropdown-content">
-			<a href="copiers-printers.php">Photocopiers</a>
+			<!--<a href="copiers-printers.php">Photocopiers</a>-->
+			<a href="photocopiers.php">Photocopiers</a>
 			<a href="document-management.php">Document Management</a>
 			<a href="print-control.php">Print Control</a>
 			<a href="skywell.php">Skywell</a>
 			<a href="Nursery-Table.php">40" Interactive Tablet</a>
+			<a href="big-pad.php">Sharp Big Pads</a>
 		</div>
 	</div>
 	<a href="support.php">Support</a>

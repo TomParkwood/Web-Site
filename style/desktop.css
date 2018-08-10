@@ -84,6 +84,12 @@ img
 	border: none;
 }
 
+img.product
+{
+	height: auto;
+	max-height: 350px;
+	max-width: 300px;
+}
 a.more
 {
 	float: right;
@@ -323,7 +329,6 @@ div.left
 div.right
 {
 	float: right;
-	padding-left: 20px;
 }
 
 div.main-span

@@ -1,9 +1,9 @@
 <!--Utax Range-->
 <?php
 $pageTitle = "The Utax Range";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "Description";
+$pageSummary = "The range of UTAX machines varies based on your needs, if you need a large A3 multi function device with up to 60 pages per minute and complex finishing options, there is a machine for you. Or if you simply want a small desktop machine which can print, scan, copy then there is a machine for you. All you need to do is determine what your needs are and choose the best match for you.";
+$metaKeywords = "UTAX printer, utax copier, utax scanner, utax fax machine, desktop mfp, utax desktop, utax multi function device, colour printers.";
+$metaDescription = "The range of UTAX machines varies based on your needs, if you need a large A3 multi function device with up to 60 pages per minute and complex finishing options, there is a machine for you. Or if you simply want a small desktop machine which can print, scan, copy then there is a machine for you. All you need to do is determine what your needs are and choose the best match for you.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -21,15 +21,15 @@ include('include/pds-header.php');
         <td style="width:50%;"><strong>The A3 Colour Range</stong></td>
       </tr>
       <tr>
-        <td><a href="index.php"><img src="images/utax/C2655w.jpg"></a></td>
-        <td><a href="index.php"><img src="images/utax/6006ci.jpg"></a></td>
+        <td><a href="a4utax.php"><img src="images/utax/C2655w.jpg"></a></td>
+        <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
       </tr>
       <tr>
         <td>A pair of A4 colour devices which are perfect for a small office or low user, with running speeds of 21 or 26 pages per minute with all of the bells and whistles expected from a much larger machine.<br>
-          See all of the details <a href="index.php">here</a>.
+          See all of the details <a href="a4utax.php">here</a>.
         </td>
         <td>A range of five SRA3 machines with varying speeds from 25 pages per minute all the way up to 60 pages per minute, with plenty of finishing and software options available.<br>
-          See all of the details <a href="index.php">here</a>.
+          See all of the details <a href="a3utax.php">here</a>.
         </td>
       </tr>
     </table>

@@ -9,7 +9,7 @@ include('include/pds-header.php');
 ?>
 <div id="crumbs-wrapper">
 	<div id="crumbs">
-		You are at: <a href="index.php">Home</a> &gt; <a href="printer-repairs.php">Printer Repairs</a></div>
+		You are at: <a href="index.php">Home</a> &gt; <a href="services.php">Services</a> &gt; <a href="printer-repairs.php">Printer Repairs</a></div>
 </div>
 <div id="main-wrapper">
 	<div id="equal-1" class="width-three">

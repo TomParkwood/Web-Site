@@ -1,9 +1,9 @@
 <!--A4 Utax-->
 <?php
 $pageTitle = "A4 Utax";
-$pageSummary = "Summary";
-$metaKeywords = "keywords";
-$metaDescription = "description";
+$pageSummary = "A pair of A4 colour devices which are perfect for a small office or low user. Running speeds of 25 or 30 pages per minute with all of the bells and whistles expected from a much larger machine.";
+$metaKeywords = "P-C2155W, P-C2655W, utax p-c2155w, utax p-c2655w, desktop mfp, desktop printer, utax printer, utax fax machine, desktop fax machine, desktop copier, desktop scanner.";
+$metaDescription = "The A4 range of machines by UTAX offer up to 26 pages per minute in a small desktop form factor, with included printing, copying, scanning and even faxing as standard it can keep up with the much bigger machines but with just a fraction of the size.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -172,10 +172,10 @@ include('include/pds-header.php');
       </table>
     <h2>Additional Information</h2>
     <h3>Drivers</h3>
-    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V731207_PrDr20180103.zip/$FILE/KxDriver_cCD_cLP_V731207_PrDr20180103.zip">Windows 7, 8.1, 10 32bit</a></p>
-    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V731207_PrDr20180103.zip/$FILE/KxDriver_cCD_cLP_V731207_PrDr20180103.zip">Windows 7, 8.1, 10 64bit</a></p>
-    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/CCD-cLP_MacOSx10.8-10.12_20180503.zip/$FILE/CCD-cLP_MacOSx10.8-10.12_20180503.zip">MacOS X 10.8-10.12</a></p>
-    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/LinuxPPD_P-C2155wMFP_P-C2655wMFP_P-C2650DW_20161123.zip/$FILE/LinuxPPD_P-C2155wMFP_P-C2655wMFP_P-C2650DW_20161123.zip">Linux</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V731721_PrDr20180528.zip/%24FILE/KxDriver_cCD_cLP_V731721_PrDr20180528.zip">Windows 7, 8.1, 10 32bit</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/KxDriver_cCD_cLP_V731721_PrDr20180528.zip/%24FILE/KxDriver_cCD_cLP_V731721_PrDr20180528.zip">Windows 7, 8.1, 10 64bit</a></p>
+    <p><a href="https://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/CCD-cLP_MacOSx10.8-10.12_20180528.zip/%24FILE/CCD-cLP_MacOSx10.8-10.12_20180528.zip">MacOS X 10.8-10.12</a></p>
+    <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/LinuxPPD_P-C2155wMFP_P-C2655wMFP_P-C2650DW_20161123.zip/%24FILE/LinuxPPD_P-C2155wMFP_P-C2655wMFP_P-C2650DW_20161123.zip">Linux</a></p>
     <h3>Other Documents</h3>
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/DB_UT_P-C2155w_MFP_P-C2655w_MFP_UK.pdf/$FILE/DB_UT_P-C2155w_MFP_P-C2655w_MFP_UK.pdf" target="_blank" rel="noopener noreferrer">Brochure</a></p>
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/QG_P-C2655w%20MFP_UT_UK.pdf/$FILE/QG_P-C2655w%20MFP_UT_UK.pdf" target="_blank" rel="noopener noreferrer">Quickguide</a></p>
