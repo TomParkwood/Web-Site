@@ -1,9 +1,9 @@
 <!--PaperCut-->
 <?php
 $pageTitle = "PaperCut";
-$pageSummary = "Summary";
-$metaKeywords = "keywords";
-$metaDescription = "Description";
+$pageSummary = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
+$metaKeywords = "PaperCut MF, PaperCut NG, print tracking, track prints, follow me printing, print authentication";
+$metaDescription = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -36,8 +36,17 @@ include('include/pds-header.php');
     <h3>Do you think that you print too much and it is being wasted?</h3>
     <p>Being able to keep an archive of all print jobs on the server, this shows what the document type is, the name of the document and for some file types a preview of what was printed.<br>
       This will show you if an employee who only ever works on spreadsheets is printing lots of personal pictures, so you can then raise the question.<br>
-      As well as the standard features and reports that can be run on PaperCut there is also scripting, which allows for much more customisation of what can be done, one of the sample scripts is to bring up a warning message when prints are done single sided, reminding employees that it is cheaper to print douple sided, or to print to a cheaper machine.<br>
-      
+      As well as the standard features and reports that can be run on PaperCut there is also scripting, which allows for much more customisation of what can be done, one of the sample scripts is to bring up a warning message when prints are done single sided, reminding employees that it is cheaper to print douple sided, or to print to a cheaper machine. You can assign limits for how much people can print each month, this would be helpful if you believe that certain users are printing out much more than they need to, if they run out of credit they will have to speak to an admin to get more.<br>
+      If you don't like the idea of assigning a monetary value to the printing, you can easily change it to whole numbers and get rid of the currency and just deduct whole numbers. In practice this would be giving a user 2000 credits every month and every A4 sheet decrements 1 and every A3 sheet decrements 2, instead of 3p or 6p for example.</p>
+    <h3>Printing flexibility</h3>
+    <p>One of the main features of PaperCut is that it allows for Follow Me printing, where the print job will sit on a secure server until it has been requested by a machine, then it will print out.<br>
+      This can also be done across multiple different locations as long as the right hardware is in place, so if you have an office in London and Southampton, you can send a job to print at your desk in London and then collect from a printer in Southampton.</p>
+    <h3>Bring your own device printing?</h3>
+    <p>PaperCut offers lots of flexibility in how print jobs are sent to the queue. Did you know that there is an app for phones which allow you to upload a document to print to your queue?<br>
+      If you are using Google Docs for the majority of your work don't worry because PaperCut also fully supports Google Cloud Print.<br>
+      As well as Email to Print, so you can simply send out an email to the address with instructions on how you want it to be printed and an attachment to print, then when you login at the machine the print will be waiting for you.<br>
+      PaperCut also offers what it calls Mobility Printing, which is an easy way of ensuring that pretty much any device you could want to print from can. There are no drivers to install for the users and allows printing from pretty much any application.</p>
+
   </div>
   <?php
   include('include/pds-sidebar.php');
