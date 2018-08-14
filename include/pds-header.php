@@ -32,6 +32,10 @@
 		</button>
 		<div class="dropdown-content">
 			<a href="drivve.php">Drivve Image</a>
+			<a href="invu.php">Invu Document Management</a>
+			<a href="Laserfiche.php">Laserfiche</a>
+			<a href="Papercut.php">PaperCut</a>
+			<a href="Sharpdesk.php">Sharpdesk</a>
 		</div>
 	</div>
 	<a href="support.php">Support</a>

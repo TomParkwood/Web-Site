@@ -21,7 +21,10 @@ include('include/pds-header.php');
       Sharpdesk also features an inbuilt image editor for simple editing of files, which can make them better for presentation and printing. You also have the ability to easily merge files of many different types into one document which can greatly help with marketing and ease of use.<br>
       One of the most used features is the image enhancement, which improves the quality of scanned in documents, by straightening edges, getting rid of small dots or even automatically rotating the pages so the text is facing the correct way.</p>
     <h3>What are the benefits of Sharpdesk?</h3>
-    <p>Being able to search for scanned documents by whats in them rather than by name, this eliminates the need 
+    <p>Being able to search for scanned documents by whats in them rather than by name, this eliminates the need to search through all of your pdf files by opening them if you cannot remember what it was called in a month or two when you need it.<br>
+      Sharpdesk also fully integrates with Sharp OSA Network Scanner Tool, it simplifies the process of getting the scanned documents into the program and also converts them directly into OCR compatible files.<br>
+      Sharpdesk can helps making marketing materials easier to produce by enabling different file types to be put together in one document, so there is no more having to print out two parts of the document and place the paper copies together or having to have two electronic files to send out. It looks better to send out one files with all of the information needed.<br>
+      A key fact is that you can convert your pre-existing scanned documents into OCR capable ones, it doesn't just work for newly scanned files, so you can convert your archive of documents into ones which can easily be found when needed.</p>
   </div>
   <?php
   include('include/pds-sidebar.php');
