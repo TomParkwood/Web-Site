@@ -1,9 +1,9 @@
 <!--Drivve Image-->
 <?php
 $pageTitle = "Drivve Image";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "Description";
+$pageSummary = "Drivve Image allows you to scan in documents, but convert these to OCR compatible, and move them around once they have been scanned in. So you want the invoices to be named by the company it was sent to and the invoice number, Drivve Image can do that.";
+$metaKeywords = "Drivve, Drive, Drivve Image, Drive Image, Batch scanning, document routing, barcode scanning, ocr scanning, ocr, optical character recognition";
+$metaDescription = "Drivve Image allows you to scan in documents, but convert these to OCR compatible, and move them around once they have been scanned in. So you want the invoices to be named by the company it was sent to and the invoice number, Drivve Image can do that.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
