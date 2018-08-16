@@ -1,5 +1,5 @@
 <?php
-$pageTitle="Print Control Software:";
+$pageTitle="Print Control:";
 $pageSummary="With Print Control; Software you can track, analyze, allocate and, if necessary, recover the costs of every document that any employee sends to any networked printer, copier or multi-function device.";
 include('include/pds-main.php');
 include('include/pds-header.php');

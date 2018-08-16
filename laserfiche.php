@@ -1,6 +1,6 @@
 <!--Laserfiche-->
 <?php
-$pageTitle = "Laserfiche";
+$pageTitle = "Laserfiche:";
 $pageSummary = "Summary";
 $metaKeywords = "Keywords";
 $metaDescription = "description";

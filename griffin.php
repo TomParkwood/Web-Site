@@ -1,6 +1,6 @@
 <!--Griffin-->
 <?php
-$pageTitle = "Griffin Range";
+$pageTitle = "Griffin Range:";
 $pageSummary = "Summary";
 $metaKeywords = "keywords";
 $metaDescription = "description";

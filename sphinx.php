@@ -1,6 +1,6 @@
 <!--sphinx-->
 <?php
-$pageTitle = "Sphinx Range";
+$pageTitle = "Sphinx Range:";
 $pageSummary = "Summary";
 $metaKeywords = "Keywords";
 $metaDescription = "Description";

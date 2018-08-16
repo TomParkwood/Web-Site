@@ -1,6 +1,6 @@
 <!--Neo-->
 <?php
-$pageTitle = "Neo Range";
+$pageTitle = "Neo Range:";
 $pageSummary = "Summary";
 $metaKeywords = "keywords";
 $metaDescription = "description";

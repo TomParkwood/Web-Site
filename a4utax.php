@@ -1,6 +1,6 @@
 <!--A4 Utax-->
 <?php
-$pageTitle = "A4 Utax";
+$pageTitle = "A4 Utax:";
 $pageSummary = "A pair of A4 colour devices which are perfect for a small office or low user. Running speeds of 25 or 30 pages per minute with all of the bells and whistles expected from a much larger machine.";
 $metaKeywords = "P-C2155W, P-C2655W, utax p-c2155w, utax p-c2655w, desktop mfp, desktop printer, utax printer, utax fax machine, desktop fax machine, desktop copier, desktop scanner.";
 $metaDescription = "The A4 range of machines by UTAX offer up to 26 pages per minute in a small desktop form factor, with included printing, copying, scanning and even faxing as standard it can keep up with the much bigger machines but with just a fraction of the size.";

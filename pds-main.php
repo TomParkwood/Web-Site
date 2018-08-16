@@ -31,11 +31,10 @@ else
 <link href="http://www.parkwoodcopiers.co.uk/style/print.css" media="print" rel="stylesheet" type="text/css" />
 <link href="http://www.parkwoodcopiers.co.uk/style/slider.css" media="screen" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 <script src="http://parkwoodcopiers.co.uk/scripts/jQuery.equal.columns.js" type="text/javascript"></script>
-<script src="http://parkwoodcopiers.co.uk/scripts/jQuery.menu.js" type="text/javascript"></script>
 
 <title><?php echo $pageTitle; ?> ParkWood Document Solutions</title>
+<link rel="icon" href="/images/favicon.ico">
 </head>
 <body>
 <div id="top"></div>

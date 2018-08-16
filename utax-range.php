@@ -1,6 +1,6 @@
 <!--Utax Range-->
 <?php
-$pageTitle = "The Utax Range";
+$pageTitle = "Utax Range:";
 $pageSummary = "The range of UTAX machines varies based on your needs, if you need a large A3 multi function device with up to 60 pages per minute and complex finishing options, there is a machine for you. Or if you simply want a small desktop machine which can print, scan, copy then there is a machine for you. All you need to do is determine what your needs are and choose the best match for you.";
 $metaKeywords = "UTAX printer, utax copier, utax scanner, utax fax machine, desktop mfp, utax desktop, utax multi function device, colour printers.";
 $metaDescription = "The range of UTAX machines varies based on your needs, if you need a large A3 multi function device with up to 60 pages per minute and complex finishing options, there is a machine for you. Or if you simply want a small desktop machine which can print, scan, copy then there is a machine for you. All you need to do is determine what your needs are and choose the best match for you.";

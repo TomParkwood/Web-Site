@@ -1,6 +1,6 @@
 <!--A3 Utax-->
 <?php
-$pageTitle = "A3 Utax";
+$pageTitle = "A3 Utax:";
 $pageSummary = "A range of five SRA3 machine with varying speeds from 25 pages per minute all the way up to 60 pages per minute, with plenty of finishing and software options available.";
 $metaKeywords = "2506ci, 3206ci, 4006ci, 5006ci, 6006ci, UTAX, Photocopier, banner printer, folding unit, internal finisher, utax 2506ci, utax 3206ci, utax 4006ci, utax 5006ci, utax 6006ci.";
 $metaDescription = "The A3 range of machines by UTAX offer up to 60 pages per minute printing and many different finishing options so you will be guaranteed to find the machine which suits your needs.";

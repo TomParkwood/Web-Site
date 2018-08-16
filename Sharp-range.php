@@ -1,6 +1,6 @@
 <!--Sharp Range-->
 <?php
-$pageTitle = "The Sharp Range";
+$pageTitle = "Sharp Range:";
 $pageSummary = "The four different ranges currently offered by Sharp, with machines going from smaller desktop machines all the way to high speed machines with up to 75 pages per minute";
 $metaKeywords = "Keywords";
 $metaDescription= "Description";

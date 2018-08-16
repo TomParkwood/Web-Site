@@ -1,5 +1,5 @@
 <?php
-$pageTitle="Sharpdesk";
+$pageTitle="Sharpdesk:";
 $pageSummary="Sharpdesk allows you to take control over your scanned documents by making them OCR compatible and automatically place them into the correct folders. Find out more information about Sharpdesk and how it can benefit you.";
 $metaKeywords="Sharp Desk, sharpdesk, ocr, scanned documents, document thumbnails, editing scans, edit scans, image editor, optical character recognition.";
 $metaDescription="Sharpdesk allows you to take control over your scanned documents by making them OCR compatible and automatically place them into the correct folders. Find out more information about Sharpdesk and how it can benefit you.";

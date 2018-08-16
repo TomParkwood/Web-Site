@@ -1,6 +1,6 @@
 <!--PaperCut-->
 <?php
-$pageTitle = "PaperCut";
+$pageTitle = "PaperCut:";
 $pageSummary = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
 $metaKeywords = "PaperCut MF, PaperCut NG, print tracking, track prints, follow me printing, print authentication";
 $metaDescription = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";

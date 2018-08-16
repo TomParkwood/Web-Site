@@ -1,6 +1,6 @@
 <!--Polaris-->
 <?php
-$pageTitle = "Griffin Range";
+$pageTitle = "Polaris Range:";
 $pageSummary = "Summary";
 $metaKeywords = "Keywords";
 $metaDescription = "description";

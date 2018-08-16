@@ -1,6 +1,6 @@
 <?php
-$pageTitle="Services:";
-$pageSummary="ParkWood Document Solutions provide a range of services aimed at helping you improve costs and workflow.";
+$pageTitle="GDPR:";
+$pageSummary="General Data Protection Regulation in regards to Parkwood Document Solutions";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

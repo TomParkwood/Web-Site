@@ -1,5 +1,5 @@
 <?php
-$pageTitle="Document Management";
+$pageTitle="Document Management:";
 $pageSummary="For any organization, extending information access can be a challenge. Yet it's the key to increasing profitability, maximizing productivity and reducing operating costs.";
 $metaKeywords = "Electronic Document Management,Document Managemen,Invu,Laserfiche,Document Management Systems,Hampshire,Dorset,Wiltshire,Egland,UK";
 $metaDescription = "We supply, install, maintain and, most importantly, monitor the performance of electronic document management systems both locally across Hampshire Dorset Wiltshire and nationally from a variety of software manufacturers";

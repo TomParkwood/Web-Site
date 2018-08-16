@@ -1,6 +1,6 @@
 <!-- Big Pad -->
 <?php
-$pageTitle = "Sharp Big Pad";
+$pageTitle = "Sharp Big Pad:";
 $pageSummary = "With the Big Pad range from Sharp you can make your meetings more interactive and user friendly. By allowing for up to 50 devices to be wirelessly connected to it, so it can be a truely collaborative experience. Sizes ranging from 40 inch all the way up to 80 inch, so it is perfect for a meeting room all the way to a big classroom.";
 $metaKeywords = "Sharp Big Pad, Big Pad, Sharp Screen, Touch Screen, Meeting Room Screen, Meeting Room Touch Screen, PN-40TC1, PN-50TC1, PN-60SC5, PN-60TB3, PN-60TW3A, PN-65SC1, PN-70TB3, PN-70SC5, PN-70TW3A, PN-80SC5, PN-80TC3A, PN-70TH5, PN40TC1, PN50TC1, PN60SC5, PN60TB3, PN60TW3A, PN65SC1, PN70TB3, PN70SC5, PN70TW3A, PN80SC5, PN80TC3A, PN70TH5";
 $metaDescription = "With the Big Pad range from Sharp you can make your meetings more interactive and user friendly. By allowing for up to 50 devices to be wirelessly connected to it, so it can be a truely collaborative experience. Sizes ranging from 40 inch all the way up to 80 inch, so it is perfect for a meeting room all the way to a big classroom.";

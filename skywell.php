@@ -1,6 +1,6 @@
 <!--Skywell-->
 <?php
-$pageTitle= "Skywell";
+$pageTitle= "Skywell:";
 $pageSummary="Skywell allows you to make drinkable water out of thin air, no plumbing or plastic required.";
 $metaKeywords="Skywell, Sharp Skywell, Water Machine, Plastic free water, no plumbing water machine, water from air, pure water";
 $metaDescription="Skywell is a revolutionary product offered by Sharp. Which allows you to make water out of thin air, no plumbing required, no plastic bottles of water to store. Pure water which can be as cold or hot as you would want it to be.";

@@ -1,6 +1,6 @@
 <!-- Sharp interactive nursery table-->
 <?php
-$pageTitle = "Interactive Nursery Table";
+$pageTitle = "Interactive Nursery Table:";
 $pageSummary = 'The Sharp Nursery Table is a 40" tablet which runs completely off of batteries, so it is ideal for a early learning environment. With its included educational material and games with up to 4 users at a time which will help to teach sharing and cooperation.';
 $metaKeywords = "Nursery Table, Interactive Table, Sharp Nursery table, 40 inch tablet, table tablet, educational tablet, battery tablet, multi user tablet.";
 $metaDescription = 'The Sharp Nursery Table is a 40" tablet which runs completely off of batteries, so it is ideal for a early learning environment. With its included educational material and games with up to 4 users at a time which will help to teach sharing and cooperation.';

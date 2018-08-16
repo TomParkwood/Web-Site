@@ -1,6 +1,6 @@
 <!--Software-->
 <?php
-$pageTitle = "Software";
+$pageTitle = "Software:";
 $pageSummary = "Printing software is all about making your life easier and more productive. Print software comes in all sorts, some serves one main purpose whereas some are a suite and do basically anything you would want a printer to do. Read more about the different software utilities which we can offer and choose which is best for you.";
 $metaKeywords = "Drivve Image, Invu DM, Invu Document Management, Drivve, Drive Image, Laserfiche, Laser fish, PaperCut, PaperCut MF, PaperCut NG, Sharpdesk, Sharp desk, Document Management, Print Audit, Print Tracking, Printing Audit.";
 $metaDescription = "Printing software is all about making your life easier and more productive. Print software comes in all sorts, some serves one main purpose whereas some are a suite and do basically anything you would want a printer to do. Read more about the different software utilities which we can offer and choose which is best for you.";

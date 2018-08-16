@@ -1,6 +1,6 @@
 <!--InvuDM-->
 <?php
-$pageTitle = "Invu Document Mangement";
+$pageTitle = "Invu:";
 $pageSummary = "Summary";
 $metaKeywords = "Keywords";
 $metaDescription = "Description";
@@ -34,4 +34,4 @@ include('include/pds-header.php');
 </div>
 <?php
 include('include/pds-footer.php');
-?>  
+?>
