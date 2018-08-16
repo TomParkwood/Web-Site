@@ -18,12 +18,12 @@
 		</button>
 		<div class="dropdown-content">
 			<!--<a href="copiers-printers.php">Photocopiers</a>-->
-			<a href="photocopiers.php">Photocopiers</a>
-			<a href="document-management.php">Document Management</a>
-			<a href="print-control.php">Print Control</a>
-			<a href="skywell.php">Skywell</a>
 			<a href="Nursery-Table.php">40" Interactive Tablet</a>
+			<a href="document-management.php">Document Management</a>
+			<a href="photocopiers.php">Photocopiers</a>
+			<a href="print-control.php">Print Control</a>
 			<a href="big-pad.php">Sharp Big Pads</a>
+			<a href="skywell.php">Skywell</a>
 		</div>
 	</div>
 	<div class="dropdown">

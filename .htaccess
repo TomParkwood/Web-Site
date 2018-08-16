@@ -1,3 +1,7 @@
+#404 redirects
+DirectoryIndex index.php
+ErrorDocument 404 http://parkwoodcopiers.co.uk/error-404.php
+
 ##Caching##
 <IfModule mod_expires.c>
 ExpiresActive On
@@ -16,3 +20,13 @@ ExpiresByType application/json "access plus 1 month"
 ExpiresDefault "access plus 1 month"
 </IfModule>
 ##Caching##
+
+#GZIP
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE application/javascript application/x-javascript application/json text/x-javascript text/javascript text/css application/js text/js
+#Remove browser bugs? not sure if needed
+BrowserMatch ^Mozilla/4 zip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+Header append Vary User-Agent
+</IfModule>
