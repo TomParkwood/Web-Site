@@ -18,10 +18,10 @@ include('include/pds-header.php');
     <h3>General Information</h3>
       <table style="width:100%;">
         <tr>
-          <td style="width:75%;">The A4 Colour range of Utax machines offer a small but sturdy desktop MFP, which packs all of the features and functionality of machines twice its size.<br>
+          <td style="width:70%;">The A4 Colour range of Utax machines offer a small but sturdy desktop MFP, which packs all of the features and functionality of machines twice its size.<br>
             With printing speeds of up to 26 pages per minute and scanning speeds of up to 30 pages per minute, it will keep up with the much bigger machines.<br>
             As well as the standard features you may expect from an MFP this model also packs faxing, Wi-Fi and a free mobile app which makes printing from iOS and Android simple.</td>
-          <td style="width:25%;">Image goes here</td>
+          <td style="width:30%;"><img src="images/utax/c2655.jpg" style="width:100%"></td>
         </tr>
       </table>
       <br>

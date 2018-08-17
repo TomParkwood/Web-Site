@@ -1,9 +1,9 @@
 <!--Polaris-->
 <?php
 $pageTitle = "Polaris Range:";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "description";
+$pageSummary = "The Polaris range of machines by Sharp offer professional finishing options and high productivity, with addons to make it suit your needs. Enjoy being able to make professional looking documents in-house how and when you want them.";
+$metaKeywords = "mx-6580n, mx6580n, mx-7580n, mx7580n, mx-6580n toner, mx6580n toner, mx-6580n black toner, mx6580n black toner, mx-7580n black toner, mx7580n black toner, mx-6580n cyan toner, mx6580n cyan toner, mx-7580n cyan toner, mx7580n cyan toner, mx-6580n magenta toner, mx6580n magenta toner, mx-7580n magenta toner, mx7580n magenta toner, mx-6580n yellow toner, mx6580n yellow toner, mx-7580n yellow toner, mx7580n yellow toner, mx-6580n drum, mx-7580n drum, mx-6580n fuser, mx-7580n fuser, mx-6580n staples, mx-7580n staples, mx-62gtba, mx-62gtcb, mx-62gtmb, mx-62gtyb, mx-700hb, mx-scx1, mx-scx2, ar-sc2, ar-sc3, ar-sv1, mx-62grsa, mx-751u1, mx-751u2, mx-752fu";
+$metaDescription = "The Polaris range of machines by Sharp offer professional finishing options and high productivity, with addons to make it suit your needs. Enjoy being able to make professional looking documents in-house how and when you want them.";
 include('include/pds-main.php');
 include('include/pds-header.php');
  ?>
@@ -18,9 +18,9 @@ include('include/pds-header.php');
     <h3>General Information</h3>
       <table style="width:100%;">
         <tr>
-          <td style="width:75%;">The Polaris range is a high performance A3 colour MFP designed for the high end office walk-up environment that requires professional finishing, sophisticated workflow and high productivity. Capable of up to 75 pages per minute in colour and black &amp; white with true 1200 x 1200 dpi resolution, fast 200 ipm (2 sided) colour scan speed and standard 250 sheet DSPF. This MFP deliverys high document quality, flexibility and enhanced reliability.<br>
+          <td style="width:70%;">The Polaris range is a high performance A3 colour MFP designed for the high end office walk-up environment that requires professional finishing, sophisticated workflow and high productivity. Capable of up to 75 pages per minute in colour and black &amp; white with true 1200 x 1200 dpi resolution, fast 200 ipm (2 sided) colour scan speed and standard 250 sheet DSPF. This MFP deliverys high document quality, flexibility and enhanced reliability.<br>
             With the embedded Fiery print server option this MFP becomes a powerful integrated solution for managing professional in-house and busy on-demand printing. Features such as the cutting edge user interface designed for easy operation; extra-large paper capacity and intermediate toner hopper - perfect for long runs and continual use during toner replacement; an impressive range of high volume professional finishing options; enhanced capabilities for office solutions and network and data protection for secure information sharing, makes the Polaris range perfect for anyone who's serious about creating professional looking documents in-house with effortless operation and ease-of-use.</td>
-          <td style="width:25%;">Image goes here</td>
+          <td style="width:30%;"><img src="images/sharp/polaris.jpg" style="width:100%"></td>
         </tr>
       </table>
       <br>

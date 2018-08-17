@@ -1,9 +1,9 @@
 <!--InvuDM-->
 <?php
 $pageTitle = "Invu:";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "Description";
+$pageSummary = "Invu Document Management allows you to take control over your documents and have them stored in a centralised area, which is better for everyone because you can be assured that you are always working on the latest copies of documents and that a newer one isn't on someones computer and not being shared to everyone else.";
+$metaKeywords = "Invu, Digital Records, Document Management, Invu addons, document audit trail, reduce storage space, remote access, document management byod, remote working, process automation";
+$metaDescription = "Invu Document Management allows you to take control over your documents and have them stored in a centralised area, which is better for everyone because you can be assured that you are always working on the latest copies of documents and that a newer one isn't on someones computer and not being shared to everyone else.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

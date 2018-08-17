@@ -413,6 +413,11 @@ div#head-nav li.selected a:hover
 
 }
 
+td
+{
+	font-family: Arial;
+}
+
 /*Table formatting for sharp and utax range
 Not sure why but still have to use border="1" otherwise it only does the outside*/
 table.productTable {

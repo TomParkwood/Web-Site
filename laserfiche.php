@@ -1,9 +1,9 @@
 <!--Laserfiche-->
 <?php
 $pageTitle = "Laserfiche:";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "description";
+$pageSummary = "Laserfiche allows you to manage your documents better by allowing for a more centralised copy and better searching, so you can always find the documents that you need to continue with your work. With Laserfiche's centre hub you can even access your work documents on the go from anywhere with an internet connection.";
+$metaKeywords = "Laserfiche, Document Management, Laser fiche, Laserfish, Laser fish, laserfiche document management, laserfiche ocr, digitize documents, reduce document duplication, document web portals, microsoft office addons";
+$metaDescription = "Laserfiche allows you to manage your documents better by allowing for a more centralised copy and better searching, so you can always find the documents that you need to continue with your work. With Laserfiche's centre hub you can even access your work documents on the go from anywhere with an internet connection.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

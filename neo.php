@@ -2,8 +2,8 @@
 <?php
 $pageTitle = "Neo Range:";
 $pageSummary = "Summary";
-$metaKeywords = "keywords";
-$metaDescription = "description";
+$metaKeywords = "Sharp mxc250 toner,Sharp mx-c250 toner, Sharp mxc250 ink, Sharp mx-c250 ink, Sharp mxc250 black toner, sharp mxc250 black, mxc30gtb, mx-c30gtb, sharp mx-c30gtb, sharp mxc250 cyan toner, mx-c30gtc, mxc30gtc,  sharp mxc250 yellow toner, mx-c30gty, mxc30gty, sharp mxc250 magenta toner, mx-c30gtm, mxc30gtm, sharp mxc250 waste toner, mx-c30gvy, mxc30gvy, Sharp mxc300w toner, sharp mx-c300w toner, sharp mxc300w ink, sharp mx-c300w ink, sharp mxc300w black toner, sharp mx-c300w black toner, sharo mx-c300w cyan toner, sharp mxc300w cyan toner, sharp mx-c300w magenta toner, sharp mxc300w magenta toner, sharp mx-c300w yellow toner, sharp mxc300w yellow toner, mxc250 drum, mx-c250 drum, mx-c30dr, mxc300w drum, mx-c300w drum, mxc250 developer, mx-c250 developer, mx-c300w developer, mxc300w developer, mx-c30gvb, mx-c250 fuser, mxc250 fuser, mx-c300w fuser, mxc300w fuser, mx-c30fu, mx-c250 transfer, mxc250 transfer, mx-c300w transfer, mxc300w transfer, mx-c30u1, Mx-cs11, mxc250 paper tray, mx-c250 paper tray, mx-c300w paper tray, mxc300w paper tray.";
+$metaDescription = "The Neo range of machines by Sharp offer MFP quality and features in a small package. Printing, Copying, Scanning and Faxing all as standard with the option of a service contract makes it perfect for small businesses.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -18,12 +18,12 @@ include('include/pds-header.php');
     <h3>General Information</h3>
       <table style="width:100%;">
         <tr>
-          <td style="width:75%;">The Neo range is a 4-in-1 colour MFP that offers a host of productivity features and functionality required by any SOHO, small workgroup and mid or large offices that require a desktop or cabinet-top MFP.<br>
+          <td style="width:70%;">The Neo range is a 4-in-1 colour MFP that offers a host of productivity features and functionality required by any SOHO, small workgroup and mid or large offices that require a desktop or cabinet-top MFP.<br>
             With its powerful print, copy scan and fax capabilities as standard it is ideal for handling the everyday workflow demands of any small workgroup environment; and thanks to its compact design it can fit into any small space.<br>
             The Neo range has an output speed of up to 30ppm in both Colour and Black &amp; White and with automatic duplex printing can prodice high quality business documents in 600x600 dpi- plus with an easy-to-read LCD control panel with programmable function keys and the two-component development system it delivers quality that's sure to impress.<br>
             Full colour network scanning is standard with scan to email, network folder and FTP to speed up communications. Electronic sorting helps improve productivity an a USB port makes scanning to / direct printing from the USB easy. Other useful features include full fax functionality (with PC-Fax and inbound routing for emailing faxes to their correct destination) and ID Card Copy.<br>
             Designed with low power consumption and a short warm up time, this machine is kind to the environment too; by optimising toner usage with the Toner Save mode and also complying with the latest Energy Star criteria.</td>
-          <td style="width:25%;">Image</td>
+          <td style="width:30%;"><img src="images/sharp/neo.jpg" style="width:100%"></td>
         </tr>
       </table>
       <br>

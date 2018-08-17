@@ -2,8 +2,8 @@
 <?php
 $pageTitle = "Sharp Range:";
 $pageSummary = "The four different ranges currently offered by Sharp, with machines going from smaller desktop machines all the way to high speed machines with up to 75 pages per minute";
-$metaKeywords = "Keywords";
-$metaDescription= "Description";
+$metaKeywords = "Sharp Griffin, Griffin range, MX-3050N, mx3050n, mx-3550n, mx3550n, mx-4050n, mx4050n, mx-5050n, mx5050n, mx-6050n, mx6050n, mx-3050v, mx3050v, mx-3060v, mx3060v, mx-3070v, mx3070v, mx-3550v, mx3550v, mx-3560v, mx3560v, mx-3570v, mx3570v, mx-4050v, mx4050v, mx-4060v, mx4060v, mx-4070v, mx4070v, mx-5050v, mx5050v, mx-5070v, mx5070v, mx-6050v, mx6050v, mx-6070v, mx6070v";
+$metaDescription= "Find out about the new ranges of Sharp MFPs which we offer, which could vastly improve your productivity and save you money. With machines from small A4 MFPs to 75 pages per minute you will find something to suit your needs.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

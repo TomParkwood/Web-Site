@@ -21,7 +21,7 @@ include('include/pds-header.php');
         <td style="width:50%;"><strong>The A3 Colour Range</stong></td>
       </tr>
       <tr>
-        <td><a href="a4utax.php"><img src="images/utax/C2655w.jpg"></a></td>
+        <td><a href="a4utax.php"><img src="images/utax/C2655.jpg"></a></td>
         <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
       </tr>
       <tr>

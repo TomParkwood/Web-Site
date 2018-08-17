@@ -18,12 +18,12 @@ include('include/pds-header.php');
     <h2>General Information</h2>
       <table style="width:100%;">
         <tr>
-          <td style="width:75%;">Flexible A3 colour multifunctionals are at the top of the wish list in many modern offices and need to satisfy as many different user requirements as possible. That means that a high level of user-friendliness is essential.<br>
+          <td style="width:70%;">Flexible A3 colour multifunctionals are at the top of the wish list in many modern offices and need to satisfy as many different user requirements as possible. That means that a high level of user-friendliness is essential.<br>
             The multifunctional A3 colour range has been specifically developed to meet these requirements.<br>
             Convincing colour documents are printed with a speed of up to 60 pages per minute at 1,200 dpi resolution. Various innovations in the fields of quality, productivity, security and energy efficiency comply with modern user requirements. The menus of the large colour touch panel are intuitive to use. Moreover, its paper management offers high flexibility due to the possibility of printing onto paper weights up to 300 g/m² and paper sizes up to SRA3 from the cassette.<br>
             Additionally, with a finisher the user can enhance the quality of his documents by printing them as a brochure. The system conserves resources by allowing blank pages to be automatically filtered out The integrated HyPAS interface allows you to easily integrate optional software solutions to optimize specific processes.
           </td>
-          <td style="width:25%;">Image goes here.</td>
+          <td style="width:30%;"><img src="images/utax/6006ci.jpg" style="width:100%"></td>
         </tr>
       </table>
       <br>

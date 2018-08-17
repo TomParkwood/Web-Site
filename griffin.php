@@ -1,9 +1,9 @@
 <!--Griffin-->
 <?php
 $pageTitle = "Griffin Range:";
-$pageSummary = "Summary";
-$metaKeywords = "keywords";
-$metaDescription = "description";
+$pageSummary = "The Griffin range of machines by Sharp offer a wide range of speeds and functionality so they can easily adapt to your needs, with up to 60 pages per minute it can keep up with even the most demanding of print jobs. ";
+$metaKeywords = "mx-3050n toner, mx-3050v toner, mx-3060v toner, mx-3070v toner, mx-3550v toner, mx-3560v toner, mx-3570v toner, mx-4050v toner, mx-4060v toner, mx-4070v toner, mx-5050v toner, mx-5070v toner, mx-6050v toner, mx-6070v toner, mx-3050n black toner, mx-3050v black toner, mx-3060v black toner, mx-3070v black toner, mx-3550v black toner, mx-3560v black toner, mx-3570v black toner, mx-4050v black toner, mx-4060v black toner, mx-4070v black toner, mx-5050v black toner, mx-5070v black toner, mx-6050v black toner, mx-6070v black toner, mx-3050n cyan toner, mx-3050v cyan toner, mx-3060v cyan toner, mx-3070v cyan toner, mx-3550v cyan toner, mx-3560v cyan toner, mx-3570v cyan toner, mx-4050v cyan toner, mx-4060v cyan toner, mx-4070v cyan toner, mx-5050v cyan toner, mx-5070v cyan toner, mx-6050v cyan toner, mx-6070v cyan toner, mx-3050n yellow toner, mx-3050v yellow toner, mx-3060v yellow toner, mx-3070v yellow toner, mx-3550v yellow toner, mx-3560v yellow toner, mx-3570v yellow toner, mx-4050v yellow toner, mx-4060v yellow toner, mx-4070v yellow toner, mx-5050v yellow toner, mx-5070v yellow toner, mx-6050v yellow toner, mx-6070v yellow toner, mx-3050n magenta toner, mx-3050v magenta toner, mx-3060v magenta toner, mx-3070v magenta toner, mx-3550v magenta toner, mx-3560v magenta toner, mx-3570v magenta toner, mx-4050v magenta toner, mx-4060v magenta toner, mx-4070v magenta toner, mx-5050v magenta toner, mx-5070v magenta toner, mx-6050v magenta toner, mx-6070v magenta toner, mx-3050n staples, mx-3050v staples, mx-3060v staples, mx-3070v staples, mx-3550v staples, mx-3560v staples, mx-3570v staples, mx-4050v staples, mx-4060v staples, mx-4070v staples, mx-5050v staples, mx-5070v staples, mx-6050v staples, mx-6070v staples, mx-60gtba, mx-60gtca, mx-60gtma, mx-60gtya, mx-607hb, mx-scx1, mx-sc11, mx-sc12, ar-sc2, ar-sv1, mx-60gvba, mx-40gusa, mx-60gusa, mx-407fu, mx-607fu, mx-607u1, mx-608u1.";
+$metaDescription = "The Griffin range of machines by Sharp offer a wide range of speeds and functionality so they can easily adapt to your needs, with up to 60 pages per minute it can keep up with even the most demanding of print jobs. ";
 include('include/pds-main.php');
 include('include/pds-header.php');
  ?>
@@ -18,12 +18,12 @@ include('include/pds-header.php');
     <h3>General Information</h3>
       <table style="width:100%;">
         <tr>
-          <td style="width:75%;">The Griffin range of A3 colour devices offer a range of options and upgrades making it adaptable to your future needs. The optimise productivity and are ideal for any busy workgroup that needs high performance, high quality colour and versatility.<br>
+          <td style="width:70%;">The Griffin range of A3 colour devices offer a range of options and upgrades making it adaptable to your future needs. The optimise productivity and are ideal for any busy workgroup that needs high performance, high quality colour and versatility.<br>
             The standard Print Release function allows users to send and store documents to a main MFP, which acts as a server, allowing print jobs to be securely released at up to five connected network-ready devices. Optional workflow enhancements include Single Sign-On cloud connectivity, mobile connectivity via Wi-Fi and USB direct printing of MS Office files.<br>
             A tiltable 10.1" colour LCD touchscreen provides the ability to drag and drop frequently used icons for simple customisation of the home screen. Everyday operation is simple and intuitive; just touch, tap, pinch and spread or swipe for instant access to every feature, function and setting including an advanced preview feature.<br>
             Print and copy sppeds of up to 60 pages per minute in colour and black &amp; white, a built-in 100-sheet Reversing Single Pass Feeder and a scan speed of up to 80 ipm, all help boost efficiency and productivity; while 600 x 600 dpi print resolution, combined with Sharp's auto process control and developer refresh system ensure consistently high image quality. A maximum paper capacity of 6,300 sheets and support for a wide range of media (up to SRA3 and 300gsm) enables this device to handle varied output requirements with ease. And a varied selection of finishing options such as saddle stiching, manual and stapleless stapling add further versatility.<br>
             The Energy Star certified devices uses Sharp's latest energy-saving technology. A rapid warm up time, low power consumption and low TEC value all aim to save money and support your environmental objectives. In addition, the automatic toner cartridge eject function ensures that all toner has beem consumed before it can be replaced, therby saving resources.</td>
-          <td style="width:25%;">Image goes here</td>
+          <td style="width:30%;"><img src="images/sharp/griffin.jpg" style="width:100%"></td>
         </tr>
       </table>
       <br>

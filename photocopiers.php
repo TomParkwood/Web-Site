@@ -2,8 +2,8 @@
 <?php
 $pageTitle="Photocopiers, Printers and MFDs:";
 $pageSummary="Multifunctional devices have evolved from photocopiers and have many areas of functionality, predominantly printing, faxing, scanning, the ability to e-mail documents and integration with other applciations";
-$metaKeywords="Keywords";
-$metaDescription="Description";
+$metaKeywords="Sharp Range, Sharp Griffin, Sharp Neo, Sharp Sphinx, Sharp Polaris, Utax Desktop, A4 Utax, A3 Utax";
+$metaDescription="The different ranges of photocopiers which we offer. The Sharp range from desktop MFDs all the way to 75 page per minute machines. The UTAX range which range from small desktop machines to 60 page per minute machines.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -48,7 +48,7 @@ include('include/pds-header.php');
             <td style="width:50%;"><strong><a href="a3utax.php">The A3 Colour Range</a></strong></td>
           </tr>
           <tr>
-            <td><a href="a4utax.php"><img src="images/utax/C2655w.jpg"></a></td>
+            <td><a href="a4utax.php"><img src="images/utax/C2655.jpg"></a></td>
             <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
           </tr>
         </table>

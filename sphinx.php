@@ -1,9 +1,9 @@
 <!--sphinx-->
 <?php
 $pageTitle = "Sphinx Range:";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "Description";
+$pageSummary = "The Sphinx range of machines by Sharp offer high performing and quality machines which can adapt to your needs, by offering stapling, folding and additional trays to make producing documents as simple as possible.";
+$metaKeywords = "mx-60gtba, mx-60gtca, mx-60gtma, mx-60gtya, mx-607hb, mx-scx1, mx-sc11, mx-sc12, ar-sc2, ar-sv1, mx-60gvba, mx-40gusa, mx-407fu, mx-607u1, mx-2630n toner, mx-2630n black toner, mx-2630n cyan toner, mx-2630n magenta toner, mx-2630n yellow toner, mx-2630n drum, mx-2630n fuser, mx-2630n transfer belt, mx-2630n transfer unit, mx-2630n staples.";
+$metaDescription = "The Sphinx range of machines by Sharp offer high performing and quality machines which can adapt to your needs, by offering stapling, folding and additional trays to make producing documents as simple as possible.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
@@ -18,13 +18,13 @@ include('include/pds-header.php');
     <h3>General Information</h3>
      <table style="width:100%;">
        <tr>
-         <td style = "width:75%;">The MX-2630N is ideal for any busy workgroup that needs a high performance, high quality colour and versatility. Offering a variety of innovative and producivity enhancing features including an intuitive user interface, a standard "Print Release" pull printing solution, high level security features as well as a range of connectivity options including cloud and mobile.<br>
+         <td style = "width:70%;">The MX-2630N is ideal for any busy workgroup that needs a high performance, high quality colour and versatility. Offering a variety of innovative and producivity enhancing features including an intuitive user interface, a standard "Print Release" pull printing solution, high level security features as well as a range of connectivity options including cloud and mobile.<br>
             The standard Print Release function enables users to send and store documents in the main MFP, which acts as a server, allowing print jobs to be securely released at up to five networed devices. Optional workflow enhancing features include Single Sign-On cloud connectivity, mobile connectivity via Wi-Fi and NFC, and USB direct printing of MS Office files.<br>
             The standard 7" multi-touch colour LCD control panel provides the ability to drag and drop frequently used icons for simple customisation of the home screen. Everyday operation is simple and intuitive; just touch, tap, pinch and spread or swipe for instant access to every feature, function and setting including an advanced preview feature.<br>
             Print and copy speeds of up to 26 ppm in colour and black &amp; white, a built-in 100-sheet Reversing Feeder and a scan speed of up to 80 ipm all help to boost efficiency and productivity; while 600 x 600 dpi print resolution, our auto process control and developer refresh system ensure consistently high image quality. A maximum paper capacity of 6,300 sheets and support for a wide range of media (up to SRA3 and 300 gsm) enables this device to handle varied output requirements with ease. Plus, a variety of finishing options such as saddle stitching, manual and stapleless stapling add further versatility.<br>
             The MX-2630N has layer upon layer of robust but unobtrusive security, with TSL/ISL, IPsec and network protocol filtering. Other standard security features include secure erasure, strong encryption and administrator password protection. Plus, S/MIME for encrypting emails and digitally signing them. For even greater security the optional Data Security Kit (DSK) gives your customers a full suite of high security features including the Document Control feature, and the advanced DSK mode which enables an even higher protection profile.<br>
             The Energy Star-certified MX-2630N uses Sharp's latest energy-saving technology. Our low melt toner and quick-heating fuser unit reduce power consumption and you can configure automatic power on/off settings for further savings. In addition, the automatic toner cartridge eject function ensures all toner has been consumed, thereby saving resources.</td>
-         <td style = "width:25%;">Image goes here.</td>
+         <td style = "width:30%;"><img src="images/sharp/sphinx.jpg" style="width:100%"></td>
        </tr>
      </table>
      <br>
