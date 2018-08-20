@@ -15,7 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>What is a Big Pad?</h1>
-    <p>If you;ve ever been in a classroom or attended a business meeting, you'll be familiar with the whiteboard - sometimes little more than a mirror image of the old-fashioned blackboard.<br>
+    <p>If you've ever been in a classroom or attended a business meeting, you'll be familiar with the whiteboard - sometimes little more than a mirror image of the old-fashioned blackboard.<br>
       Things have come a long way since then, of course. Thanks to modern technology, the whiteboard converted to a large computer screen and, connected to a PC, laptop or projector, became interactive.<br>
       But developement has not stopped there. Several years ago now, the electronics company Sharp created the Big Pad - significantly expanding the interactive capabilities and quality of the whiteboard, so that it behaved just like a giant tablet or smartphone hung on the wall.<br>
       Big Pads are large interactive touchscreens, which can be wirelessly connected to the internet and are capable of being connected to other devices - from PCs to laptops, or even smartphones and tablets.<br>
