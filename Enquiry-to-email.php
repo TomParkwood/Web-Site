@@ -5,10 +5,11 @@ if(!isset($_POST['submit']))
 	echo "error; you need to submit the form!";
 }
 $name = $_POST['name'];
+$company = $_POST['company'];
 $visitor_email = $_POST['email'];
-$message = $_POST['manufacturer'];
-$message2 = $_POST['model'];
-$message3 = $_POST['description'];
+$items = $_POST['Array'];
+$further = $_POST['further'];
+
 
 //Validate first
 if(empty($name)||empty($visitor_email))
@@ -23,10 +24,19 @@ if(IsInjected($visitor_email))
     exit;
 }
 
+
+
 $email_from = $visitor_email;//<== update the email address
-$email_subject = "New Website Service Email";
-$email_body = "You have received a new message from $name.\n".
-    "Here is the message:\r\n $message \r\n $message2 \r\n $message3\r\n".
+$email_subject = "New Website Meter Reading";
+$email_body = "You have received a enquiry from $name @ $company.\n".
+    "Here is what they are interested in:\n"
+//Get the checkboxes which are clicked
+$N = count($items);
+for($i=0; $i < $N; $i++)
+{
+	$email_body .= "  ".($items[$i])."\n";
+}
+$email_body .= "Any further information: $further.\n"
 
 $to = "tom@parkwoodsolutions.com";//<== update the email address
 $headers = "From: $visitor_email \r\n";

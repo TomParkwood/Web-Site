@@ -5,10 +5,13 @@ if(!isset($_POST['submit']))
 	echo "error; you need to submit the form!";
 }
 $name = $_POST['name'];
+$company = $_POST['company'];
 $visitor_email = $_POST['email'];
-$message = $_POST['manufacturer'];
-$message2 = $_POST['model'];
-$message3 = $_POST['description'];
+$manufacturer = $_POST['manufacturer'];
+$model = $_POST['model'];
+$serial = $_POST['serial'];
+$mono = $_POST['mono'];
+$colour = $_POST['colour'];
 
 //Validate first
 if(empty($name)||empty($visitor_email))
@@ -24,9 +27,11 @@ if(IsInjected($visitor_email))
 }
 
 $email_from = $visitor_email;//<== update the email address
-$email_subject = "New Website Service Email";
-$email_body = "You have received a new message from $name.\n".
-    "Here is the message:\r\n $message \r\n $message2 \r\n $message3\r\n".
+$email_subject = "New Website Meter Reading";
+$email_body = "You have received a new meter reading from $name @ $company.\n".
+    "Here is the machine. $manufacturer $model $serial.\n".
+		"Mono Count: $mono. \n".
+		"Colour Count: $colour. \n".
 
 $to = "tom@parkwoodsolutions.com";//<== update the email address
 $headers = "From: $visitor_email \r\n";
