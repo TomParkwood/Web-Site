@@ -7,7 +7,7 @@ if(!isset($_POST['submit']))
 $name = $_POST['name'];
 $company = $_POST['company'];
 $visitor_email = $_POST['email'];
-$items = $_POST['Array'];
+$items = $_POST['Array[]'];
 $further = $_POST['further'];
 
 
@@ -31,6 +31,8 @@ $email_subject = "New Website Meter Reading";
 $email_body = "You have received a enquiry from $name @ $company.\n".
     "Here is what they are interested in:\n"
 //Get the checkboxes which are clicked
+
+//Error should be on line 36, it cannot call $N, so not sure if i need to define it in another place before i can use it to store the array.
 $N = count($items);
 for($i=0; $i < $N; $i++)
 {
