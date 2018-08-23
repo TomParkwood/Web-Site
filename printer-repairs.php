@@ -36,48 +36,37 @@ include('include/pds-header.php');
 	?>
 	<div id="equal-1" class="width-three">
 		<h2>Printer Repairs Form</h2>
-			<form acton="form-submit.php?form=service2" method="post" name="servicecontactform">
-				<p class="bold">If you would like to enquire about a printer repair please fill out the following details.</p>
-				<table width=100%>
-					<tr>
-						<td class="contact-left">
-							<label class="required">Name*</label>
-						</td>
-						<td class="contact-right">
-							<input maxlength="50" name="full_name" size="50" type="text"/>
-						</td>
-					</tr>
-					<tr>
-						<td class="contact-left">
-							<label class="required">E-Mail Address*</label>
-						</td>
-						<td class="contact-right">
-							<input maxlength="100" name="email_address" size="50" type="text"/>
-						</td>
-					</tr>
-				</table>
-				<p class="bold">To help us, help you. Please fill out as much details about the problem as possible.</p>
-				<table width=100%>
-					<tr>
-						<td class="contact-left">
-							<label>Manufacturer</label>
-						</td>
-						<td class="contact-right">
-							<input maxlength="100" name="manufacturer" size="50" type="text"/>
-						</td>
-					</tr>
-					<tr>
-						<td class="contact-left">
-							<label>Model</label>
-						</td>
-						<td class="contact-right">
-							<input maxlength="100" name="model" size="50" type"text"/>
-						</td>
-					</tr>
-				</table>
-				<p class="bold">Brief description of the problem</p>
-				<p><textarea cols="90" name="problem" rows="6"></textarea></p>
-				<p class="center"><input type="submit" value="Submit"/><input type="reset"/></p>
+		<form method="post" name="myemailform" action="Service-to-email.php">
+			<p>
+				<label for='name'>Enter Name: </label><br>
+				<input type="text" name="name">
+			</p>
+			<p>
+				<label for='email'>Enter Email Address: </label><br>
+				<input type="text" name="email">
+			</p>
+			<p><strong>To help us, help you. Please fill out as much details about the problem as possible.</strong></p>
+			<p>
+				<label for='manufacturer'>Manufacturer: </label><br>
+				<input type="text" name="manufacturer">
+			</p>
+			<p>
+				<label for='model'>Model: </label><br>
+				<input type="text" name="model">
+			</p>
+			<p>
+				<label for='description'>Brief description of the problem:</label><br>
+				<textarea name="description"></textarea>
+			</p>
+			<input type="submit" name='submit' value="Submit">
+		</form>
+		<script language="JavaScript">
+			//Validating the name and email address
+			var frmvalidator = new Validator("myemailform");
+			frmvalidator.addValidation("name","req","Please provide your name");
+			frmvalidator.addValidation("email","req","Please provide your email address");
+			frmvalidator.addValidation("email","email","Please enter a valid email address");
+		</script>
 	</div>
 </div>
 <?php

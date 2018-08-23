@@ -27,16 +27,16 @@ include('include/pds-header.php');
 			<p><strong>Please select any of the following products &amp; services that you would like more information about: </strong></p>
 			<p>
 				<label for= 'Multifunction'>Multifunctional Printers, Print / Copy / Scan: </label>
-				<input name="Array[]" type="checkbox" value="Multifunction"/>
+				<input name="Array[]" type="checkbox" value="Multi function"/>
 			<br>
 				<label for= 'PrintControl'>Print Control & Management Solutions: </label>
-				<input name="Array[]" type="checkbox" value="PrintControl"/>
+				<input name="Array[]" type="checkbox" value="Print Control"/>
 			<br>
 				<label for= 'Electronic Document'>Electronic Document &amp; Records Management Software: </label>
-				<input name="Array[]" type="checkbox" value="ElectronicDocument"/>
+				<input name="Array[]" type="checkbox" value="Electronic Document"/>
 			<br>
 				<label for= 'PrintAudit'>Print Audit: </label>
-				<input name="Array[]" type="checkbox" value="PrintAudit"/>
+				<input name="Array[]" type="checkbox" value="Print Audit"/>
 			<br>
 				<label for= 'Servicing'>Servicing &amp; Support: </label>
 				<input name="Array[]" type="checkbox" value="Servicing"/>
