@@ -27,8 +27,8 @@ if(IsInjected($visitor_email))
 
 
 $email_from = $visitor_email;//<== update the email address
-$email_subject = "New Website Meter Reading";
-$message = "You have received a enquiry from $name @ $company.\n".
+$email_subject = "New Website General Enquiry";
+$email_body = "You have received a enquiry from $name @ $company.\n".
     "Here is what they are interested in:\n";
 //Get the checkboxes which are clicked
 
@@ -39,8 +39,7 @@ for($i=0; $i < $n; $i++)
 	$email_body .= "  ".($items[$i])."\n";
 }
 
-$message2 = "Any further information: $further.\n";
-$email_body = "$message  $message2";
+$email_body .= "Any further information: $further.\n";
 $to = "tom@parkwoodsolutions.com";//<== update the email address
 $headers = "From: $visitor_email \r\n";
 $headers .= "Reply-To: $visitor_email \r\n";
