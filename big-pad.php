@@ -31,9 +31,9 @@ include('include/pds-header.php');
       <p>With all screens boasting touch screen with fast and responsive Infrared (IR) 10<sup>1</sup> point touch which means that up to four users can be interacting with one screen at a time. As well as High Definition 1080p displays <sup>2</sup>.</p>
 
     </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
+    <?php
+    include('include/pds-sidebar.php');
+     ?>
   <div id="equal-1" class="width-three">
     <table>
       <tbody>
@@ -205,6 +205,30 @@ include('include/pds-header.php');
 <div id="equal-1" class="width-three">
 <p><sup>1</sup>Apart from the PN-70TH5 which features 30 point touch.</p>
 <p><sup>2</sup>Apart from the PN-70TH5 which is 4K (3840x2160).</p>
+</div>
+<div id="equal-1" class="width-three">
+  <form method="post" name="myemailform" action="To-Email.php">
+    <p>
+      <label for='name'>Enter Name: </label><br>
+      <input type="text" name="name">
+    </p>
+    <p>
+      <label for='email'>Enter Email Address:</label><br>
+      <input type="text" name="email">
+    </p>
+    <p>
+      <label for='moreinformation'>What would you like more information about?:</label><br>
+      <textarea name="moreinformation"></textarea>
+    </p>
+    <input type="hidden" name="currentpage" value="Sharp Big Pads">
+    <input type="submit" name='submit' value="submit">
+  </form>
+  <script language="JavaScript">
+  var frmvalidator = new Validator("myemailform");
+  frmvalidator.addValidation("name","req","Please provide your name");
+  frmvalidator.addValidation("email","req","Please provide your email");
+  frmvalidator.addValidation("email","email","Please enter a valid email address");
+  </script>
 </div>
 </div>
 <?php
