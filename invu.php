@@ -31,6 +31,13 @@ include('include/pds-header.php');
   <?php
   include('include/pds-sidebar.php');
   ?>
+  <div id="equal-1" class="width-three">
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+
 </div>
 <?php
 include('include/pds-footer.php');

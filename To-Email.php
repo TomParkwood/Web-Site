@@ -24,7 +24,7 @@ if(IsInjected($visitor_email))
 }
 
 $email_from = $visitor_email;
-$email_subject = "New Website Enquiry";
+$email_subject = "New General Enquiry";
 $email_body = "You have recieved an enquiry from $name\n".
   "The page they are on $page.\n More information: $information.\n".
 
