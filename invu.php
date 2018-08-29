@@ -37,7 +37,24 @@ include('include/pds-header.php');
         <label for='name'>Enter Name:</label><br>
         <input type="text" name="name">
       </p>
-
+      <p>
+        <label for='email'>Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="Software: InvuDM">
+      <input type="submit" name='submit' value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmvalidator = new Validator("myemailform");
+      frmvalidator.addValidation("name","req","Please provide your name");
+      frmvalidator.addValidation("email","req","Please provide your email");
+      frmvalidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+  </div>
 </div>
 <?php
 include('include/pds-footer.php');
