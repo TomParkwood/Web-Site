@@ -38,6 +38,30 @@ include('include/pds-header.php');
   <?php
   include('include/pds-sidebar.php');
   ?>
+  <div id="equal-1" class="width-three">
+    <form method="psot" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for="email">Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for="moreinformation">What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="MFP: Utax Range">
+      <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmValidator = new Validation("myemailform");
+      frmValidator.addValidation("name","req","Please provide your name");
+      frmValidator.addValidation("email","req","Please provide your email");
+      frmValidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+  </div>
 </div>
 <?php
 include('include/pds-footer.php');

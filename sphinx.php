@@ -187,3 +187,138 @@ include('include/pds-header.php');
     <h3>Process Section</h3>
       <table class="productTable" border="1">
         <tr>
+          <td style="width:33%;">Description</td>
+          <td style="width:33%;">Approximate Life</td>
+          <td style="width:33%;">Product Code</td>
+        </tr>
+        <tr>
+    			<td>Black Developer</td>
+    			<td>360k</td>
+    			<td>MX-60GVBA</td>
+    		</tr>
+    		<tr>
+    			<td>Colour Developer Kit (CMY)</td>
+    			<td>300k</td>
+    			<td>MX-60GVSA</td>
+    		</tr>
+    		<tr>
+    			<td>Drum Unit</td>
+    			<td>Black: 180k, Colour 150k</td>
+    			<td>MX-40GUSA</td>
+    		</tr>
+    		<tr>
+    			<td>OPC Drum</td>
+    			<td>Black: 180k, Colour 150k</td>
+    			<td>MX-60GRSA</td>
+    		</tr>
+    		<tr>
+    			<td>Main Charge Kit (Main charge unit, Cleaning blade, Cleaning gum)</td>
+    			<td>Black: 180k, Colour 150k</td>
+    			<td>MX-407MK</td>
+    		</tr>
+    		<tr>
+    			<td>PTC Unit</td>
+    			<td>250k</td>
+    			<td>MX-608CU</td>
+    		</tr>
+    		<tr>
+    			<td>Ozone Filter</td>
+    			<td>300k</td>
+    			<td>MX-607FL</td>
+    		</tr>
+      </table>
+    <h3>Fusing Section</h3>
+      <table class="productTable" border="1">
+        <tr>
+          <td style="width:33%;">Description</td>
+          <td style="width:33%;">Approximate Life</td>
+          <td style="width:33%;">Product Code</td>
+        </tr>
+        <tr>
+          <td>Fusing Unit</td>
+          <td>250k</td>
+          <td>MX-407FU</td>
+        </tr>
+        <tr>
+          <td>Fusing Belt Unit</td>
+          <td>250k</td>
+          <td>MX-607FB</td>
+        </tr>
+        <tr>
+          <td>Pressure Roller Kit</td>
+          <td>250k</td>
+          <td>MX-607LH</td>
+        </tr>
+      </table>
+    <h3>Transfer Section</h3>
+      <table class="productTable" border="1">
+        <tr>
+          <td style="width:33%;">Description</td>
+          <td style="width:33%;">Approximate Life</td>
+          <td style="width:33%;">Product Code</td>
+        </tr>
+        <tr>
+    			<td>Primary Transfer Belt Unit</td>
+    			<td>250k</td>
+    			<td>MX-607U1</td>
+    		</tr>
+    		<tr>
+    			<td>Primary Transfer Belt Kit</td>
+    			<td>250k</td>
+    			<td>MX-607B1</td>
+    		</tr>
+    		<tr>
+    			<td>Primary Transfer Blade Kit (Primary transfer blade, cleaning roller)</td>
+    			<td>250k</td>
+    			<td>MX-607TL</td>
+    		</tr>
+    		<tr>
+    			<td>Secondary Transfer Roller Kit</td>
+    			<td>250k</td>
+    			<td>MX-607U2</td>
+    		</tr>
+      </table>
+    <h2>Additional Information</h2>
+    <h3>Drivers</h3>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Service_Information/Drivers/MX_D50_PCL6_PS_1802a_English_32bit.exe">Windows 7, 8.1, 10 32-bit</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Service_Information/Drivers/MX_D50_PCL6_PS_1802a_English_64bit.exe">Windows 7, 8.1, 10 64-bit</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Service_Information/Drivers/MX-C52_1712a_Mac104-1012.dmg">MacOS X 10.4-10.13</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Service_Information/Drivers/sharp-1.1-mx-c52-ps.tar">Linux</a></p>
+    <h3>Other Documents</h3>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Brochure/18375-Sphinx-Interactive-Brochure.pdf" target="_blank" rel="noopener noreferrer">Brochure</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mx4050n_ex_faq.pdf" target="_blank" rel="noopener noreferrer">Troubleshooting</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mx4050n_ex_user.pdf" target="_blank" rel="noopener noreferrer">User Manual</a></p>
+    <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mx4050n_ex_spl.pdf" target="_blank" rel="noopener noreferrer">Quick Start Guide</a></p>
+    <br>
+  </div>
+<?php
+include('include/pds-sidebar.php');
+?>
+<div id="equal-1" class="width-three">
+  <form method="post" name="myemailform" action="To-Email.php">
+    <p>
+      <label for='name'>Enter Name:</label><br>
+      <input type="text" name="name">
+    </p>
+    <p>
+      <label for='email'>Enter Email Address:</label><br>
+      <input type="text" name="email">
+    </p>
+    <p>
+      <label for="moreinformation">What would you like more information about?:</label><br>
+      <textarea name="moreinformation"></textarea>
+    </p>
+    <input type="hidden" name="currentpage" value="MFP: Sphinx">
+    <input type="submit" name="submit" value="submit">
+  </form>
+  <script language="JavaScript">
+  var frmvalidator = new Validator("myemailform");
+    frmvalidator.addValidation("name","req","Please provide your name");
+    frmvalidator.addValidation("email","req","Please provide your email");
+    frmvalidator.addValidation("email","email","Please enter a valid email address");
+  </script>
+</div>
+</div>
+<?php
+include('include/pds-footer.php');
+?>

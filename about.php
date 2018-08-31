@@ -85,7 +85,33 @@ include('include/pds-header.php');
 	</div>
 	<?php
 	include('include/pds-sidebar.php');
-	?></div>
+	?>
+</div>
+<div id="equal-1" class="width-three">
+	<form method="post" name="myemailform" action="To-Email.php">
+		<p>
+			<label for='name'>Enter Name:</label><br>
+			<input type="text" name="name">
+		</p>
+		<p>
+			<label for='email'>Enter Email Address</label><br>
+			<input type="text" name="email">
+		</p>
+		<p>
+			<label for='moreinformation'>What would you like more information about?:</label><br>
+			<textarea name="moreinformation"></textarea>
+		</p>
+		<input type="hidden" name="currentpage" value="About Us">
+		<input type="submit" name="submit" value="submit">
+	</form>
+	<script language="JavaScript">
+		var frmvalidator = new Validator("myemailform");
+		frmvalidator.addvalidation("name","req","Please provide your name");
+		frmvalidator.addvalidation("email","req","Please provide your email");
+		frmvalidator.addvalidation("email","email","Please enter a valid email address");
+	</script>
+</div>
+</div>
 <?php
 include('include/pds-footer.php');
 ?>
