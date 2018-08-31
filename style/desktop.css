@@ -350,69 +350,6 @@ div.main-span
 	overflow: hidden;
 }
 
-
-/* NAVIGATION BUTTONS STYLE */
-
-div#head-nav ul
-{
-	list-style: none;
-	display: inline;
-	padding: 0px;
-}
-
-div#head-nav li
-{
-	padding-top: 0px;
-	padding-left: 0px;
-	margin: 0px;
-	height: 65px;
-	text-align: center;
-	float:left;
-}
-
-div#head-nav li a
-{
- 	float:left;
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	font-size: 15px;
-	text-align: center;
-	font-weight: bold;
-	color: #000000;
-	padding-left: 8px;
-	padding-right: 8px;
-	padding-top: 16px;
-	padding-bottom: 21px;
-	margin: 0px;
-	border-left: 2px #E0E0E0 solid;
-	text-decoration: none;
-}
-
-div#head-nav li a:visited
-{
-
-}
-
-div#head-nav li a:hover
-{
-	color: #ff0000;
-	text-decoration: underline;
-}
-
-div#head-nav li.selected
-{
-
-}
-
-div#head-nav li.selected a
-{
-
-}
-
-div#head-nav li.selected a:hover
-{
-
-}
-
 td
 {
 	font-family: Arial;

@@ -1,7 +1,7 @@
 <!--ServiceForm-->
 <?php
 $pageTitle="General Enquiries:";
-$pageSummary="Fill out enquiries form.";
+$pageSummary="Fill out an enquiries form.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>
