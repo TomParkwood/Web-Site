@@ -1,15 +1,4 @@
-﻿a.head-contact
-{
-	padding-left: 35px;
-	padding-right: 25px;
-	font-size: 14px;
-	padding-top: 2px;
-	color: #FFFFFF;
-	font-weight: bold;
-	text-decoration: none;
-}
-
-label.required
+﻿label.required
 {
 	font-weight: bold;
 }
@@ -132,56 +121,6 @@ div#wrapper
 	min-height: 800px;
 }
 
-div#head-wrapper
-{
-	width: 85%;
-	height: 150px;
-}
-
-div#head-top
-{
-	width: 100%;
-	height: 50px;
-}
-
-div#head-bottom
-{
-	width: 100%;
-	height: 100px;
-	background-image: url('images/head-wrapper.png');
-	background-position: left top;
-}
-
-div#head-logo
-{
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 35px;
-	padding-right: 35px;
-	height: 80px;
-	width: 236px;
-	float: left;
-}
-
-div#head-contact
-{
-	color: #FFFFFF;
-	padding-top: 13px;
-	width: 620px;
-	float: left;
-	height: 22px;
-	background-color: transparent;
-}
-
-div#head-nav
-{
-	color: #000000;
-	width: 670px;
-	float: left;
-	height: 65px;
-	background-color: transparent;
-}
-
 div#slide-wrapper
 {
 	width: 100%;
@@ -259,18 +198,6 @@ div#crumbs
 div#crumbs a
 {
 	color: #00FF00;
-}
-
-div.width-one
-{
-	width: 70%;
-	float:left;
-}
-
-div.width-two
-{
-	width: 70%;
-	float:left;
 }
 
 div.width-three

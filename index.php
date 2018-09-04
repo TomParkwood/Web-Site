@@ -8,7 +8,7 @@ include('include/pds-header.php');
 include('include/pds-slider.php');
 ?>
 <div id="main-wrapper">
-	<div id="equal-1" class="width-two">
+	<div id="equal-1" class="width-three">
 		<p class="red bold center">Welcome to ParkWood Document Solutions Limited</p>
 		<p>We are an Authorised Supplier of both Sharp Digital Imaging Solutions and OKI Executive Series printers and multifunction devices whilst also offering Laserfiche and INVU Document Management and Archiving Systems for the UK. Based in Romsey, Hampshire.</p>
 		<p>We understand that, in addition to supplying the leading range of Sharp products, customer support is paramount and we realise that, to provide the level of service and competitive pricing our customers expect, an office equipment supplier should specialise in a single range of equipment. Our knowledge and understanding of the photocopier industry made Sharp Electronics the natural choice as our business partner both for ourselves and our growing list of clients.</p>
