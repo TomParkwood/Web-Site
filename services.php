@@ -11,9 +11,21 @@ include('include/pds-header.php');
 <div id="main-wrapper">
 	<div id="equal-1" class="width-three">
 		<div class="main-span">
+			<h1>Just Print. . . . . .<h1>
+			<div class="left">
+				<p>Image goes here</p></div>
+			<div class="right" style="width: 550px">
+				<p>Just Print is the new way to print. No Buying, Renting or Leasing involved.<br>
+					Simply Just Print.</p>
+				<p><a class="more" href="justprint.php">
+					<img alt="" src="images/read-more.png" title=""/></a></p>
+			</div>
+		</div>
+		<div class="separator">
+		</div>	
+		<div class="main-span">
 			<h1>Printer Repairs. . . . . .</h1>
 			<div class="left">
-				<!--Image goes here for printer repairs-->
 				<img alt="" src="images/Repairs.jpg" title="" height="150px" width="150px"/></div>
 			<div class="right" style="width: 550px">
 				<p>While most office printers aren't cheap, the price of repairing a machine can be done for a fraction of a new machine.<br>

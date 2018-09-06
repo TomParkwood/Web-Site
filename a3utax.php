@@ -228,12 +228,17 @@ include('include/pds-header.php');
     <h3>Toner</h3>
       <table class="productTable" border="1">
         <tr>
-          <td colspan="3"><strong>3206ci</strong></td>
+          <td collapse="3"><strong>2506ci</strong></td>
         </tr>
         <tr>
           <td style="width:33%;">Description</td>
           <td style="width:33%;">Approximate Life</td>
           <td style="width:33%;">Product Code</td>
+        </tr>
+        <tr>
+          <td>Black Toner</td>
+          <td>20000*</td>
+          <td>CK8511K</td>
         </tr>
         <tr>
           <td>Cyan Toner</td>
@@ -249,6 +254,36 @@ include('include/pds-header.php');
           <td>Yellow Toner</td>
           <td>12000*</td>
           <td>CK8511Y</td>
+        </tr>
+      </table>
+      <table class="productTable" border="1">
+        <tr>
+          <td colspan="3"><strong>3206ci</strong></td>
+        </tr>
+        <tr>
+          <td style="width:33%;">Description</td>
+          <td style="width:33%;">Approximate Life</td>
+          <td style="width:33%;">Product Code</td>
+        </tr>
+        <tr>
+          <td>Black Toner</td>
+          <td>25000*</td>
+          <td>CK8512K</td>
+        </tr>
+        <tr>
+          <td>Cyan Toner</td>
+          <td>15000*</td>
+          <td>CK8512C</td>
+        </tr>
+        <tr>
+          <td>Magenta Toner</td>
+          <td>15000*</td>
+          <td>CK8512M</td>
+        </tr>
+        <tr>
+          <td>Yellow Toner</td>
+          <td>15000*</td>
+          <td>CK8512Y</td>
         </tr>
       </table>
       <table class="productTable" border="1">

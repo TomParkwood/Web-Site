@@ -33,6 +33,7 @@ h3
 	font-family: Arial;
 	color: #000000;
 }
+
 p
 {
 	font-family: Arial;
@@ -75,11 +76,6 @@ p.green, span.green
 p.blue, span.blue
 {
 	color: #0000CC;
-}
-p.underline
-{
-	text-decoration: underline;
-	text-transform: capitalize;
 }
 
 img
@@ -204,6 +200,13 @@ div.width-three
 {
 	width: 70%;
 	float:left;
+}
+
+div.width-threecentre
+{
+	width: 69%;
+	float:center;
+	text-align: center;
 }
 
 div.width-four

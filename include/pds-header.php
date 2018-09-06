@@ -7,6 +7,7 @@
 			<i class="fa fa-caret-down"></i>
 		</button>
 		<div class="dropdown-content">
+			<a href="justprint.php">Just Print</a>
 			<a href="printer-repairs.php">Printer Repairs</a>
 			<a href="print-audit.php">Print Audit</a>
 			<a href="scanning-service.php">Scanning Services</a>
