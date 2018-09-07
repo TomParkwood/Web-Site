@@ -14,8 +14,8 @@ include('include/pds-header.php');
 </div>
 <div id="main-wrapper">
   <div id="equal-1" class="width-threecentre">
-    <p style="font-size:40px"><b>Just Print</b></p>
     <img src="images/JustPrint.png" style="width:70%">
+    <p style="font-size:40px"><b>Just Print</b></p>
     <p style="font-size:25px">We supply a colour A3 MFD,<br>
       Fully Maintained,<br>
       For you to use.<br>

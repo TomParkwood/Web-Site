@@ -51,6 +51,19 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <div id="ShowHide" style="display:none;">
+      <img src="images/utax/2506cioptions.jpg">
+    </div>
+      <script type="text/JavaScript">
+        function tend() {
+          document.getElementById('ShowHide').style.display= 'block';
+        }
+        function tn(){
+          document.getElementById('ShowHide').style.display= 'none';
+        }
+      </script>
+      <input type="button" onclick="tend()" value="show">
+      <input type="button" onclick="tn()" value="hide">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. Platen Cover Type E</td>
