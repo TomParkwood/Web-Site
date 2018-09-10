@@ -1,9 +1,9 @@
 <!--JustPrint-->
 <?php
 $pageTitle ="JustPrint:";
-$pageSummary = "Summary";
-$metaKeywords = "Keywords";
-$metaDescription = "Description";
+$pageSummary = "Just Print is a new way of getting a printer, all you have to do is pay for what you print. No rental, no leasing and no buying.";
+$metaKeywords = "Just Print, no print contract, Print only contract, no printer rental, pay as you go printing";
+$metaDescription = "Just Print is a new way of getting a printer, all you have to do is pay for what you print. No rental, no leasing and no buying.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

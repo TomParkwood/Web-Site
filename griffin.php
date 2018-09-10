@@ -51,6 +51,7 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <!--
     <input type="button" onclick="tend()" value="show">
     <input type="button" onclick="tn()" value="hide">
     <div id="ShowHide" style="display:none;">
@@ -63,7 +64,8 @@ include('include/pds-header.php');
         function tn(){
           document.getElementById('ShowHide').style.display= 'none';
         }
-      </script>
+      </script>-->
+      <img src="images/sharp/griffin-options.jpg" width="50%">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. MX-DE25 Stand with 550-Sheet Paper Drawer</td>
@@ -71,11 +73,11 @@ include('include/pds-header.php');
         </tr>
         <tr>
           <td>2. MX-DE26 Stand with 2 x 550-Sheet Paper Drawer</td>
-          <td>550 sheets*1 each for lower and upper trays, SRA3 to A5R (60 - 300 g/m2)</td>
+          <td>550 sheets*2 each for lower and upper trays, SRA3 to A5R (60 - 300 g/m2)</td>
         </tr>
         <tr>
           <td>3. MX-DE27 Stand with 3 x 550-Sheet Paper Drawer</td>
-          <td>550 sheets*1 each for lower and upper trays, SRA3 to A5R (60 - 300 g/m2)</td>
+          <td>550 sheets*3 each for lower and upper trays, SRA3 to A5R (60 - 300 g/m2)</td>
         </tr>
         <tr>
           <td>4. MX-DE28 Stand with 550 + 2,100-Sheet Paper Drawer</td>

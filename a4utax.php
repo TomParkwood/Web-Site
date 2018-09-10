@@ -41,6 +41,7 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <!--
     <input type="button" onclick="tend()" value="show">
     <input type="button" onclick="tn()" value="hide">
     <div id="ShowHide" style="display:none;">
@@ -54,7 +55,9 @@ include('include/pds-header.php');
         function tn(){
           document.getElementById('ShowHide').style.display= 'none';
         }
-      </script>
+      </script>-->
+      <img src="images/utax/2655options.jpg" width="50%" style="float:left">
+      <img src="images/utax/2655software.jpg" width="20%" style="float:left">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. Expansion Memory</td>

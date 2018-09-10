@@ -15,10 +15,12 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>Drivve Image</h1>
+    <div  width="50%" style="float:left">
     <p>Drivve Image allows you to create workflows around invoices and other documents so they can be archived and searched for in the future.<br>
       No more having to search through that months invoices to find the one you want or having to rename all of your scanned in documents, create the folders and have the file names created automatically.<br>
       So all you have to do is scan your documents in and let the program do it for you.
-    </p>
+    </p></div>
+    <img src="images/software/drivve.png" width="50%" style="float:right">
     <h3>Batch Scanning?</h3>
     <p>Easily setup batch scanning which after some tweaking will allow you to simply stack the documents into the scanner and let it run through no more having to manually seperate out different documents. As long as there is a structure to the documents which indicate where one starts and the other begins then they will just fly through the machine and create the documents as needed and place the files in to the correct folders.</p>
     <p>There is a full ecosystem of Drivve products which can all be linked together to allow for the best workflow for you, this is the scanning in of documents, organising the stored documents with Drivve DM and easy printer management with Drivve Print.<br>

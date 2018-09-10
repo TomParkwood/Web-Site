@@ -15,6 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>PaperCut</h1>
+    <img src="images/software/papercut.png" style="float:right" width="50%">
     <p>PaperCut is probably the most well known print management solution which exists. With features which offer functionality and customisation options to make PaperCut the right solution for you.</p>
     <p>Make managing your printers much easier and centralised, so no matter what combinations of models and brands you have they will be supported in one way or another.<br>
       With PaperCut being able to be placed onto Windows, Linux and even Novell servers, you aren't being forced to learn a new system just for PaperCut.<br>

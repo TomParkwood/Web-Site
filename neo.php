@@ -1,7 +1,7 @@
 <!--Neo-->
 <?php
 $pageTitle = "Neo Range:";
-$pageSummary = "Summary";
+$pageSummary = "The Neo range by Sharp offer MFP quality and features in a small desktop sized package. With Printing, Copying, Scanning and even faxing as standard. Which makes it the perfect machine for small areas and small businesses";
 $metaKeywords = "Sharp mxc250 toner,Sharp mx-c250 toner, Sharp mxc250 ink, Sharp mx-c250 ink, Sharp mxc250 black toner, sharp mxc250 black, mxc30gtb, mx-c30gtb, sharp mx-c30gtb, sharp mxc250 cyan toner, mx-c30gtc, mxc30gtc,  sharp mxc250 yellow toner, mx-c30gty, mxc30gty, sharp mxc250 magenta toner, mx-c30gtm, mxc30gtm, sharp mxc250 waste toner, mx-c30gvy, mxc30gvy, Sharp mxc300w toner, sharp mx-c300w toner, sharp mxc300w ink, sharp mx-c300w ink, sharp mxc300w black toner, sharp mx-c300w black toner, sharo mx-c300w cyan toner, sharp mxc300w cyan toner, sharp mx-c300w magenta toner, sharp mxc300w magenta toner, sharp mx-c300w yellow toner, sharp mxc300w yellow toner, mxc250 drum, mx-c250 drum, mx-c30dr, mxc300w drum, mx-c300w drum, mxc250 developer, mx-c250 developer, mx-c300w developer, mxc300w developer, mx-c30gvb, mx-c250 fuser, mxc250 fuser, mx-c300w fuser, mxc300w fuser, mx-c30fu, mx-c250 transfer, mxc250 transfer, mx-c300w transfer, mxc300w transfer, mx-c30u1, Mx-cs11, mxc250 paper tray, mx-c250 paper tray, mx-c300w paper tray, mxc300w paper tray.";
 $metaDescription = "The Neo range of machines by Sharp offer MFP quality and features in a small package. Printing, Copying, Scanning and Faxing all as standard with the option of a service contract makes it perfect for small businesses.";
 include('include/pds-main.php');
@@ -43,6 +43,7 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <!--
     <input type="button" onclick="tend()" value="show">
     <input type="button" onclick="tn()" value="hide">
     <div id="ShowHide" style="display:none;">
@@ -55,7 +56,8 @@ include('include/pds-header.php');
         function tn(){
           document.getElementById('ShowHide').style.display= 'none';
         }
-      </script>
+      </script>-->
+      <img src="images/sharp/neo-options.jpg">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">MX-CS11</td>
