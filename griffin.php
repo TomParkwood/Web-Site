@@ -51,6 +51,19 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <input type="button" onclick="tend()" value="show">
+    <input type="button" onclick="tn()" value="hide">
+    <div id="ShowHide" style="display:none;">
+      <img src="images/sharp/griffin-options.jpg" height="100%" width="100%">
+    </div>
+      <script type="text/JavaScript">
+        function tend() {
+          document.getElementById('ShowHide').style.display= 'block';
+        }
+        function tn(){
+          document.getElementById('ShowHide').style.display= 'none';
+        }
+      </script>
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. MX-DE25 Stand with 550-Sheet Paper Drawer</td>
@@ -277,10 +290,10 @@ include('include/pds-header.php');
   <h3>Process Section</h3>
     <table class="productTable" border="1">
       <tr>
-        <td style="width:20%;">Description</td>
-        <td style="width:20%;">Models</td>
-        <td style="width:20%;">Approximate Life</td>
-        <td style="width:20%;">Product Code</td>
+        <td style="width:25%;">Description</td>
+        <td style="width:25%;">Models</td>
+        <td style="width:25%;">Approximate Life</td>
+        <td style="width:25%;">Product Code</td>
       </tr>
       <tr>
   			<td>Black Developer</td>
@@ -352,10 +365,10 @@ include('include/pds-header.php');
   <h3>Fusing Section</h3>
     <table class="productTable" border="1">
       <tr>
-        <td style="width:20%;">Description</td>
-        <td style="width:20%;">Models</td>
-        <td style="width:20%;">Approximate Life</td>
-        <td style="width:20%;">Product Code</td>
+        <td style="width:25%;">Description</td>
+        <td style="width:25%;">Models</td>
+        <td style="width:25%;">Approximate Life</td>
+        <td style="width:25%;">Product Code</td>
       </tr>
       <tr>
   			<td>Fusing Unit</td>
@@ -391,10 +404,10 @@ include('include/pds-header.php');
   <h3>Transfer Section</h3>
     <table class="productTable" border="1">
       <tr>
-        <td style="width:20%;">Description</td>
-        <td style="width:20%;">Models</td>
-        <td style="width:20%;">Approximate Life</td>
-        <td style="width:20%;">Product Code</td>
+        <td style="width:25%;">Description</td>
+        <td style="width:25%;">Models</td>
+        <td style="width:25%;">Approximate Life</td>
+        <td style="width:25%;">Product Code</td>
       </tr>
       <tr>
         <td>Primary Transfer Belt Unit</td>

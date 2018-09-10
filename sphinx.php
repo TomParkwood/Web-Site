@@ -52,6 +52,19 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <input type="button" onclick="tend()" value="show">
+    <input type="button" onclick="tn()" value="hide">
+    <div id="ShowHide" style="display:none;">
+      <img src="images/sharp/sphinx-options.jpg" width="75%">
+    </div>
+    <script type="text/JavaScript">
+      function tend() {
+        document.getElementById('ShowHide').style.display= 'block';
+      }
+      function tn() {
+        document.getElementById('ShowHide').style.display= 'none';
+      }
+    </script>
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. MX-DE25 N Stand with 550-Sheet Paper Drawer</td>

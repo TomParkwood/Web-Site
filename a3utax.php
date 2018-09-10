@@ -51,8 +51,12 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
+    <input type="button" onclick="tend()" value="show">
+    <input type="button" onclick="tn()" value="hide">
     <div id="ShowHide" style="display:none;">
-      <img src="images/utax/2506cioptions.jpg">
+      <img src="images/utax/2506cioptions.jpg" height="100%" width="100%">
+      <img src="images/utax/2506options.jpg" height="50%" width="50%" align="left">
+      <img src="images/utax/2506options2.jpg" height="50%" width="50%" align="right">
     </div>
       <script type="text/JavaScript">
         function tend() {
@@ -62,8 +66,6 @@ include('include/pds-header.php');
           document.getElementById('ShowHide').style.display= 'none';
         }
       </script>
-      <input type="button" onclick="tend()" value="show">
-      <input type="button" onclick="tn()" value="hide">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. Platen Cover Type E</td>
