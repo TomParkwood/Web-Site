@@ -1,7 +1,7 @@
 <!--Skywell-->
 <?php
 $pageTitle= "Skywell:";
-$pageSummary="Skywell allows you to make drinkable water out of thin air, no plumbing or plastic required.";
+$pageSummary="Skywell allows you to make fresh water out of thin air, no plumbing or plastic required.";
 $metaKeywords="Skywell, Sharp Skywell, Water Machine, Plastic free water, no plumbing water machine, water from air, pure water";
 $metaDescription="Skywell is a revolutionary product offered by Sharp. Which allows you to make water out of thin air, no plumbing required, no plastic bottles of water to store. Pure water which can be as cold or hot as you would want it to be.";
 include('include/pds-main.php');
@@ -18,7 +18,7 @@ include('include/pds-header.php');
       <tbody>
         <tr>
           <td style="width:20%;">
-            <img src="images/Skywell-scaled.png" alt="" width="100%" height="100%"/>
+            <img src="images/Skywell.jpg" alt="" width="100%" height="100%"/>
           </td>
           <td style="width:80%;">
             <h1>Skywell</h1>

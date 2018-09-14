@@ -51,22 +51,6 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
-    <!--
-    <input type="button" onclick="tend()" value="show">
-    <input type="button" onclick="tn()" value="hide">
-    <div id="ShowHide" style="display:none;">
-      <img src="images/utax/2506cioptions.jpg" height="100%" width="100%">
-      <img src="images/utax/2506options.jpg" height="50%" width="50%" align="left">
-      <img src="images/utax/2506options2.jpg" height="50%" width="50%" align="right">
-    </div>
-      <script type="text/JavaScript">
-        function tend() {
-          document.getElementById('ShowHide').style.display= 'block';
-        }
-        function tn(){
-          document.getElementById('ShowHide').style.display= 'none';
-        }
-      </script>-->
       <img src="images/utax/2506cioptions.jpg" width="75%">
       <img src="images/utax/2506options.jpg" width="50%" style="float:left">
       <img src="images/utax/2506options2.jpg" width="50%" style="float:right">
@@ -169,7 +153,7 @@ include('include/pds-header.php');
         </tr>
         <tr>
           <td>11. PH-7120</td>
-          <td>Punch unit for</td>
+          <td>Inner Punch unit for DF-7100 inner finisher</td>
         </tr>
         <tr>
           <td>11. PH-7130</td>
@@ -454,7 +438,7 @@ include('include/pds-header.php');
         <tr>
           <td>Transfer Belt</td>
           <td>All</td>
-          <td> </td>
+          <td>600000</td>
           <td>TR-8550</td>
         </tr>
         <tr>
@@ -470,13 +454,13 @@ include('include/pds-header.php');
           <td>FK-8550</td>
         </tr>
         <tr>
-          <td>Fuser "Lower Heater?"</td>
+          <td>Fuser Lower Heater</td>
           <td>2506ci, 3206ci</td>
           <td>600000</td>
           <td>FK-8585IH</td>
         </tr>
         <tr>
-          <td>Fuser "Lower Heater?"</td>
+          <td>Fuser Lower Heater</td>
           <td>4006ci, 5006ci, 6006ci</td>
           <td>600000</td>
           <td>FK-8595IH</td>
