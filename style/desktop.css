@@ -15,6 +15,46 @@ a.faq
 	text-decoration: none;
 }
 
+.button1 {
+	background-color: #339933;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+input[type=text] {
+	padding: 5px;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+}
+
+input[type=text]:focus {
+	border: 3px solid #888;
+}
+
+input[type=textarea]{
+	padding: 5px;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+}
+input[type=submit] {
+	padding:5px 5px;
+	background: #ccc;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+}
+
 h1
 {
 	font-family: Arial;

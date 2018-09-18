@@ -209,11 +209,11 @@ include('include/pds-header.php');
 <div id="equal-1" class="width-three">
   <form method="post" name="myemailform" action="To-Email.php">
     <p>
-      <label for='name'>Enter Name: </label><br>
+      <label for='name'>Enter Name: </label>
       <input type="text" name="name">
     </p>
     <p>
-      <label for='email'>Enter Email Address:</label><br>
+      <label for='email'>Enter Email Address:</label>
       <input type="text" name="email">
     </p>
     <p>
@@ -229,6 +229,7 @@ include('include/pds-header.php');
   frmvalidator.addValidation("email","req","Please provide your email");
   frmvalidator.addValidation("email","email","Please enter a valid email address");
   </script>
+  <br>
 </div>
 </div>
 <?php

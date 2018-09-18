@@ -43,20 +43,6 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
-    <!--
-    <input type="button" onclick="tend()" value="show">
-    <input type="button" onclick="tn()" value="hide">
-    <div id="ShowHide" style="display:none;">
-      <img src="images/sharp/neo-options.jpg" max-height="362px">
-    </div>
-      <script type="text/JavaScript">
-        function tend() {
-          document.getElementById('ShowHide').style.display= 'block';
-        }
-        function tn(){
-          document.getElementById('ShowHide').style.display= 'none';
-        }
-      </script>-->
       <img src="images/sharp/neo-options.jpg">
       <table class="productTable" border="1">
         <tr>
@@ -159,6 +145,10 @@ include('include/pds-sidebar.php');
  ?>
  <div id="equal-1" class="width-three">
    <form method="post" name="myemailform" action="To-Email.php">
+     <div class="flex-container">
+       <div>1</div>
+       <div>2</div>
+     </div>
      <p>
        <label for='name'>Enter Name:</label><br>
        <input type="text" name="name">
@@ -180,6 +170,7 @@ include('include/pds-sidebar.php');
     frmvalidator.addValidation("email","req","Please provide your email");
     frmvalidator.addValidation("email","email","Please enter a valid email address");
   </script>
+  <br>
 </div>
 </div>
 <?php

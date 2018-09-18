@@ -225,6 +225,7 @@ include('include/pds-sidebar.php');
     frmvalidator.addvalidation("email","req","Please provide your email");
     frmvalidator.addvalidation("email","email","Please enter a valid email address");
   </script>
+  <br>
 </div>
 </div>
 <?php
