@@ -54,7 +54,7 @@ if( $url = "error-401.php" || $url = "error-403.php" || $url = "error-404.php" )
 <script src="https://ajax.googleapis.com/ajax/livs/jquery/3.1.0/jquery.min.js"></script>
 <script src="./scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
-
+<script src="/scripts/cookieConsent.js"></script>
 <title><?php echo $pageTitle; ?> ParkWood Document Solutions</title>
 <link rel="icon" href="/images/favicon.ico">
 </head>

@@ -32,6 +32,7 @@ else
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="./scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script src="https://ajax.googleapis.com/ajax/livs/jquery/3.1.0/jquery.min.js"></script>
+<script src="/scripts/cookieConsent.js"></script>
 <title><?php echo $pageTitle; ?> ParkWood Document Solutions</title>
 <link rel="icon" href="/images/favicon.ico">
 </head>
