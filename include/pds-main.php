@@ -51,6 +51,7 @@ if( $url = "error-401.php" || $url = "error-403.php" || $url = "error-404.php" )
 <link href="./style/desktop.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="./style/print.css" media="print" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/livs/jquery/3.1.0/jquery.min.js"></script>
 <script src="./scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
 

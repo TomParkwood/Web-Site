@@ -144,11 +144,8 @@ include('include/pds-header.php');
 include('include/pds-sidebar.php');
  ?>
  <div id="equal-1" class="width-three">
+   <p>If you want more information about the Neo range then, please get in contact with us.</p>
    <form method="post" name="myemailform" action="To-Email.php">
-     <div class="flex-container">
-       <div>1</div>
-       <div>2</div>
-     </div>
      <p>
        <label for='name'>Enter Name:</label><br>
        <input type="text" name="name">

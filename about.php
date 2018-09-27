@@ -88,6 +88,7 @@ include('include/pds-header.php');
 	?>
 </div>
 <div id="equal-1" class="width-three">
+	<p>For more information about what we can offer you, please get in contact with us.</p>
 	<form method="post" name="myemailform" action="To-Email.php">
 		<p>
 			<label for='name'>Enter Name:</label><br>

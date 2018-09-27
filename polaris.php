@@ -476,6 +476,7 @@ include('include/pds-header.php');
 include('include/pds-sidebar.php');
  ?>
  <div id="equal-1" class="width-three">
+   <p>If you want more information please get in contact with us.</p>
    <form method="post" name="myemailform" action="To-Email.php">
      <p>
        <label for='name'>Enter Name:</label><br>

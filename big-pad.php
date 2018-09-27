@@ -207,6 +207,7 @@ include('include/pds-header.php');
 <p><sup>2</sup>Apart from the PN-70TH5 which is 4K (3840x2160).</p>
 </div>
 <div id="equal-1" class="width-three">
+  <p>If you want more information about the Sharp Big Pad, please get in contact with us.</p>
   <form method="post" name="myemailform" action="To-Email.php">
     <p>
       <label for='name'>Enter Name: </label>
@@ -219,7 +220,7 @@ include('include/pds-header.php');
     <p>
       <label for='moreinformation'>What would you like more information about?:</label><br>
       <textarea name="moreinformation"></textarea>
-    </p>
+    </p>If you would
     <input type="hidden" name="currentpage" value="Sharp Big Pads">
     <input type="submit" name='submit' value="submit">
   </form>

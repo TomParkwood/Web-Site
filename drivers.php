@@ -30,6 +30,7 @@ include('include/pds-header.php');
   include('include/pds-sidebar.php');
   ?>
   <div id="equal-1" class="width-three">
+    <p>If you want more information or are having problems with our links then, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
         <label for='name'>Enter Name:</label><br>
@@ -41,3 +42,16 @@ include('include/pds-header.php');
       </p>
       <input type="hidden" name="currentpage" value="Drivers.">
       <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+    var frmvalidator = new Validator("myemailform");
+    frmvalidator.addValidation("name","req","Please provide your name");
+    frmvalidator.addValidation("email","req","Please provide your email");
+    frmvalidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+    <br>
+  </div>
+</div>
+<?php
+include('include/pds-footer.php')
+ ?>
