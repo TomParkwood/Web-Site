@@ -13,13 +13,8 @@ include('include/pds-header.php');
 </div>
 <div id="main-wrapper">
 	<div id="equal-1" class="width-three">
-		<p>Dedicated staff meeting the present, and future, challenges of providing
-		cutting-edge products and services to local and national clients alike.
-		It is our aim to bring a new and refreshing philosophy to our industry.
-		We have an independent and unbiased approach and will only recommend what
-		we honestly believe to be right for your business. We aim to understand
-		your business and its requirements in order that we can better advise and
-		support you.</p>
+		<p>Dedicated staff meeting the present, and future, challenges of providing	cutting-edge products and services to local and national clients alike.<br>
+		It is our aim to bring a new and refreshing philosophy to our industry.	We have an independent and unbiased approach and will only recommend what	we honestly believe to be right for your business. We aim to understand	your business and its requirements in order that we can better advise and	support you.</p>
 		<div class="separator">
 		</div>
 		<div class="main-span">
@@ -27,17 +22,7 @@ include('include/pds-header.php');
 			<div class="left">
 				<img alt="" src="images/about1.jpg" title="" /> </div>
 			<div class="left" style="width: 550px">
-				<p>There are two major changes to the traditional model that
-				require end users to re-evaluate their dealer selection criteria.
-				These changes are corporate downsizing and extremely rapid advances
-				in technology and products. Every major manufacturer has reduced
-				their employee count; technical sales and support have been
-				extremely hard hit. Manufacturers are trying to do more with
-				less. Meanwhile, end users demands and needs are increasing.
-				This presents a unique position for the proactive dealer. First,
-				the dealer must be small enough to quickly adapt new technology.
-				Second, the dealer must be large enough (well financed) to maintain
-				both quality support and research staff.</p>
+				<p>There are two major changes to the traditional model that require end users to re-evaluate their dealer selection criteria. These changes are corporate downsizing and extremely rapid advances in technology and products. Every major manufacturer has reduced their employee count; technical sales and support have been extremely hard hit. Manufacturers are trying to do more with less. Meanwhile, end users demands and needs are increasing. This presents a unique position for the proactive dealer. First, the dealer must be small enough to quickly adapt new technology. Second, the dealer must be large enough (well financed) to maintain both quality support and research staff.</p>
 			</div>
 		</div>
 		<div class="separator">
@@ -47,17 +32,7 @@ include('include/pds-header.php');
 			<div class="left">
 				<img alt="" src="images/about2.jpg" title="" /> </div>
 			<div class="left" style="width: 550px">
-				<p>There are two major changes to the traditional model that
-				require end users to re-evaluate their dealer selection criteria.
-				These changes are corporate downsizing and extremely rapid advances
-				in technology and products. Every major manufacturer has reduced
-				their employee count; technical sales and support have been
-				extremely hard hit. Manufacturers are trying to do more with
-				less. Meanwhile, end users demands and needs are increasing.
-				This presents a unique position for the proactive dealer. First,
-				the dealer must be small enough to quickly adapt new technology.
-				Second, the dealer must be large enough (well financed) to maintain
-				both quality support and research staffs.</p>
+				<p>There are two major changes to the traditional model that require end users to re-evaluate their dealer selection criteria. These changes are corporate downsizing and extremely rapid advances in technology and products. Every major manufacturer has reduced	their employee count; technical sales and support have been	extremely hard hit. Manufacturers are trying to do more with less. Meanwhile, end users demands and needs are increasing. This presents a unique position for the proactive dealer. First, the dealer must be small enough to quickly adapt new technology.	Second, the dealer must be large enough (well financed) to maintain	both quality support and research staffs.</p>
 			</div>
 		</div>
 		<div class="separator">
@@ -67,19 +42,7 @@ include('include/pds-header.php');
 			<div class="left">
 				<img alt="" src="images/about3.jpg" title="" /> </div>
 			<div class="left" style="width: 550px">
-				<p>All dealers generally succeed in the traditional model (i.e.
-				they all know how to deliver products at a discounted price).
-				ParkWood Document Solutions Ltd. does not believe we will earn
-				your business over these issues since all dealers operate essentially
-				the same. We do believe however, that you will stay or move
-				to a dealer who performs far ahead of the field in both technological
-				vision and tactical support. A dealer who understands that customer
-				support is paramount, supplying the correct equipment at the
-				right price from the very outset is essential and that listening
-				and responding to the changing needs of each individual client
-				will ensure a long standing and harmonious relationship for
-				all parties. Given the opportunity we will show that ParkWood&#39;s
-				offerings are the best total business solutions for your company.</p>
+				<p>All dealers generally succeed in the traditional model (i.e. they all know how to deliver products at a discounted price).	ParkWood Document Solutions Ltd. does not believe we will earn your business over these issues since all dealers operate essentially the same. We do believe however, that you will stay or move to a dealer who performs far ahead of the field in both technological vision and tactical support. A dealer who understands that customer support is paramount, supplying the correct equipment at the right price from the very outset is essential and that listening and responding to the changing needs of each individual client will ensure a long standing and harmonious relationship for	all parties. Given the opportunity we will show that ParkWood&#39;s offerings are the best total business solutions for your company.</p>
 			</div>
 		</div>
 	</div>

@@ -12,11 +12,7 @@ include('include/pds-header.php');
 </div>
 <div id="main-wrapper">
 	<div id="equal-1" class="width-three">
-		<p>If you require any further information on any of the products or services
-		provided by ParkWood Document Solutions Ltd please fill out our
-		<a href="general-enquiry-form.php">General Enquiry Form</a> &amp; one of our representatives
-		will be in touch as soon as possible. Alternatively please feel free to
-		contact us on the details below. . . . . .</p>
+		<p>If you require any further information on any of the products or services provided by ParkWood Document Solutions Ltd please fill out our <a href="general-enquiry-form.php">General Enquiry Form</a> &amp; one of our representatives will be in touch as soon as possible. Alternatively please feel free to contact us on the details below. . . . . .</p>
 		<p>All of our business telephone numbers are charged as a local rate call,
 		no matter where you are calling from in the UK.</p>
 		<div class="separator">

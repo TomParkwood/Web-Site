@@ -37,13 +37,6 @@ else
 $host = $_SERVER['HTTP_HOST'];
 $self = $_SERVER['PHP_SELF'];
 $query = !empty($_SERVER['QUERY_STRING']) ? $_SERVER['QUERY_STRING'] : null;
-/*
-$url = !empty($query) ? "http://$host$self?$query" : "http://$host$self";
-if( $url = "error-401.php" || $url = "error-403.php" || $url = "error-404.php" )
-{
-	echo "<meta http-equiv=\"refresh\" content=\"10; URL=http://www.parkwoodsolutions.com/index.php\" />";
-}
-*/
 ?>
 
 <meta content="ParkWood Document Solutions: it@parkwoodsolutions.com" name="author" />
@@ -54,7 +47,10 @@ if( $url = "error-401.php" || $url = "error-403.php" || $url = "error-404.php" )
 <script src="https://ajax.googleapis.com/ajax/livs/jquery/3.1.0/jquery.min.js"></script>
 <script src="./scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
-<script src="/scripts/cookieConsent.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style/jquery-eu-cookie-law-popup.css"/>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="scripts/jQuery-eu-cookie-law-popus.js"></script>
 <title><?php echo $pageTitle; ?> ParkWood Document Solutions</title>
 <link rel="icon" href="/images/favicon.ico">
 </head>

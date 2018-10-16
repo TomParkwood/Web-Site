@@ -148,28 +148,12 @@ include('include/pds-header.php');
           <td>Inner Finisher, which holds the prints internally and seperates and offsets them, with the option to staple the prints.</td>
         </tr>
         <tr>
-          <td>11. PH-7100</td>
-          <td>Punch Unit for </td>
-        </tr>
-        <tr>
           <td>11. PH-7120</td>
-          <td>Inner Punch unit for DF-7100 inner finisher</td>
-        </tr>
-        <tr>
-          <td>11. PH-7130</td>
-          <td>Punch unit for</td>
-        </tr>
-        <tr>
-          <td>12. PH-7A</td>
-          <td>Punch unit for</td>
+          <td>2/4 Hole Inner Punch unit for DF-7100 inner finisher</td>
         </tr>
         <tr>
           <td>12. PH-7C</td>
-          <td>Punch unit for</td>
-        </tr>
-        <tr>
-          <td>12. PH-7D</td>
-          <td>Punch unit for</td>
+          <td>2/4 Hole Punch unit for DF-7110 & DF-7120</td>
         </tr>
         <tr>
           <td>13. JS-7100</td>
