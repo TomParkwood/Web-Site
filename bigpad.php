@@ -41,60 +41,71 @@ include('include/pds-header.php');
           <td style="width:50%;"><strong>50" Screens</strong></td>
         </tr>
         <tr>
-          <td style="width:50%;">Image goes here</td>
-          <td style="width:50%;">Image goes here</td>
+          <td style="width:50%;"><a href="40inch.php"><img src="images/BigPad/40inch.jpg" alt="40 inch screen" width="75%" height="75%"/></a></td>
+          <td style="width:50%;"><a href="50inch.php"><img src="images/BigPad/50inch.jpg" alt="50 inch screen" width="75%" height="75%"/></a></td>
         </tr>
         <tr>
-          <td style="width:50%;">Brief Description goes here</td>
-          <td style="width:50%;">Brief Description goes here</td>
+          <td style="width:50%;">The 40 inch Big Pads were designed for use in huddle spaces with the idea of improving and modernising meetings. <a href="40inch.php">Click here to find out more.</a></td>
+          <td style="width:50%;">The 50 inch Big Pads were designed for use in larger huddle spaces and small meeting rooms, allowing simple and easy collaboration. <a href="50inch.php">Click here to find out more.</a></td>
         </tr>
       </table>
       <br>
       <table style="width:100%;" border="1">
         <tr>
           <td style="width:50%;"><strong>60" Screens</strong></td>
-          <td style="width:50%;"><strong>70" Screens</strong></td>
+          <td style="width:50%;"><strong>65" Screens</strong></td>
         </tr>
         <tr>
-          <td style="width:50%;">Image goes here</td>
-          <td style="width:50%;">Image goes here</td>
+          <td style="width:50%;"><a href="60inch.php"><img src="images/BigPad/60inch.jpg" alt="60 inch screen" width="75%" height="75%"/></a></td>
+          <td style="width:50%;"><a href="65inch.php"><img src="images/BigPad/65inch.jpg" alt="65 inch screen" width="75%" height="75%"/></a></td>
         </tr>
         <tr>
-          <td style="width:50%;">Brief Description goes here</td>
-          <td style="width:50%;">Brief Description goes here</td>
+          <td style="width:50%;">The 60 inch Big Pads were designed for education, hospitals and meeting rooms, there are three models which all focus on a different area. <a href="60inch.php">Click here to find out more.</a></td>
+          <td style="width:50%;">The 65 inch Big Pads were designed for use in education and meeting rooms with built in speakers aiding productivity. <a href="65inch.php">Click here to find out more.<a/></td>
         </tr>
       </table>
       <br>
-      <table style="width:50%; margin:0 auto;">
+      <table style="width:100%;" border="1">
         <tr>
-
-</div>
-<div id="equal-1" class="width-three">
-  <p>If you want more information about the Sharp Big Pad, please get in contact with us.</p>
-  <form method="post" name="myemailform" action="To-Email.php">
-    <p>
-      <label for='name'>Enter Name: </label>
-      <input type="text" name="name">
-    </p>
-    <p>
-      <label for='email'>Enter Email Address:</label>
-      <input type="text" name="email">
-    </p>
-    <p>
-      <label for='moreinformation'>What would you like more information about?:</label><br>
-      <textarea name="moreinformation"></textarea>
-    </p>If you would
-    <input type="hidden" name="currentpage" value="Sharp Big Pads">
-    <input type="submit" name='submit' value="submit">
-  </form>
-  <script language="JavaScript">
-  var frmvalidator = new Validator("myemailform");
-  frmvalidator.addValidation("name","req","Please provide your name");
-  frmvalidator.addValidation("email","req","Please provide your email");
-  frmvalidator.addValidation("email","email","Please enter a valid email address");
-  </script>
-  <br>
-</div>
+          <td style="width:50%;"><strong>70" Screens</strong></td>
+          <td style="width:50%;"><strong>80" Screens</strong></td>
+        </tr>
+        <tr>
+          <td style="width:50%;"><a href="70inch.php"><img src="images/BigPad/70inch.jpg" alt="70 inch screen" width="75%" height="75%"/></a></td>
+          <td style="width:50%;"><img src="images/BigPad/80inch.jpg" alt="80 inch screen" width="75%" height="75%"/></td>
+        </tr>
+        <tr>
+          <td style="width:50%;">The 70 inch Big Pads were designed for education and meeting rooms, with DICOM emulation on one model and pause and blackout buttons on the other model. <a href="70inch.php">Click here to find out more.</a></td>
+          <td style="width:50%;">The 80 inch Big Pads were designed for large meeting rooms and classrooms, you can even pair together 2 screens for double the space.(link)Click here to find out more.</td>
+        </tr>
+      </table>
+  </div>
+  <div id="equal-1" class="width-three">
+    <p>If you want more information about the Sharp Big Pad, please get in contact with us.</p>
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name: </label>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for='email'>Enter Email Address:</label>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>If you would
+      <input type="hidden" name="currentpage" value="Sharp Big Pads">
+      <input type="submit" name='submit' value="submit">
+    </form>
+    <script language="JavaScript">
+    var frmvalidator = new Validator("myemailform");
+    frmvalidator.addValidation("name","req","Please provide your name");
+    frmvalidator.addValidation("email","req","Please provide your email");
+    frmvalidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+    <br>
+  </div>
 </div>
 <?php
 include('include/pds-footer.php')
