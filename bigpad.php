@@ -72,11 +72,11 @@ include('include/pds-header.php');
         </tr>
         <tr>
           <td style="width:50%;"><a href="70inch.php"><img src="images/BigPad/70inch.jpg" alt="70 inch screen" width="75%" height="75%"/></a></td>
-          <td style="width:50%;"><img src="images/BigPad/80inch.jpg" alt="80 inch screen" width="75%" height="75%"/></td>
+          <td style="width:50%;"><a href="80inch.php"><img src="images/BigPad/80inch.jpg" alt="80 inch screen" width="75%" height="75%"/></a></td>
         </tr>
         <tr>
           <td style="width:50%;">The 70 inch Big Pads were designed for education and meeting rooms, with DICOM emulation on one model and pause and blackout buttons on the other model. <a href="70inch.php">Click here to find out more.</a></td>
-          <td style="width:50%;">The 80 inch Big Pads were designed for large meeting rooms and classrooms, you can even pair together 2 screens for double the space.(link)Click here to find out more.</td>
+          <td style="width:50%;">The 80 inch Big Pads were designed for large meeting rooms and classrooms, you can even pair together 2 screens for double the space. <a href="80inch.php">Click here to find out more.</a></td>
         </tr>
       </table>
   </div>
