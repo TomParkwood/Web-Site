@@ -35,41 +35,59 @@ include('include/pds-header.php');
       2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort as outputs<br>
       1x LAN port for control<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mount.</p>
+    <h2>PN-70SC5</h2>
+    <p>The main difference of the PN-70SC5 compared to the other models of the 70" models is that it features the Freeze-frame and Blackout buttons, which adds wanted features for teachers because it gives them greater control over what is being shown on the screen, so they can leave work on the screen while they can get on with other work in the background.</p>
+    <table>
+      <tr>
+        <td style="width:70%;"><img src="images/BigPad/70inchSC5.jpg" alt='70" SC5 BigPad' width="100%" height="100%"/></td>
+        <td style="width:30%;">
+          <ul>
+            <li></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Technical Specifications</h3>
+    <p>3x HDMI, 1x VGA, 1x Component (via VGA port), 1x Component (switchable), 1x 3.5mm audio jack and 1x RCA R/L audio jacks as inputs.<br>
+      2x 10W speakers and 1x 3.5mm audio jack as outputs.<br>
+      1x RS232C IN, 1x USB and 1x USB Service port (covered) for control<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 mounts.</p>
+    <h2>PN-70TW3A</h2>
+    <p>difference between everything</p>
+    <table>
+      <tr>
+        <td style="width:70%;"><img src="images/BigPad/70inchtw3a.jpg" alt='70" TW3A BigPad' width="100%" height="100%"/></td>
+        <td style="width:30%;">
+          <ul>
+            <li>70" (176.6cm) screen with a resolution of 1920 x 1080</li>
+            <li>It features a fast and responsive 10 point multi-touch which can support up to 4 users at once.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Technical Specifications</h3>
+    <p>3x HDMI, 1x DisplayPort, 2x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks as inputs.<br>
+      2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort as ouputs.<br>
+      1x RS232C IN, 2x USB and 1x LAN port for control.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mounts.</p>
+    <h2>PN-70TH5</h2>
+    <p>Blah Blah Blah</p>
+    <table>
+      <tr>
+        <td style="width:70%;"><img src="images/BigPad/70th5.jpg" alt='70" TH5 BigPad' width="100%" height="100%"/></td>
+        <td style="width:30%;">
+          <ul>
+            <li>70" (176.6cm) screen with a 4k resolution (3840 x 2160)</li>
+            <li>A true 4k reading and writing experience, with integrated palm regection so it is like writing on paper.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Technical Specifications</h3>
+    <p>3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot as inputs.<br>
+      1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers as outputs.<br>
+      1x LAN port and 2x USB for control.</p>
   </div>
-  <h2>PN-70SC5</h2>
-  <p>The main difference of the PN-70SC5 compared to the other models of the 70" models is that it features the Freeze-frame and Blackout buttons, which adds wanted features for teachers because it gives them greater control over what is being shown on the screen, so they can leave work on the screen while they can get on with other work in the background.</p>
-  <table>
-    <tr>
-      <td style="width:70%;"><img src="images/BigPad/70inchSC5.jpg" alt='70" SC5 BigPad' width="100%" height="100%"/></td>
-      <td style="width:30%;">
-        <ul>
-          <li></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  <h3>Technical Specifications</h3>
-  <p>3x HDMI, 1x VGA, 1x Component (via VGA port), 1x Component (switchable), 1x 3.5mm audio jack and 1x RCA R/L audio jacks as inputs.<br>
-    2x 10W speakers and 1x 3.5mm audio jack as outputs.<br>
-    1x RS232C IN, 1x USB and 1x USB Service port (covered) for control<br>
-    It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 mounts.</p>
-  <h2>PN-70TW3A</h2>
-  <p>difference between everything</p>
-  <table>
-    <tr>
-      <td style="width:70%;"><img src="images/BigPad/70inchtw3a.jpg" alt='70" TW3A BigPad' width="100%" height="100%"/></td>
-      <td style="width:30%;">
-        <ul>
-          <li></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  <h3>Technical Specifications</h3>
-  <p>3x HDMI, 1x DisplayPort, 2x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks as inputs.<br>
-    2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort as ouputs.<br>
-    1x RS232C IN, 2x USB and 1x LAN port for control.<br>
-    It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mounts.</p>
   <div id="equal-1" class="width-three">
     <p>If you want more information about the 70" Big Pads, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">

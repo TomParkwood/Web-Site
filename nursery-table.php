@@ -27,6 +27,20 @@ include('include/pds-header.php');
         </tr>
       </tbody>
     </table>
+    <table>
+      <tr>
+        <td style="width: 60%;"><img src="images/Sharp-Table.png" alt="Sharp Nursery Table" width="100%" height="100%"></td>
+          <td style="width: 40%;">
+          <ul>
+            <li>Toughened 6mm thick safety glass screen.</li>
+            <li>Screen which features both tilting and locking screen position.</li>
+            <li>Educational software loaded as standard.</li>
+            <li>Easily navigable menus for child led learning.</li>
+            <li>Up to 12 hour battery life, so you don't have to stop the children from using it during the day.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
   </div>
 <?php
 include('include/pds-sidebar.php');

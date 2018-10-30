@@ -30,7 +30,8 @@ include('include/pds-header.php');
     <h3>Technical Specifications</h3>
     <p>3x HDMI, 1x VGA, 1x Component, 1x Composite, 1x RCA R-L and 1x 3.5mm audio jack as inputs.<br>
       1x 3.5mm audio jack as outputs.<br>
-      1x RS232C In, 1x USB, 1x USB for service (covered) for control.</p>
+      1x RS232C In, 1x USB, 1x USB for service (covered) for control.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 standard.</p>
     <h2>PN-80TC3A</h2>
     <table>
       <tr>
@@ -45,15 +46,20 @@ include('include/pds-header.php');
     <h3>Technical Specifications</h3>
     <p>3x HDMI, 1x DisplayPort, 2x VGA, 1x Component, 1x Composite, 1x 3.5mm audio jack as inputs.<br>
       2x 10W speakers, 1x DisplayPort as outputs.<br>
-      1x RS232C IN, 1x LAN port, 1x USB for control.</p>
+      1x RS232C IN, 1x LAN port, 1x USB for control.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 standard.</p>
     <h2>PN-80TH5</h2>
+    <p>The PN-80TH5 is the ultimate premium model for the corportate office, it represents the latest innovation and Sharp's unparalleled experience in providing you the best possible touch screen experience.<br>
+    </p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/80th5.jpg" alt='alt" TH5 BigPad' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>80" (203.2cm) screen with a 4k resolution (3840 x 2160)</li>
-            <li></li>
+            <li>It features Sharp's best and fastest 30 point multi-touch panel which can support up to 4 users at once.</li>
+            <li>Using the included Sharp Pen, making annotations and notes on documents has never been easier.</li>
+            <li>If 80" isn't enough for you, you can even link multiple screens together and they operate as a single surface.</li>
           </ul>
         </td>
       </tr>
@@ -61,7 +67,8 @@ include('include/pds-header.php');
     <h3>Technical Specifications</h3>
     <p>3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot as inputs.<br>
       1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers as outputs.<br>
-      2x USB, 1x RS232C IN and 1x LAN port for control.</p>
+      2x USB, 1x RS232C IN and 1x LAN port for control.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 standard.</p>
     </datalist>
     </p>
   </div>
