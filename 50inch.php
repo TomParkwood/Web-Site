@@ -15,7 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>50" Big Pads</h1>
-    <p>The 50" range is the smallest range currently offered by Sharp and have been designed to be used within huddle spaces and smaller meeting rooms with the idea of improving the functionality of meetings.</p>
+    <p>The 50" range is the second smallest range currently offered by Sharp and have been designed to be used within huddle spaces and smaller meeting rooms with the idea of improving the functionality of meetings.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/50inch.jpg" alt='50" BigPad' width="100%" height="100%"/></td>

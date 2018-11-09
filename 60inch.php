@@ -17,18 +17,59 @@ include('include/pds-header.php');
     <h1>60" Big Pads</h1>
     <p>The 60" range of Big Pads currently has three models the PN-60SC5, the PN-60TB3 and the PN-TW3A. The different models are aimed at different scenarios for where they will be the best suited, so they all have slightly different features and functions built in.<br>
       For example the PN-60SC5 was designed for education and office meeting rooms, because it features freeze frame and blackout buttons which allows the presenter to have complete control over the screen. Whereas the PN-60TW3A was designed for hospitals and office meeting rooms, so it has DICOM emulation mode which is used when reviewing radiological scans and the PN-60TB3 which doesn't feature either of these functions.</p>
+    <h2>PN-60SC5</h2>
+    <p>Has been designed specifically with education and office meeting rooms in mind, with its 'Pen-on-Paper' user experience which gives you a more accurate touchscreen writing and input sensation.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" BigPad' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>
-            <li>10 point touch panel with a fast and responsive PCAP capacitive touch.</li>
-            <li>Sharp's unique UV2A LCD technology which gives you high visual clarity.</li>
+            <li>A one-touch button for Freeze Frame and Blackout which gives the presenter complete control over the screen.</li>
           </ul>
         </td>
       </tr>
     </table>
+    <h3>Technical Specifications</h3>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 1x VGA, 1x Component (via VGA) and 2x 3.5mm audio jack.<br>
+      Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
+      Control - 1x LAN port.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mount.</p>
+    <h2>PN-60TB3</h2>
+    <p>Brief description</p>
+    <table>
+      <tr>
+        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60TB3' width="100%" height="100%"/></td>
+        <td style="width:30%;">
+          <ul>
+            <li>60" (152.5cm) size with a resolution of 1920x1080</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Technical Specifications</h3>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 1x VGA, 1x Component (via VGA) and 2x 3.5mm audio jack.<br>
+      Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
+      Control - 1x LAN port.<br>
+      It also features a VESA mount for easy wall mounting, using the 4/400 x 200 mount.</p>
+    <h2>PN-60TW3A</h2>
+    <p>The PN-60TW3A was designed for hospitals and office meeting rooms, with its DICOM emulation which leads to more accurate radiological reviews which vastly improves the group viewing experience, as well as the wireless connectivity options which means that everyone can easily view the images on their own mobile devices.</p>
+    <table>
+      <tr>
+        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60TW3A' width="100%" height="100%"/></td>
+        <td style="width:30%;">
+          <ul>
+            <li>60" (152.5cm) size with a resolution of 1920x1080</li>
+            <li>A fast and responsive 10 point multi touch panel which can support up to 4 users at one time.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Technical Specifications</h3>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 2x VGA, 1x Component (via VGA) and 2x 3.5mm audio jacks.<br>
+      Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
+      Control - 1x RS232C IN, 1x LAN port and 2x USB ports.<br>
+      It also features a VESA mount for easy wall mounting, using the 4/400 x 200 mount.</p>
   </div>
   <div id="equal-1" class="width-three">
     <p>If you want more information about the 60" Big Pads, please get in contact with us.</p>

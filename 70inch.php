@@ -31,9 +31,9 @@ include('include/pds-header.php');
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 1x DisplayPort, 1x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks as inputs.<br>
-      2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort as outputs<br>
-      1x LAN port for control<br>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 1x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks.<br>
+      Outputs - 2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort.<br>
+      Control - 1x LAN port.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mount.</p>
     <h2>PN-70SC5</h2>
     <p>The main difference of the PN-70SC5 compared to the other models of the 70" models is that it features the Freeze-frame and Blackout buttons, which adds wanted features for teachers because it gives them greater control over what is being shown on the screen, so they can leave work on the screen while they can get on with other work in the background.</p>
@@ -48,12 +48,12 @@ include('include/pds-header.php');
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 1x VGA, 1x Component (via VGA port), 1x Component (switchable), 1x 3.5mm audio jack and 1x RCA R/L audio jacks as inputs.<br>
-      2x 10W speakers and 1x 3.5mm audio jack as outputs.<br>
-      1x RS232C IN, 1x USB and 1x USB Service port (covered) for control<br>
+    <p>Inputs - 3x HDMI, 1x VGA, 1x Component (via VGA port), 1x Component (switchable), 1x 3.5mm audio jack and 1x RCA R/L audio jacks.<br>
+      Outputs - 2x 10W speakers and 1x 3.5mm audio jack.<br>
+      Control - 1x RS232C IN, 1x USB and 1x USB Service port (covered).<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 mounts.</p>
     <h2>PN-70TW3A</h2>
-    <p>difference between everything</p>
+    <p>The PN-70TW3A was built with hospitals and boardrooms in mind, with its DICOM emulation mode, which can be used to accurately display radiological images, and combining the wireless connectivity of the PN-70TW3A and radiologist can easily and accurately view the images on their own device.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/70inchtw3a.jpg" alt='70" TW3A BigPad' width="100%" height="100%"/></td>
@@ -66,12 +66,13 @@ include('include/pds-header.php');
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 1x DisplayPort, 2x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks as inputs.<br>
-      2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort as ouputs.<br>
-      1x RS232C IN, 2x USB and 1x LAN port for control.<br>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 2x VGA, 1x Component (via VGA port) and 2x 3.5mm audio jacks.<br>
+      Outputs - 2x 10W speakers, 1x 3.5mm audio jack and 1x DisplayPort.<br>
+      Control - 1x RS232C IN, 2x USB and 1x LAN port.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mounts.</p>
     <h2>PN-70TH5</h2>
-    <p>Blah Blah Blah</p>
+    <p>Is the premium 70" BigPad, which has been designed for corporate office meetings, architectural construction, engineering design, medical reviews and demanding mission-critical collaborative working environments.<br>
+    Using SHARP Touch Viewer software also offers and easy-to-use interface and file system to collect and organise data from different collaborative projects.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/70th5.jpg" alt='70" TH5 BigPad' width="100%" height="100%"/></td>
@@ -79,14 +80,20 @@ include('include/pds-header.php');
           <ul>
             <li>70" (176.6cm) screen with a 4k resolution (3840 x 2160)</li>
             <li>A true 4k reading and writing experience, with integrated palm regection so it is like writing on paper.</li>
+            <li>BYOD wireless collaboration via Mini-OPS Slot or SHARP Display Connect.</li>
+            <li>Fast and responsive 30 point multi-touch which has been optimised for the best touch performance in the most demanding of applications.</li>
+            <li>The included Sharp Pen and software opens up new ways to share ideas and brainstorm quickly and easily.</li>
+            <li>Lightning fast switching between the pen and finger control you won't even notice the switch.</li>
+            <li>If you need a more powerful configuration you can group two or three PN-70TH5's together for a multi-board configuration, which operates as a single collaboration surface.</li>
           </ul>
         </td>
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot as inputs.<br>
-      1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers as outputs.<br>
-      1x LAN port and 2x USB for control.</p>
+    <p>Inputs - 3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot.<br>
+      Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
+      Control - 1x LAN port and 2x USB.<br>
+      </p>
   </div>
   <div id="equal-1" class="width-three">
     <p>If you want more information about the 70" Big Pads, please get in contact with us.</p>

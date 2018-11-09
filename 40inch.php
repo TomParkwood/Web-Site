@@ -15,7 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>40" Big Pads</h1>
-    <p>The 40" range is the smallest range currently offered by Sharp and have been designed to be used within huddle spaces. Although they are the smallest they still have a majority of the features that the other larger models come with.<br>
+    <p>The 40" range is the smallest size currently offered by Sharp and have been designed to be used within huddle spaces. Although they are the smallest they still have a majority of the features that the other larger models come with.<br>
       The main advantages of a Big Pad is how much it can modernise and simplify meetings, by easily allowing for video conferencing and collaboration by using the touch screen. With the optional wireless model, you can easily conenct laptops and other devices to the screen wirelessly, which simplifies the process of getting visitors connected to the screen so there is more time spent on the presentation rather than getting the meeting setup and working.<br>
       Unlike traditional screens the Big Pads also feature PEN software which allows for quick highlighting and annotation during the meetings which can be saved and sent to the attendees. For example in a design meeting you could roughly draw on what needs to be changed and then when the designer goes back they know exactly what needs to be changed and where.</p>
     <table>

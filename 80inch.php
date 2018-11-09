@@ -23,14 +23,17 @@ include('include/pds-header.php');
         <td style="width:30%;">
           <ul>
             <li>80" (203.2cm) screen with a resolution of 1920 x 1080</li>
+            <li>Optical bonding, which means that you get a more eye-catching image and a more immediate touch response.</li>
+            <li>Using Sharp Display Connect, you can allow content sharing between mobile devices and the screen, this allows you to easily share documents and files with everyone involved with the meeting.</li>
+            <li>The Sharp Pen, allows for automatic, intuitive and intelligent switching switching between Pen and finger control, so you won't even notice the difference for the switch.</li>
           </ul>
         </td>
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 1x VGA, 1x Component, 1x Composite, 1x RCA R-L and 1x 3.5mm audio jack as inputs.<br>
-      1x 3.5mm audio jack as outputs.<br>
-      1x RS232C In, 1x USB, 1x USB for service (covered) for control.<br>
+    <p>Inputs - 3x HDMI, 1x VGA, 1x Component, 1x Composite, 1x RCA R-L and 1x 3.5mm audio jack.<br>
+      Outputs - 1x 3.5mm audio jack.<br>
+      Control - 1x RS232C In, 1x USB, 1x USB for service (covered).<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 standard.</p>
     <h2>PN-80TC3A</h2>
     <table>
@@ -44,9 +47,9 @@ include('include/pds-header.php');
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 1x DisplayPort, 2x VGA, 1x Component, 1x Composite, 1x 3.5mm audio jack as inputs.<br>
-      2x 10W speakers, 1x DisplayPort as outputs.<br>
-      1x RS232C IN, 1x LAN port, 1x USB for control.<br>
+    <p>Inputs - 3x HDMI, 1x DisplayPort, 2x VGA, 1x Component, 1x Composite, 1x 3.5mm audio jack.<br>
+      Outputs - 2x 10W speakers, 1x DisplayPort.<br>
+      Control - 1x RS232C IN, 1x LAN port, 1x USB.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 standard.</p>
     <h2>PN-80TH5</h2>
     <p>The PN-80TH5 is the ultimate premium model for the corportate office, it represents the latest innovation and Sharp's unparalleled experience in providing you the best possible touch screen experience.<br>
@@ -65,9 +68,9 @@ include('include/pds-header.php');
       </tr>
     </table>
     <h3>Technical Specifications</h3>
-    <p>3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot as inputs.<br>
-      1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers as outputs.<br>
-      2x USB, 1x RS232C IN and 1x LAN port for control.<br>
+    <p>Inputs - 3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot.<br>
+      Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
+      Control - 2x USB, 1x RS232C IN and 1x LAN port.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 standard.</p>
     </datalist>
     </p>

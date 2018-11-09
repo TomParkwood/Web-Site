@@ -37,10 +37,15 @@ include('include/pds-header.php');
             <li>Educational software loaded as standard.</li>
             <li>Easily navigable menus for child led learning.</li>
             <li>Up to 12 hour battery life, so you don't have to stop the children from using it during the day.</li>
+            <li>Lock the device to a specific app so the children cannnot change the app whenever they want, the teacher will need to do so.</li>
+            <li>Built in speakers so you can easily watch video content on it, whether that be streaming or from a USB stick plugged in to the back of the unit.</li>
           </ul>
         </td>
       </tr>
     </table>
+  <p>The table isn't just an android tablet, it can also function as a 40" touch screen for any computer. So if you want to teach a class using a touch screen but it doesn't run on android you can plug a computer in and it will work as a second screen for the device.<br>
+  The table can easily be used for meetings and displays, not just for games and apps, For parents evenings or staff meetings it can be used to show work done, or information which needs to be shown to staff or parents.<br>
+  </p>
   </div>
 <?php
 include('include/pds-sidebar.php');
