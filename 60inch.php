@@ -36,13 +36,14 @@ include('include/pds-header.php');
       Control - 1x LAN port.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 200 mount.</p>
     <h2>PN-60TB3</h2>
-    <p>Brief description</p>
+    <p>Although the PN-60TB3 is the more basic model of 60" screen currently offered, it doesn't have worse quality or a bad screen. The screen itself is the same touch screen as the other two models, it just doesn't have the added features such as the blackout buttons or DICOM emulation. So for most offices and meeting areas this model is ideal because it has the functionality that you need without the added extras that more than likely will not be used.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60TB3' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>
+            <li>A fast and responsive 10 point multi-touch panel which can support up to 4 users at one time.</li>
           </ul>
         </td>
       </tr>
@@ -61,6 +62,7 @@ include('include/pds-header.php');
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>
             <li>A fast and responsive 10 point multi touch panel which can support up to 4 users at one time.</li>
+            <li>Utilising the latest versions of the Windows driver and the Pen Digitizer, it ensures the best and most automatic and intelligent switching between writing with the Pen and finger control. You shouldn't even notice the difference.</li>
           </ul>
         </td>
       </tr>

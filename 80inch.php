@@ -36,12 +36,15 @@ include('include/pds-header.php');
       Control - 1x RS232C In, 1x USB, 1x USB for service (covered).<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 standard.</p>
     <h2>PN-80TC3A</h2>
+    <p>The PN-80TC3A was designed for large meeting rooms and corportate areas where team communication is imperitive. If 80 inches of screen isn't large enough for you, then you can pair together two screens which will work as one collaborative surface.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/80tc3.jpg" alt='80" TC3A BigPad' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>80" (203.2cm) screen with a resolution of 1920 x 1080</li>
+            <li>A 10 point multi touch screen, which can support up to  users at one time.</li>
+            <li>A seamless flat bezel which was designed for a more sleek appearance and better multi-board configuration</li>
           </ul>
         </td>
       </tr>
@@ -71,7 +74,7 @@ include('include/pds-header.php');
     <p>Inputs - 3x HDMI, 2x DisplayPort, 1x VGA, 1x 3.5mm audio jack and a Mini-OPS slot.<br>
       Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
       Control - 2x USB, 1x RS232C IN and 1x LAN port.<br>
-      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400 standard.</p>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/600 x 400 mount.</p>
     </datalist>
     </p>
   </div>
