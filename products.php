@@ -13,7 +13,7 @@ include('include/pds-header.php');
 		<div class="main-span">
 			<h1>Photocopiers</h1>
 			<div class="left" style="width:40%;">
-				<img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+				<a href="photocopiers.php"><img class="product" src="images/sharp/sphinx.jpg" alt="The current range of photocopiers that we offer" width="100%"/></a>
 			</div>
 			<div class="right" style="width:60%;">
 				<p>Multifunctional devices have evolved from photocopiers and have many areas of functionality, predominantly printing, faxing, scanning, the ability to e-mail documents and integration with other applications.</p>
@@ -26,7 +26,7 @@ include('include/pds-header.php');
 		<div class="main-span">
 			<h1>Skywell</h1>
 			<div class="left" style="width:40%;">
-				<img class="product" src="images/skywell.jpg" alt="" width="30%">
+				<a href="skywell.php"><img class="product" src="images/skywell.jpg" alt="The Skywell a water machine like no other" width="30%"></a>
 			</div>
 			<div class="right" style="width:60%;">
 				<p>The Skywell is a water machine like no other, because it makes it's own water. No plumbing or large plastic bottles of water required.</p>
@@ -39,7 +39,7 @@ include('include/pds-header.php');
 		<div class="main-span">
 			<h1>Sharp Interactive Nursery Table</h1>
 			<div class="left" style="width:40%;">
-				<img class="product" src="images/Sharp-table.png" alt="" width="100%">
+				<a href="nursery-table.php"><img class="product" src="images/Sharp-table.png" alt='A 40" battery powered tablet which is perfect for pre schools and early years education' width="100%"></a>
 			</div>
 			<div class="right" style="width:60%;">
 				<p>A 40" tablet which is aimed at nurseries and schools which aim to encourage sharing and co-operation with educational games which are aimed at younger children.</p>
@@ -53,13 +53,15 @@ include('include/pds-header.php');
 		<div class="main-span">
 			<h1>Sharp Big Pad</h1>
 			<div class="left" style="width:40%;">
-				<img class="product" src="images/BigPad.jpg" alt="" width="100%">
+				<a href="bigpad.php"><img class="product" src="images/BigPad.jpg" alt='The range of BigPads which are suited for meeting rooms and classrooms' width="100%"></a>
 			</div>
 			<div class="right" style="width:60%;">
 				<p>The Big Pads offered by Sharp are designed to increase productivity in meetings and classroom environments, by adding a large touch screen display. Which can either be used by itself or with a computer or tablet.</p>
 				<p>With sizes ranging from 40 inches all the way up to 80 inches. You can easily find one which will suit your requirements.</p>
-				<p><a class="more" href="big-pad.php"><img src="images/read-more.png" alt=""></a></p>
+				<p><a class="more" href="bigpad.php"><img src="images/read-more.png" alt=""></a></p>
 			</div>
+		</div>
+		<div class="separator">
 		</div>
 	</div>
 	<br><br><br>
