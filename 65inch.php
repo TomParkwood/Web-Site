@@ -15,7 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>65" Big Pads</h1>
-    <p>Some crappy text that i really cba to do right this minute im just glad that this isnt on a live site.</p>
+    <p>The 65" range of Big Pads is the middle range of size, it only has one model the PN-65SC1. The screen also features a Freeze-Frame button which can keep a classrooms attention on the screen whilst getting on with work. The PN-65SC1 was designed for schools and meeting rooms, with the idea of giving the presenter complete control.</p>
     <table>
       <tr>
         <td style="width:70%;"><img src="images/BigPad/65inch.jpg" alt='65" BigPad' width="100%" height="100%"/></td>
@@ -30,6 +30,11 @@ include('include/pds-header.php');
         </td>
       </tr>
     </table>
+    <h3>Technical Specifications</h3>
+    <p>Inputs - 4x HDMI, 1x DisplayPort, 1x VGA (Mini D-SUB 15 pin) and a 3.5mm audio jack.<br>
+      Outputs - 1x 3.5mm audio jack.<br>
+      Control - 1x RS232C IN and 2x USB.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400mm standard.</p>
   </div>
   <div id="equal-1" class="width-three">
     <p>If you want more information abou the 65" Big Pads, please get in contact with us.</p>

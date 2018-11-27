@@ -92,7 +92,7 @@ include('include/pds-header.php');
           <td>Optional numeric keypad</td>
         </tr>
         <tr>
-          <td>14. NK=7110</td>
+          <td>14. NK-7110</td>
           <td>Optional numeric keypad</td>
         </tr>
         <tr>

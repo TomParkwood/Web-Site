@@ -9,7 +9,7 @@ include('include/pds-header.php');
 ?>
 <div id="crumbs-wrapper">
   <div id="crumbs">
-    You are at: <a href="index.php">Home</a> &gt; <a href="products.php">Products</a> &gt; <a href="big-pad.php">Sharp Big Pad</a>
+    You are at: <a href="index.php">Home</a> &gt; <a href="products.php">Products</a> &gt; <a href="bigpad.php">Sharp Big Pad</a>
   </div>
 </div>
 <div id="main-wrapper">
@@ -28,8 +28,7 @@ include('include/pds-header.php');
       User-friendliness allows everyone to participate. Content is not limited to whatever is beamed from a projector - the projector may become largely redundant when so many other interactive devices may be wirelessly connected to the giant scren at the front of the room.<br>
       Having taken so easily to the interactive solutions afforded by the Big Pad, your class is more likely to want to recap or to move on from where they left off in the last lesson.<br>
       Keeping the record of past collaborative efforts is simply done by just wirelessly recording the work from the Big Pad or saving it to a USB stick - and bringing it up again the next lesson and you can all resume from exactly where you left off. If you need a hard copy from any key parts of the lesson, these can be just as easily printed off through a networked printer.</p>
-      <p>With all screens boasting touch screen with fast and responsive Infrared (IR) 10<sup>1</sup> point touch which means that up to four users can be interacting with one screen at a time. As well as High Definition 1080p displays <sup>2</sup>.</p>
-
+      <p>With all screens boasting touch screen with fast and responsive Infrared (IR) 10<sup>1</sup> point touch which means that up to four users can be interacting with one screen at a time. As well as High Definition 1080p displays <sup>2</sup>. With more models being announced with 4k resolutions and up to 30 point multi-touch</p>
     </div>
     <?php
     include('include/pds-sidebar.php');

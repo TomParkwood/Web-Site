@@ -17,7 +17,7 @@ include('include/pds-header.php');
     <div class="main-span">
       <h1>Drivve Image</h1>
       <div class="left" style="width:40%;">
-        <img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+        <img class="product" src="images/software/drivve.png" alt="Drivve Image" width="100%"/>
       </div>
       <div class="right" style="width:60%;">
         <p>Drivve Image allows you to save time and money on archiving documents, by utilising OCR and barcode scanning to complete workflows. Such as moving invoices into specific folders, placing documents sent by a company into their own folder, naming files by the date on the letter just to name a few.</p>
@@ -29,7 +29,7 @@ include('include/pds-header.php');
     <div class="main-span">
       <h1>Invu Document Mangement</h1>
       <div class="left" style="width:40%;">
-        <img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+        <img class="product" src="images/software/invu.jpg" alt="Invu Document Management" width="100%"/>
       </div>
       <div class="right" style="width:60%;">
         <p>Invu Document Mangement centralizes your documents and improves workflow by streamlining the prcess to get documents to where they need to be internally and provides automation for data entry.</p>
@@ -41,7 +41,7 @@ include('include/pds-header.php');
     <div class="main-span">
       <h1>Laserfiche</h1>
       <div class="left" style="width:40%;">
-        <img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+        <img class="product" src="images/software/laserfiche.png" alt="Laserfiche" width="100%"/>
       </div>
       <div class="right" style="width:60%;">
         <p>Laserfiche is a software package which allows for easier storing of documents as well as transforming all scanned documents into OCR searchable ones.</p>
@@ -53,7 +53,7 @@ include('include/pds-header.php');
     <div class="main-span">
       <h1>PaperCut</h1>
       <div class="left" style="width:40%;">
-        <img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+        <img class="product" src="images/software/papercut.png" alt="PaperCut" width="100%"/>
       </div>
       <div class="right" style="width:60%;">
         <p>PaperCut allows you to take control of your print environment, so you can assign print costs to departments, use biometrics to authenticate yourself at the printer or simply automate reports. It is as powerful as you make it.<p>
@@ -65,7 +65,7 @@ include('include/pds-header.php');
     <div class="main-span">
       <h1>Sharpdesk</h1>
       <div class="left" style="width:40%;">
-        <img class="product" src="images/sharp/sphinx.jpg" alt="" width="100%"/>
+        <img class="product" src="images/software/sharpdesk.png" alt="Sharpdesk" width="100%"/>
       </div>
       <div class="right" style="width:60%;">
         <p>Sharpdesk allows for easy viewing, annotation, editing and organisation of scanned documents. Sharpdesk comes with OCR capability meaning that you can always find the scanned document you want with text searching.</p>

@@ -31,6 +31,11 @@ include('include/pds-header.php');
         </td>
       </tr>
     </table>
+    <h3>Technical Specifications</h3>
+    <p>Inputs - 2x HDMI, 1x DisplayPort, 1x VGA, 1x Mini OPS Extension Slot and a 3.5mm audio jack.<br>
+      Outputs - 2x 10W speakers and a 3.5mm audio jack.<br>
+      Control - 2x USB, 1x RS232C IN and a LAN port.<br>
+      It also features a VESA mount for easy wall or stand mounting, using the 4/200 x 200mm standard.</p>
   </div>
   <div id="equal-1" class="width-three">
     <p>If you want more information about the 50" Big Pads, please get in contact with us.</p>

@@ -42,7 +42,9 @@ include('include/pds-header.php');
         <td style="width:70%;"><img src="images/BigPad/70inchSC5.jpg" alt='70" SC5 BigPad' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
-            <li></li>
+            <li>70" (176.6cm) screen with a resolution of 1920x1080</li>
+            <li>It features a fast and responsive 10 point multi-touch which can support up to 4 users at once.</li>
+            <li>Simply freeze or black the screen out with dedicated buttons.</li>
           </ul>
         </td>
       </tr>

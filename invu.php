@@ -15,6 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>Invu Document Mangement</h1>
+    <img src="images/software/Invu.jpg" alt="Invu Document Management Software" style="float:right" width="50%">
     <h3>What does Invu DM do?</h3>
     <p>Invu helps you keep on top of your digital records. It does this by keeping a central copy of the documents and everyone saves their work onto the central area.<br>
       Invu would benefit your company by keeping down storage costs by not having to have multiple copies of files on everyon's workstations. It also simplfies the backup procedure, by instead of having to ensure that the user saves their files to the correct areas they are all stored in one area, meaning that you don't have to worry about someone losing all of their work which they saved to the wrong area.<br>
