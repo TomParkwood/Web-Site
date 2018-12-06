@@ -15,7 +15,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>Laserfiche</h1>
-    <img src="images/software/laserfiche.png" style="float:right" width="50%">
+    <img src="images/software/laserfiche.png" style="float:right" alt="Laserfiche software logo" width="50%">
     <h3>What is Laserfiche?</h3>
     <p>Laserfiche allows companies to properly manage their documents in easy to find places and also makes it easier to digitize all paper based documents.<br>
       Laserfiche allows for much better searching of documents with more defined queries, so you are more likely to find what you are looking for on the first go instead of having to try multiple searches and still not finding anything.<br>

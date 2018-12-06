@@ -24,7 +24,7 @@ include('include/pds-header.php');
             Print and copy speeds of up to 26 ppm in colour and black &amp; white, a built-in 100-sheet Reversing Feeder and a scan speed of up to 80 ipm all help to boost efficiency and productivity; while 600 x 600 dpi print resolution, our auto process control and developer refresh system ensure consistently high image quality. A maximum paper capacity of 6,300 sheets and support for a wide range of media (up to SRA3 and 300 gsm) enables this device to handle varied output requirements with ease. Plus, a variety of finishing options such as saddle stitching, manual and stapleless stapling add further versatility.<br>
             The MX-2630N has layer upon layer of robust but unobtrusive security, with TSL/ISL, IPsec and network protocol filtering. Other standard security features include secure erasure, strong encryption and administrator password protection. Plus, S/MIME for encrypting emails and digitally signing them. For even greater security the optional Data Security Kit (DSK) gives your customers a full suite of high security features including the Document Control feature, and the advanced DSK mode which enables an even higher protection profile.<br>
             The Energy Star-certified MX-2630N uses Sharp's latest energy-saving technology. Our low melt toner and quick-heating fuser unit reduce power consumption and you can configure automatic power on/off settings for further savings. In addition, the automatic toner cartridge eject function ensures all toner has been consumed, thereby saving resources.</td>
-         <td style = "width:30%;"><img src="images/sharp/sphinx.jpg" style="width:100%"></td>
+         <td style = "width:30%;"><img src="images/sharp/sphinx.jpg" alt="The MX-2630N model of MFP by Sharp" style="width:100%"></td>
        </tr>
      </table>
      <br>
@@ -52,7 +52,7 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
-    <img src="images/sharp/sphinx-options.jpg" width="50%">
+    <img src="images/sharp/sphinx-options.jpg" alt="The options offered for the Sphinx range of machines" width="50%">
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">1. MX-DE25 N Stand with 550-Sheet Paper Drawer</td>

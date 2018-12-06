@@ -1,9 +1,9 @@
-<div id="slide-wrapper" class="desktop" align="center">
-	<a href="products.php"><img class="mySlides" src="images/slides/slide-1.jpg" align="middle"/></a>
-	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-2.jpg" align="middle"/></a>
-	<a href="document-management.php"><img class="mySlides" src="images/slides/slide-3.jpg" align="middle"/></a>
-	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-4.jpg" align="middle"/></a>
-	<a href="print-audit.php"><img class="mySlides" src="images/slides/slide-5.jpg" align="middle"/></a>
+<div id="slide-wrapper" class="desktop" align="center" width="100%">
+	<a href="products.php"><img class="mySlides" src="images/slides/slide1.png" align="middle" width="100%"/></a>
+	<a href="photocopiers.php"><img class="mySlides" src="images/slides/slide-2.jpg" align="middle" width="100%"/></a>
+	<a href="document-management.php"><img class="mySlides" src="images/slides/slide3.png" align="middle" width="100%"/></a>
+	<!--<a href="photocopiers.php"><img class="mySlides" src="images/slides/slide-4.jpg" align="middle" width="100%"/></a>-->
+	<a href="print-audit.php"><img class="mySlides" src="images/slides/slide5.png" align="middle" width="100%"/></a>
 </div>
 <script>
 var myIndex =0;

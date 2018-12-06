@@ -14,7 +14,7 @@ include('include/pds-header.php');
 <div id="main-wrapper">
   <div id="equal-1" class="width-three">
     <h1>Sharpdesk</h1>
-    <img src="images/software/sharpdesk.png" style="float:right" width="50%">
+    <img src="images/software/sharpdesk.png" style="float:right" alt="Preview of the Sharpdesk interface" width="50%">
     <h3>What can Sharpdesk do for you?</h3>
     <p>Sharpdesk allows the easy viewing, organiastion, annotation and editing of scanned documents.<br>
       It converts paper based documents into those with OCR (Optical Character Recognition) capability. Meaning that you can search for whats included within the document, edit the text and much more functionality for scanned documents. As well as thumbnail viewing of documents, so you don't always have to open up each document to try and find the one you are after just look at the preview picture.<br>

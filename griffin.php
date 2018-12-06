@@ -23,7 +23,7 @@ include('include/pds-header.php');
             A tiltable 10.1" colour LCD touchscreen provides the ability to drag and drop frequently used icons for simple customisation of the home screen. Everyday operation is simple and intuitive; just touch, tap, pinch and spread or swipe for instant access to every feature, function and setting including an advanced preview feature.<br>
             Print and copy sppeds of up to 60 pages per minute in colour and black &amp; white, a built-in 100-sheet Reversing Single Pass Feeder and a scan speed of up to 80 ipm, all help boost efficiency and productivity; while 600 x 600 dpi print resolution, combined with Sharp's auto process control and developer refresh system ensure consistently high image quality. A maximum paper capacity of 6,300 sheets and support for a wide range of media (up to SRA3 and 300gsm) enables this device to handle varied output requirements with ease. And a varied selection of finishing options such as saddle stiching, manual and stapleless stapling add further versatility.<br>
             The Energy Star certified devices uses Sharp's latest energy-saving technology. A rapid warm up time, low power consumption and low TEC value all aim to save money and support your environmental objectives. In addition, the automatic toner cartridge eject function ensures that all toner has beem consumed before it can be replaced, therby saving resources.</td>
-          <td style="width:30%;"><img src="images/sharp/griffin.jpg" style="width:100%"></td>
+          <td style="width:30%;"><img src="images/sharp/griffin.jpg" alt="Overview of the Griffin Range" style="width:100%"></td>
         </tr>
       </table>
       <br>

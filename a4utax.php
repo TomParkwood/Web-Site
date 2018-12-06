@@ -29,11 +29,11 @@ include('include/pds-header.php');
       <table class="productTable" border="1">
         <tr>
           <td style="width:50%;">Engine speed Colour ppm (A4)</td>
-          <td style="width:50%;">21 / 26 / 30</td>
+          <td style="width:50%;">21 / 26</td>
         </tr>
         <tr>
           <td>Engine speed B/W ppm (A4)</td>
-          <td>21 / 26 / 30</td>
+          <td>21 / 26</td>
         </tr>
         <tr>
           <td>Paper size: Min. - Max.</td>

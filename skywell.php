@@ -18,7 +18,7 @@ include('include/pds-header.php');
       <tbody>
         <tr>
           <td style="width:20%;">
-            <img src="images/Skywell.jpg" alt="" width="100%" height="100%"/>
+            <img src="images/Skywell.jpg" alt="Portrait image fo the Skywell" width="100%" height="100%"/>
           </td>
           <td style="width:80%;">
             <h1>Skywell</h1>
