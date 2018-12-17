@@ -21,11 +21,13 @@ include('include/pds-header.php');
     <p>Has been designed specifically with education and office meeting rooms in mind, with its 'Pen-on-Paper' user experience which gives you a more accurate touchscreen writing and input sensation.</p>
     <table>
       <tr>
-        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" BigPad' width="100%" height="100%"/></td>
+        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60SC5' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>
             <li>A one-touch button for Freeze Frame and Blackout which gives the presenter complete control over the screen.</li>
+            <li>Built in speakers so you don't have to worry about getting speakers setup and them not working when they need to.</li>
+            <li>Sharp Display Connect which allows for wireless BYOD connectivity.</li>
           </ul>
         </td>
       </tr>
@@ -39,11 +41,12 @@ include('include/pds-header.php');
     <p>Although the PN-60TB3 is the more basic model of 60" screen currently offered, it doesn't have worse quality or a bad screen. The screen itself is the same touch screen as the other two models, it just doesn't have the added features such as the blackout buttons or DICOM emulation. So for most offices and meeting areas this model is ideal because it has the functionality that you need without the added extras that more than likely will not be used.</p>
     <table>
       <tr>
-        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60TB3' width="100%" height="100%"/></td>
+        <td style="width:70%;"><img src="images/BigPad/60ta3.jpg" alt='60" PN-60TB3' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>
             <li>A fast and responsive 10 point multi-touch panel which can support up to 4 users at one time.</li>
+            <li>Using Sharp Display Connect you can wirlessly connect all of your devices to the screen for a great BYOD experience</li>
           </ul>
         </td>
       </tr>
@@ -57,7 +60,7 @@ include('include/pds-header.php');
     <p>The PN-60TW3A was designed for hospitals and office meeting rooms, with its DICOM emulation which leads to more accurate radiological reviews which vastly improves the group viewing experience, as well as the wireless connectivity options which means that everyone can easily view the images on their own mobile devices.</p>
     <table>
       <tr>
-        <td style="width:70%;"><img src="images/BigPad/60inch.jpg" alt='60" PN-60TW3A' width="100%" height="100%"/></td>
+        <td style="width:70%;"><img src="images/BigPad/60tw3.jpg" alt='60" PN-60TW3A' width="100%" height="100%"/></td>
         <td style="width:30%;">
           <ul>
             <li>60" (152.5cm) size with a resolution of 1920x1080</li>

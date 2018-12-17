@@ -23,29 +23,9 @@ include('include/pds-header.php');
 			<div class="left">
 				<img alt="" src="images/support1.jpg" title="" /> </div>
 			<div class="left" style="width: 550px">
-				<p>Our service response will ensure that any new copier will be
-				up &amp; running on average at least 95% of the time. We will also ensure
-				a 90% first time fix because our engineers will carry the right
-				parts to enable them to fix your machine on their first visit 9
-				times out of 10 over your contract period. With Nationwide Service
-				Support provided by ParkWood Document Solutions we can maintain
-				your hardware &amp; software solutions wherever your offices are located
-				in the UK.</p>
-				<p>A minimum call procedure is carried out at every service visit.
-				This ensures that not only is copy quality checked but the machine
-				is cleaned &amp; all high mortality parts are checked &amp; replaced as
-				necessary, thus ensuring reliability &amp; consistent high performance
-				whilst keeping downtime &amp; interruption to your business &amp; it&#39;s staff
-				members to an absolute minimum.</p>
-				<p>As part of our comprehensive meter based (click based) service
-				contract, all consumables including toner, parts, labour &amp; preventative
-				maintenance are supplied to ensure that the machines run as efficiently
-				as possible throughout their lifetime. Consumables include black
-				toner (unless agreed as a chargeable extra), developer &amp; drum units.
-				Parts supplied for photocopiers are covered by warranty. Parts supplied
-				for machines not covered by a ParkWood service contract will be
-				charged at the manufacturers recommended retail price &amp; labour will
-				be charged at the current rate.</p>
+				<p>Our service response will ensure that any new copier will be	up & running on average at least 95% of the time. We will also ensure	a 90% first time fix because our engineers will carry the right	parts to enable them to fix your machine on their first visit 9 times out of 10 over your contract period. With Nationwide Service Support provided by ParkWood Document Solutions we can maintain your hardware & software solutions wherever your offices are located	in the UK.</p>
+				<p>A minimum call procedure is carried out at every service visit. This ensures that not only is copy quality checked but the machine	is cleaned & all high mortality parts are checked & replaced as	necessary, thus ensuring reliability & consistent high performance whilst keeping downtime & interruption to your business and it's staff members to an absolute minimum.</p>
+				<p>As part of our comprehensive meter based (click based) service	contract, all consumables including toner, parts, labour & preventative	maintenance are supplied to ensure that the machines run as efficiently as possible throughout their lifetime. Consumables include black toner (unless agreed as a chargeable extra), developer & drum units.	Parts supplied for photocopiers are covered by warranty. Parts supplied	for machines not covered by a ParkWood service contract will be	charged at the manufacturers recommended retail price & labour will be charged at the current rate.</p>
 			</div>
 		</div>
 		<div class="separator">

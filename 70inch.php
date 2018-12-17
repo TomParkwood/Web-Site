@@ -63,6 +63,7 @@ include('include/pds-header.php');
           <ul>
             <li>70" (176.6cm) screen with a resolution of 1920 x 1080</li>
             <li>It features a fast and responsive 10 point multi-touch which can support up to 4 users at once.</li>
+            <li>DICOM emulation mode makes it easy and more accurate to display radiological images.</li>
           </ul>
         </td>
       </tr>

@@ -45,7 +45,7 @@ include('include/pds-header.php');
           <td colspan="2">
             <h3>More Information</h3>
             <p>Here is some more information about the Skywell as well as its technical specifications.</p>
-            <p>Please note that the specification are currently usng American units because the Skywell hasn't been fully released in the United Kingdom yet.</p>
+            <p>Please note that the specifications are currently usng American units because the Skywell hasn't been fully released in the United Kingdom yet.</p>
             <a href="http://www.skywell.com/media/skywell%205/brochure%201.pdf" target="_blank" rel="noreferrer noopener">Brochure</a><br>
             <a href="http://www.skywell.com/media/skywell%205/brochure%202.pdf" target="_blank" rel="noreferrer noopener">Brochure with technical specifications.</a>
         </tr>
