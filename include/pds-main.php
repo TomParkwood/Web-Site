@@ -48,9 +48,8 @@ $query = !empty($_SERVER['QUERY_STRING']) ? $_SERVER['QUERY_STRING'] : null;
 <script src="./scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<link rel="stylesheet" type="text/css" href="style/jquery-eu-cookie-law-popup.css"/>
+<script src="./scripts/CookieConsent.js" type="text/javascript"></script>
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="scripts/jQuery-eu-cookie-law-popus.js"></script>
 <title><?php echo $pageTitle; ?> ParkWood Document Solutions</title>
 <link rel="icon" href="/images/favicon.ico">
 </head>

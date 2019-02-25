@@ -19,11 +19,13 @@ include('include/pds-header.php');
       <p>The Sharp range consists of four different types of machines, which go from smaller desktop machines all the way to high speed machines with up to 75 pages per minute.</p>
         <table style="width:100%;">
           <tr>
-            <td style="width:50%;"><strong><a href="griffin.php">The Griffin Range</a></strong></td>
+            <!--<td style="width:50%;"><strong><a href="griffin.php">The Griffin Range</a></strong></td>-->
+            <td style="width:50%;"><strong><a href="Griffin2.php">The Griffin 2 Range</a></strong></td>
             <td style="width:50%;"><strong><a href="neo.php">The Neo Range</a></strong></td>
           </tr>
           <tr>
-            <td><a href="griffin.php"><img src="images/sharp/griffin.jpg" alt=""></a></td>
+            <!--<td><a href="griffin.php"><img src="images/sharp/griffin.jpg" alt=""></a></td>-->
+            <td><a href="Griffin2.php"><img src="images/sharp/griffin2.jpg" alt=""></a></td>
             <td><a href="neo.php"><img src="images/sharp/neo.jpg" alt=""></a></td>
           </tr>
         </table>

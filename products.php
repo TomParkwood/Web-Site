@@ -24,6 +24,19 @@ include('include/pds-header.php');
 		<div class="separator">
 		</div>
 		<div class="main-span">
+			<h1>ProfiPack</h1>
+			<div class="left" style="width:40%;">
+				<a href="ProfiPack.php"><img class="product" src="images/ProfiPackP425.jpg" alt="HSM ProfiPack" width="100%"/></a>
+			</div>
+			<div class="right" style="width:60%;">
+				<p>With these packaging machines, you can process cardboard into a padding mat or padded filling material in one working step.</p>
+				<p>As either a compact desktop device, so it can be used as a mobile device with total flexibility, or a floor standing machine on steering rollers which can be used with total flexibility.</p>
+				<p><a class="more" href="ProfiPack.php"><img src="images/read-more.png" alt=""></a></p>
+			</div>
+		</div>
+		<div class="separator">
+		</div>
+		<div class="main-span">
 			<h1>Skywell</h1>
 			<div class="left" style="width:40%;">
 				<a href="skywell.php"><img class="product" src="images/skywell.jpg" alt="The Skywell a water machine like no other" width="30%"></a>

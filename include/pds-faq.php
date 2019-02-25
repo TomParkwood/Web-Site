@@ -145,13 +145,18 @@ Just as a precaution go back to Frequently Used Settings for Normal Print and ch
 $faqType[14] = 0;
 
 $faqQuestion[15] ="Questions to ask before you get a photocopier";
-$faqAnswer[15] = "<p>Speed: How fast is the photocopier going to be?<br>
+$faqAnswer[15] = "<p><strong>Speed: How fast is the photocopier going to be?</strong><br>
 Your monthly print volume will dictate the output speed of any device. The higher the volume then the quicker the engine speed, don't be pressured into buying a fast machine for low volume output, you'll just be wasting your money.<br>
 Each machine has a manufacturers recommended monthly output volume, once we know what your current, and future anticipated volumes are, we will be in a position to recommend the most appropriate machines for your needs.</p>
-<br>
-<p>Capability: What can our machine do?<br>
+<p><strong>Capability: What can our machine do?</strong><br>
 The latest machines have a variety of options and functionality, all designed to enhance and improve your workflow processes. Therefore, we need to know what you do, how you do it and how, if possible. We can help to improve, speed up or reduce your costs. You will be surprised at some of the ideas and options we can come up with to help you.</p>
-"
+<p><strong>How do I pay for the equipment?</strong><br>
+This all depends on you, the individual client. Depending on your circumstances, we may be able to offer you a LEASE or RENTAL agreement. Alternatively, you can just pay us in cash or kind. Each option has it's own pros and cons.<br>
+Understanding what is right for you and your business is important.</p>
+<br>
+<p><strong>Be careful out there...</strong></p>
+<p>Any company who offers you equipment or quote without establishing the above information and getting a clear understanding of your organisation's needs is not in a position to advise you meaningfully.<br>
+This is why we really take the time to understand this and more, to enable us to make sure you get the right solution, at the right price, first time.</p>";
 $faqType[15] = 0;
 
 // $faqQuestion[5] = "";
