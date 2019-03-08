@@ -28,13 +28,9 @@ include('include/pds-header.php');
       User-friendliness allows everyone to participate. Content is not limited to whatever is beamed from a projector - the projector may become largely redundant when so many other interactive devices may be wirelessly connected to the giant scren at the front of the room.<br>
       Having taken so easily to the interactive solutions afforded by the Big Pad, your class is more likely to want to recap or to move on from where they left off in the last lesson.<br>
       Keeping the record of past collaborative efforts is simply done by just wirelessly recording the work from the Big Pad or saving it to a USB stick - and bringing it up again the next lesson and you can all resume from exactly where you left off. If you need a hard copy from any key parts of the lesson, these can be just as easily printed off through a networked printer.</p>
-      <p>With all screens boasting touch screen with fast and responsive Infrared (IR) 10<sup>1</sup> point touch which means that up to four users can be interacting with one screen at a time. As well as High Definition 1080p displays <sup>2</sup>. With more models being announced with 4k resolutions and up to 30 point multi-touch</p>
+    <p>With all screens boasting touch screen with fast and responsive Infrared (IR) 10<sup>1</sup> point touch which means that up to four users can be interacting with one screen at a time. As well as High Definition 1080p displays <sup>2</sup>. With more models being announced with 4k resolutions and up to 30 point multi-touch</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/lL-RmH7cxGo" frameborder="0" allow="allowfullscreen"></iframe>
-    </div>
-    <?php
-    include('include/pds-sidebar.php');
-     ?>
-  <div id="equal-1" class="width-three">
+      <br><br>
       <table style="width:100%;" border="1">
         <tr>
           <td style="width:50%;"><strong>40" Screens</strong></td>
@@ -79,10 +75,10 @@ include('include/pds-header.php');
           <td style="width:50%;">The 80 inch Big Pads were designed for large meeting rooms and classrooms, you can even pair together 2 screens for double the space. <a href="80inch.php">Click here to find out more.</a></td>
         </tr>
       </table>
-  </div>
-  <div id="equal-1" class="width-three">
+      <br><br>
     <p><sup>1</sup>Apart from the PN-70TH5 which features 30 point touch.<br>
     <sup>2</sup>Apart from the PN-70TH5 which is 4K (3840x2160).</p>
+    <br>
     <p>If you want more information about the Sharp Big Pad, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -108,6 +104,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+   ?>
 </div>
 <?php
 include('include/pds-footer.php')

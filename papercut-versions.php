@@ -1,4 +1,4 @@
-<!--PaperCut-->
+<!--PaperCut Versions-->
 <?php
 $pageTitle = "PaperCut:";
 $pageSummary = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
@@ -21,7 +21,10 @@ include('include/pds-header.php');
       The more advanced version is PaperCut MF, which has all of the features of PaperCut NG but also enables a small application to be embedded within the photocopiers for greater control over who has access to these devices and more monitoring of what is being done on the machine, such as tracking scans and copying.<br>
       <br>
       Whereas PaperCut NG can only track print jobs that have been sent to the print queue, PaperCut MF is able to track and monitor everything that is done on the machine once the user has logged in, this includes copying, scanning and printing.<br>
-      With PaperCut MF you have to login at the machine before you can
+      With PaperCut MF you have to login at the machine before you can use the machine so it can effectively lock down the machine to unwanted users from using the machine if you don't want them to.<br>
+
+    </p>
+  </div>
   <?php
   include('include/pds-sidebar.php');
   ?>
@@ -29,7 +32,7 @@ include('include/pds-header.php');
     <p>If you would like more information about PaperCut and what it can do for you then, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
-        <label for='name'>Enter Name: </label><br>
+        <label for='name'>Enter Name:</label><br>
         <input type="text" name="name">
       </p>
       <p>
