@@ -35,11 +35,7 @@ include('include/pds-header.php');
     <h3>How can you use Laserfiche?</h3>
     <p>Laserfiche allows you to save directly to it from Microsoft Office. This also includes importing emails (with their attachments) with only a few clicks.<br>
       If you have employees who are rarely in the office but still need to upload files and get files from the centre hub, they can do so with mobile devices.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <p>If you would like more information about Laserfiche then, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -64,6 +60,9 @@ include('include/pds-header.php');
       frmvalidator.addValidation("email","email","Please enter a valid email address");
     </script>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

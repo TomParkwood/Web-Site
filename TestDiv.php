@@ -1,4 +1,4 @@
-<!--JustPrint-->
+<!--This is for testing right float for the left and right alignment-->
 <?php
 $pageTitle ="JustPrint:";
 $pageSummary = "Just Print is a new way of getting a printer, all you have to do is pay for what you print. No rental, no leasing and no buying.";
@@ -13,7 +13,7 @@ include('include/pds-header.php');
   </div>
 </div>
 <div id="main-wrapper">
-  <div id="equal-1" class="width-threecentre">
+  <div id="equal-1" class="width-threecentre" align="left">
     <img src="images/JustPrint.png" alt="Just Print Handout" style="width:70%">
     <p style="font-size:40px"><b>Just Print</b></p>
     <p style="font-size:25px">We supply a colour A3 MFD,<br>
@@ -22,7 +22,11 @@ include('include/pds-header.php');
       No Rental<br>
       No Leasing<br>
       No Buying</p>
-    <br>
+  </div>
+  <?php
+  include('include/test.php');
+  ?>
+  <div id="equal-1" class="width-three" align="left">
     <p>If you would like more information on Just Print, please get in contact with us.</p>
     <form method="post" name="myemailform" action="JustPrintEmail.php">
       <p>
@@ -54,9 +58,6 @@ include('include/pds-header.php');
       frmValidator.addValidation("email","email","Please enter a valid email address");
     </script>
   </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
 </div>
 <?php
 include('include/pds-footer.php');

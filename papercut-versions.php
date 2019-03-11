@@ -1,6 +1,6 @@
 <!--PaperCut Versions-->
 <?php
-$pageTitle = "PaperCut:";
+$pageTitle = "PaperCut Versions";
 $pageSummary = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
 $metaKeywords = "PaperCut MF, PaperCut NG, print tracking, track prints, follow me printing, print authentication";
 $metaDescription = "PaperCut is the largest print management suite, which will revolutionise how you manage your printing and printers. Using follow-me printing it will revolutionise your printers, by not having documents sitting on the printer and you can just walk up to any printer and it will print out your documents.";
@@ -22,7 +22,7 @@ include('include/pds-header.php');
       <br>
       Whereas PaperCut NG can only track print jobs that have been sent to the print queue, PaperCut MF is able to track and monitor everything that is done on the machine once the user has logged in, this includes copying, scanning and printing.<br>
       With PaperCut MF you have to login at the machine before you can use the machine so it can effectively lock down the machine to unwanted users from using the machine if you don't want them to.<br>
-
+      PaperCut MF also allows for more control and versatility on what it can do in regards to converting files to different formats, printing from emails and much more.
     </p>
   </div>
   <?php

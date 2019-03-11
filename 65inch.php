@@ -35,8 +35,6 @@ include('include/pds-header.php');
       Outputs - 1x 3.5mm audio jack.<br>
       Control - 1x RS232C IN and 2x USB.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/400 x 400mm standard.</p>
-  </div>
-  <div id="equal-1" class="width-three">
     <p>If you want more information abou the 65" Big Pads, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -62,6 +60,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php')

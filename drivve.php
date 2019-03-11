@@ -34,11 +34,7 @@ include('include/pds-header.php');
       The good thing about the Desktop Client is that it is as fully features as the one installed onto the printer, if not more so by also being able to upload pre-scanned documents into it as well as new scans.</p>
     <h3>How does it know what to call the files or folders?</h3>
     <p>With the OCR or barcode modules installed, you can pick up data from he document itself. So it can find the company name and create a folder for them, then look for the invoice number and give the file name invoiceXXX, which means when someone goes to look for a specified invoice from that company, all they would have to do is look for the invoice number and it will be there.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <p>If you want more information about what Drivve can do for you, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -62,6 +58,10 @@ include('include/pds-header.php');
       frmvalidator.addValidation("email","req","Please provide your email");
       frmvalidator.addValidation("email","email","Please enter a valid email address");
     </script>
+  </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

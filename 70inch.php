@@ -97,8 +97,6 @@ include('include/pds-header.php');
       Outputs - 1x DisplayPort, 1x 3.5mm audio jack and 2x 10W speakers.<br>
       Control - 1x LAN port and 2x USB.<br>
       </p>
-  </div>
-  <div id="equal-1" class="width-three">
     <p>If you want more information about the 70" Big Pads, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -124,6 +122,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php')

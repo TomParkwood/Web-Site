@@ -45,36 +45,33 @@ include('include/pds-header.php');
 				<p>All dealers generally succeed in the traditional model (i.e. they all know how to deliver products at a discounted price).	ParkWood Document Solutions Ltd. does not believe we will earn your business over these issues since all dealers operate essentially the same. We do believe however, that you will stay or move to a dealer who performs far ahead of the field in both technological vision and tactical support. A dealer who understands that customer support is paramount, supplying the correct equipment at the right price from the very outset is essential and that listening and responding to the changing needs of each individual client will ensure a long standing and harmonious relationship for	all parties. Given the opportunity we will show that ParkWood&#39;s offerings are the best total business solutions for your company.</p>
 			</div>
 		</div>
+		<p>For more information about what we can offer you, please get in contact with us.</p>
+		<form method="post" name="myemailform" action="To-Email.php">
+			<p>
+				<label for='name'>Enter Name:</label><br>
+				<input type="text" name="name">
+			</p>
+			<p>
+				<label for='email'>Enter Email Address</label><br>
+				<input type="text" name="email">
+			</p>
+			<p>
+				<label for='moreinformation'>What would you like more information about?:</label><br>
+				<textarea name="moreinformation"></textarea>
+			</p>
+			<input type="hidden" name="currentpage" value="About Us">
+			<input type="submit" name="submit" value="submit">
+		</form>
+		<script language="JavaScript">
+			var frmvalidator = new Validator("myemailform");
+			frmvalidator.addvalidation("name","req","Please provide your name");
+			frmvalidator.addvalidation("email","req","Please provide your email");
+			frmvalidator.addvalidation("email","email","Please enter a valid email address");
+		</script>
 	</div>
 	<?php
 	include('include/pds-sidebar.php');
 	?>
-</div>
-<div id="equal-1" class="width-three">
-	<p>For more information about what we can offer you, please get in contact with us.</p>
-	<form method="post" name="myemailform" action="To-Email.php">
-		<p>
-			<label for='name'>Enter Name:</label><br>
-			<input type="text" name="name">
-		</p>
-		<p>
-			<label for='email'>Enter Email Address</label><br>
-			<input type="text" name="email">
-		</p>
-		<p>
-			<label for='moreinformation'>What would you like more information about?:</label><br>
-			<textarea name="moreinformation"></textarea>
-		</p>
-		<input type="hidden" name="currentpage" value="About Us">
-		<input type="submit" name="submit" value="submit">
-	</form>
-	<script language="JavaScript">
-		var frmvalidator = new Validator("myemailform");
-		frmvalidator.addvalidation("name","req","Please provide your name");
-		frmvalidator.addvalidation("email","req","Please provide your email");
-		frmvalidator.addvalidation("email","email","Please enter a valid email address");
-	</script>
-</div>
 </div>
 <?php
 include('include/pds-footer.php');

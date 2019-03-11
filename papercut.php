@@ -46,13 +46,9 @@ include('include/pds-header.php');
     <p>PaperCut offers lots of flexibility in how print jobs are sent to the queue. Did you know that there is an app for phones which allow you to upload a document to print to your queue?<br>
       If you are using Google Docs for the majority of your work don't worry because PaperCut also fully supports Google Cloud Print.<br>
       As well as Email to Print, so you can simply send out an email to the address with instructions on how you want it to be printed and an attachment to print, then when you login at the machine the print will be waiting for you.<br>
-      PaperCut also offers what it calls Mobility Printing, which is an easy way of ensuring that pretty much any device you could want to print from can. There are no drivers to install for the users and allows printing from pretty much any application.</p>
-
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+      PaperCut also offers what it calls Mobility Printing, which is an easy way of ensuring that pretty much any device you could want to print from can. There are no drivers to install for the users and allows printing from pretty much any application.
+    </p>
+    <br>
     <p>If you would like more information about PaperCut and what it can do for you then, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -77,6 +73,9 @@ include('include/pds-header.php');
       frmvalidator.addValidation("email","email","Please enter a valid email address");
     </script>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

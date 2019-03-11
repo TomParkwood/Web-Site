@@ -29,11 +29,7 @@ include('include/pds-header.php');
         </tr>
       </table>
     <p>There is more than enough room for two laptops to be sat on the table facing each other, so if necessary everyone can have their own device out and be contributing to the meeting. Unlike in a regular meeting room, where one person leads and the rest just listen and make notes, every person can contribute and lead the discussion if needed, whilst sharing their screen on the BigPad for all to see.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php')
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <p>If you would like more information about the Sharp Huddle Spaces, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -59,6 +55,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php')
+  ?>
 </div>
 <?php
 include('include/pds-footer.php')

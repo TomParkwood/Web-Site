@@ -138,37 +138,35 @@ include('include/pds-header.php');
     <h3>Other Documents</h3>
       <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Brochure/15096_Neo_Brochure.pdf" target="_blank" rel="noopener noreferrer">Brochure</a></p>
       <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mxc300_OperationGuide_uk.pdf" target="_blank" rel="noopener noreferrer">Operation Guide</a></p>
-      <br>
-    </div>
-<?php
-include('include/pds-sidebar.php');
- ?>
- <div id="equal-1" class="width-three">
-   <p>If you want more information about the Neo range then, please get in contact with us.</p>
-   <form method="post" name="myemailform" action="To-Email.php">
-     <p>
-       <label for='name'>Enter Name:</label><br>
-       <input type="text" name="name">
-     </p>
-     <p>
-       <label for='email'>Enter Email Address:</label><br>
-       <input type="text" name="email">
-     </p>
-     <p>
-       <label for='moreinformation'>What would you like more information about?:</label><br>
-       <textarea name="moreinformation"></textarea>
-     </p>
-     <input type="hidden" name="currentpage" value="MFP: Neo Range.">
-     <input type="submit" name="submit" value="submit">
-  </form>
-  <script language="JavaScript">
-    var frmvalidator = new Validator("myemailform");
-    frmvalidator.addValidation("name","req","Please provide your name");
-    frmvalidator.addValidation("email","req","Please provide your email");
-    frmvalidator.addValidation("email","email","Please enter a valid email address");
-  </script>
-  <br>
-</div>
+    <br>
+    <p>If you want more information about the Neo range then, please get in contact with us.</p>
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for='email'>Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="MFP: Neo Range.">
+      <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmvalidator = new Validator("myemailform");
+      frmvalidator.addValidation("name","req","Please provide your name");
+      frmvalidator.addValidation("email","req","Please provide your email");
+      frmvalidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+    <br>
+  </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

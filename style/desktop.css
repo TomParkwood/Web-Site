@@ -263,7 +263,7 @@ div.width-five
 }
 div.sidebar
 {
-	border-left: 2px #c8c8c8 solid;
+	border-left: 2px #333 solid;
 	text-align: center;
 	width: 25% !important;
 	color: #000000;
@@ -280,7 +280,7 @@ div.separator
 {
 	width: 97%;
 	margin-top: 5px;
-	border-bottom: 3px #000000 solid;
+	border-bottom: 2px #333 solid;
 	margin-left: auto;
 	margin-right: auto;
 }

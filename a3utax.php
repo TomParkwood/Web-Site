@@ -461,36 +461,34 @@ include('include/pds-header.php');
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/DB_UT_4006ci_5006ci_6006ci_UK.pdf/$FILE/DB_UT_4006ci_5006ci_6006ci_UK.pdf" target="_blank" rel="noreferrer">Brochure (4006ci, 5006ci, 6006ci)</a></p>
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/IH_2506ci-6006ci_UT_UK.pdf/$FILE/IH_2506ci-6006ci_UT_UK.pdf" target="_blank" rel="noreferrer">Operation Guide</a></p>
     <br>
+    <p>For more information please get in contact with us.</p>
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for='email'>Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="MFP: A3 Utax Range">
+      <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmValidator = new Validator("myemailform");
+      frmValidator.addValidation("name","req","Please provide your name");
+      frmValidator.addValidation("email","req","Please provide your email");
+      frmValidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+    <br>
   </div>
-<?php
-include('include/pds-sidebar.php');
-?>
-<div id="equal-1" class="width-three">
-  <p>For more information please get in contact with us.</p>
-  <form method="post" name="myemailform" action="To-Email.php">
-    <p>
-      <label for='name'>Enter Name:</label><br>
-      <input type="text" name="name">
-    </p>
-    <p>
-      <label for='email'>Enter Email Address:</label><br>
-      <input type="text" name="email">
-    </p>
-    <p>
-      <label for='moreinformation'>What would you like more information about?:</label><br>
-      <textarea name="moreinformation"></textarea>
-    </p>
-    <input type="hidden" name="currentpage" value="MFP: A3 Utax Range">
-    <input type="submit" name="submit" value="submit">
-  </form>
-  <script language="JavaScript">
-    var frmValidator = new Validator("myemailform");
-    frmValidator.addValidation("name","req","Please provide your name");
-    frmValidator.addValidation("email","req","Please provide your email");
-    frmValidator.addValidation("email","email","Please enter a valid email address");
-  </script>
-  <br>
-</div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

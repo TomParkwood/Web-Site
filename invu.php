@@ -28,11 +28,7 @@ include('include/pds-header.php');
       Ensures that all of the data is kept safe by using encryption and with a full audit trail so if something does go wrong you know where to start looking.<br>
       Invu also helps to reduce the storage space needed as a whole, because it helps to eliminate duplicate files on the network with there only be a central copy so it helps to keep your storage requirements down.<br>
       Easier remote access for BYOD and remote working will ensure that users can always get on with their work.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <p>If you would like more information on the Invu software, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -57,6 +53,9 @@ include('include/pds-header.php');
       frmvalidator.addValidation("email","email","Please enter a valid email address");
     </script>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

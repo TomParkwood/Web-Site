@@ -2,7 +2,7 @@
 $pageName = basename($_SERVER['PHP_SELF']);
 ?>
 
-<div id="equal-4" class="sidebar width-four">
+<div id="equal-4" class="sidebar width-four" align="right">
 	<div id="summary">
 		<p>&quot;<?php echo $pageSummary; ?>&quot;.</p>
 	</div>
@@ -141,10 +141,6 @@ $pageName = basename($_SERVER['PHP_SELF']);
 
 		if( $pageName == "photocopiers.php" )
 		{
-			echo "<h1>Drivers</h1>";
-			echo "<p>Remember when installing a new photocopier make sure that you install the manufacturers driver so you get the most out of your machine.</p>";
-			echo "<p><a href=\"drivers.php\">Drivers</a></p>";
-			echo "<div class=\"separator\"></div>";
 			echo "<h1>PaperCut</h1>";
 			echo "<p>A perfect companion to a new photocopier, gives you even more control over your new device by being able to track and limit prints on a user basis as well as set rules for how print jobs can be printed.</p>";
 			echo "<p><a href=\"Papercut.php\">PaperCut</a></p>";

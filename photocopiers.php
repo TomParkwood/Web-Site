@@ -54,35 +54,34 @@ include('include/pds-header.php');
             <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
           </tr>
         </table>
-    </div>
-    <?php
-    include('include/pds-sidebar.php');
-     ?>
-     <div id="equal-1" class="width-three">
-       <p>If you want more information about the different ranges of photocopiers that we can offer, then please get in contact with us.</p>
-       <form method="post" name="myemailform" action="To-Email.php">
-         <p>
-           <label for='name'>Enter Name:</label><br>
-           <input type="text" name="name">
-         </p>
-         <p>
-           <label for='email'>Enter Email Address:</label><br>
-           <input type="text" name="email">
-         </p>
-         <p>
-           <label for='moreinformation'>What would you like more information about?:</label><br>
-           <textarea name="moreinformation"></textarea>
-         </p>
-         <input type="hidden" name="currentpage" value="Photocopiers">
-         <input type="submit" name="submit" value="submit">
-       </form>
-       <script language="JavaScript">
+      <br>
+      <p>If you want more information about the different ranges of photocopiers that we can offer, then please get in contact with us.</p>
+      <form method="post" name="myemailform" action="To-Email.php">
+        <p>
+          <label for='name'>Enter Name:</label><br>
+          <input type="text" name="name">
+        </p>
+        <p>
+          <label for='email'>Enter Email Address:</label><br>
+          <input type="text" name="email">
+        </p>
+        <p>
+          <label for='moreinformation'>What would you like more information about?:</label><br>
+          <textarea name="moreinformation"></textarea>
+        </p>
+        <input type="hidden" name="currentpage" value="Photocopiers">
+        <input type="submit" name="submit" value="submit">
+      </form>
+      <script language="JavaScript">
         var frmvalidator = new Validator("myemailform");
         frmvalidator.addValidation("name","req","Please provide your name");
         frmvalidator.addValidation("email","req","Please provide your email");
         frmvalidator.addValidation("email","email","Please enter a valid email address");
       </script>
     </div>
+    <?php
+    include('include/pds-sidebar.php');
+    ?>
 </div>
 <?php
 include('include/pds-footer.php');

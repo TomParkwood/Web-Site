@@ -21,11 +21,7 @@ include('include/pds-header.php');
 			<p></p>
 			<p>If you require any further information or would like to arrange a Print Audit then please <a href="contact.php">contact us</a></p>
 		</div>
-	</div>
-	<?php
-	include('include/pds-sidebar.php');
-	?>
-	<div id="equal-1" class="width-three">
+	<br>
 		<form method="post" name="myemailform" action="To-Email.php">
 			<p>
 				<label for='name'>Enter Name: </label><br>
@@ -49,6 +45,9 @@ include('include/pds-header.php');
 			frmvalidator.addValidation("email","email","Please enter a valid email address");
 		</script>
 	</div>
+	<?php
+	include('include/pds-sidebar.php');
+	?>
 </div>
 <?php
 include('include/pds-footer.php');

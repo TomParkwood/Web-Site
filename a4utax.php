@@ -41,21 +41,6 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
-    <!--
-    <input type="button" onclick="tend()" value="show">
-    <input type="button" onclick="tn()" value="hide">
-    <div id="ShowHide" style="display:none;">
-      <img src="images/utax/2655options.jpg" height="50%" width="50%" align="left">
-      <img src="images/utax/2655software.jpg" height="50%" width="50%" align="right">
-    </div>
-      <script type="text/JavaScript">
-        function tend() {
-          document.getElementById('ShowHide').style.display= 'block';
-        }
-        function tn(){
-          document.getElementById('ShowHide').style.display= 'none';
-        }
-      </script>-->
       <img src="images/utax/2655options.jpg" width="50%" style="float:left">
       <img src="images/utax/2655software.jpg" width="20%" style="float:left">
       <table class="productTable" border="1">
@@ -198,36 +183,34 @@ include('include/pds-header.php');
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/QG_P-C2655w%20MFP_UT_UK.pdf/$FILE/QG_P-C2655w%20MFP_UT_UK.pdf" target="_blank" rel="noopener noreferrer">Quickguide</a></p>
     <p><a href="http://www.utaxuk.co.uk/C125712200447418/vwLookupDownloads/IH_P-C2655w%20MFP_UT_UK.pdf/$FILE/IH_P-C2655w%20MFP_UT_UK.pdf" target="_blank" rel="noopener noreferrer">Operation Guide</a></p>
     <br>
+    <p>For more information please get in contact with us.</p>
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for='email'>Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="MFP: A4 Utax">
+      <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmvalidator = new Validator("myemailform");
+      frmvalidator.addvalidation("name","req","Please provide your name");
+      frmvalidator.addvalidation("email","req","Please provide your email");
+      frmvalidator.addvalidation("email","email","Please enter a valid email address");
+    </script>
+    <br>
   </div>
-<?php
-include('include/pds-sidebar.php');
-?>
-<div id="equal-1" class="width-three">
-  <p>For more information please get in contact with us.</p>
-  <form method="post" name="myemailform" action="To-Email.php">
-    <p>
-      <label for='name'>Enter Name:</label><br>
-      <input type="text" name="name">
-    </p>
-    <p>
-      <label for='email'>Enter Email Address:</label><br>
-      <input type="text" name="email">
-    </p>
-    <p>
-      <label for='moreinformation'>What would you like more information about?:</label><br>
-      <textarea name="moreinformation"></textarea>
-    </p>
-    <input type="hidden" name="currentpage" value="MFP: A4 Utax">
-    <input type="submit" name="submit" value="submit">
-  </form>
-  <script language="JavaScript">
-    var frmvalidator = new Validator("myemailform");
-    frmvalidator.addvalidation("name","req","Please provide your name");
-    frmvalidator.addvalidation("email","req","Please provide your email");
-    frmvalidator.addvalidation("email","email","Please enter a valid email address");
-  </script>
-  <br>
-</div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

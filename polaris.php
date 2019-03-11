@@ -48,21 +48,6 @@ include('include/pds-header.php');
         </tr>
       </table>
     <h2>Options</h2>
-    <!--
-    <input type="button" onclick="tend()" value="show">
-    <input type="button" onclick="tn()" value="hide">
-    <div id="ShowHide" style="display:none;">
-      <img src="images/sharp/polaris-options1.jpg" width="75%">
-      <img src="images/sharp/polaris-options2.jpg" width="75%">
-    </div>
-    <script type="text/JavaScript">
-      function tend() {
-        document.getElementById('ShowHide').style.display= 'block';
-      }
-      function tn() {
-        document.getElementById('ShowHide').style.display= 'none';
-      }
-    </script>-->
     <img src="images/sharp/polaris-options2.jpg" width="50%" style="float:left">
     <img src="images/sharp/polaris-options1.jpg" width="50%" style="float:right">
       <table class="productTable" border="1">
@@ -471,36 +456,34 @@ include('include/pds-header.php');
     <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mx4050n_ex_user.pdf" target="_blank" rel="noopener noreferrer">User Manual</a></p>
     <p><a href="https://www.sharp.co.uk/cps/rde/xbcr/documents/documents/Marketing/Operational_manuals/mx4050n_ex_faq.pdf" target="_blank" rel="noopener noreferrer">Troubleshooting</a></p>
     <br>
+    <p>If you want more information please get in contact with us.</p>
+    <form method="post" name="myemailform" action="To-Email.php">
+      <p>
+        <label for='name'>Enter Name:</label><br>
+        <input type="text" name="name">
+      </p>
+      <p>
+        <label for='email'>Enter Email Address:</label><br>
+        <input type="text" name="email">
+      </p>
+      <p>
+        <label for='moreinformation'>What would you like more information about?:</label><br>
+        <textarea name="moreinformation"></textarea>
+      </p>
+      <input type="hidden" name="currentpage" value="MFP: Polaris">
+      <input type="submit" name="submit" value="submit">
+    </form>
+    <script language="JavaScript">
+      var frmvalidator = new Validator("myemailform");
+      frmvalidator.addValidation("name","req","Please provide your name");
+      frmvalidator.addValidation("email","req","Please provide your email");
+      frmvalidator.addValidation("email","email","Please enter a valid email address");
+    </script>
+  <br>
   </div>
 <?php
 include('include/pds-sidebar.php');
- ?>
- <div id="equal-1" class="width-three">
-   <p>If you want more information please get in contact with us.</p>
-   <form method="post" name="myemailform" action="To-Email.php">
-     <p>
-       <label for='name'>Enter Name:</label><br>
-       <input type="text" name="name">
-     </p>
-     <p>
-       <label for='email'>Enter Email Address:</label><br>
-       <input type="text" name="email">
-     </p>
-     <p>
-       <label for='moreinformation'>What would you like more information about?:</label><br>
-       <textarea name="moreinformation"></textarea>
-     </p>
-     <input type="hidden" name="currentpage" value="MFP: Polaris">
-     <input type="submit" name="submit" value="submit">
-   </form>
-   <script language="JavaScript">
-    var frmvalidator = new Validator("myemailform");
-    frmvalidator.addValidation("name","req","Please provide your name");
-    frmvalidator.addValidation("email","req","Please provide your email");
-    frmvalidator.addValidation("email","email","Please enter a valid email address");
-  </script>
-  <br>
-</div>
+?>
 </div>
 <?php
 include('include/pds-footer.php');

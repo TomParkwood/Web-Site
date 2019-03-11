@@ -25,11 +25,7 @@ include('include/pds-header.php');
     <a href="https://www.oki.com/uk/printing/executive-series/support/drivers-and-utilities/index.html" target="_blank">OKI Executive Series</a><br>
     <a href="https://www.utaxuk.co.uk/C12571450046D4C3/vwWebPagesById/7F56655DFB05A003C125737F00413FEE" target="_blank">Utax Driver Downloads</a><br>
     <p>It is a good idea to let the drivers install themselves using their own application. However some only extract the files into the folder, so you will have to install the driver manually.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <p>If you want more information or are having problems with our links then, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -51,6 +47,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php')

@@ -37,7 +37,8 @@ include('include/pds-header.php');
 	</div>
 	<?php
 	include('include/pds-sidebar.php');
-	?></div>
+	?>
+</div>
 <?php
 include('include/pds-footer.php');
 ?>

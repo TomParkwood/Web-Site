@@ -36,8 +36,6 @@ include('include/pds-header.php');
       Outputs - 2x 10W speakers and a 3.5mm audio jack.<br>
       Control - 2x USB, 1x RS232C IN and a LAN port.<br>
       It also features a VESA mount for easy wall or stand mounting, using the 4/200 x 200mm standard.</p>
-  </div>
-  <div id="equal-1" class="width-three">
     <p>If you want more information about the 50" Big Pads, please get in contact with us.</p>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
@@ -63,6 +61,9 @@ include('include/pds-header.php');
     </script>
     <br>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php')
