@@ -47,14 +47,24 @@ input[type=textarea]{
 	border-radius: 5px;
 }
 input[type=submit] {
-	padding:5px 5px;
+	padding: 5px 5px;
 	background: #ccc;
-	border: none;
+	border: 2px solid #ccc;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;
+	font-weight: normal;
 }
 
+input[type=submit]:hover
+{
+	padding: 5px 5px;
+	background: #ccc;
+	border: 2px solid #888;
+	border-radius: 5px;
+	text-align: center;
+	font-weight:
+}
 h1
 {
 	font-family: Arial;
@@ -83,14 +93,14 @@ p
 p.footer
 {
 	text-align: center;
-	color: #FFFFFF;
+	color: #ffffff;
 	font-size: 12px;
 }
 
 p.footer a
 {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #ffffff;
 }
 
 p.center, span.center
@@ -103,19 +113,9 @@ p.bold, span.bold
 	font-weight: bold;
 }
 
-p.red, span.red
-{
-	color: #CC0000;
-}
-
 p.green, span.green
 {
 	color: #669966;
-}
-
-p.blue, span.blue
-{
-	color: #0000CC;
 }
 
 img
@@ -183,7 +183,6 @@ div.feature
 	width: 95%;
 	padding-left: 10px;
 	padding-right: 5px;
-	height: 200px;
 	float: right;
 	margin-top: 10px;
 	background: lightgreen;
@@ -226,7 +225,7 @@ div#crumbs-wrapper
 
 div#crumbs
 {
-	background-color: #3C4B3C;
+	background-color: #2b2a29;
 	width: 100%;
 	height: 20px;
 	color: #FFFFFF;
@@ -258,8 +257,6 @@ div.width-four
 
 div.width-five
 {
-	width:30%;
-	float:right;
 }
 div.sidebar
 {
@@ -340,7 +337,7 @@ table.productTable {
 }
 /* Adds a black background to the top navigation */
 .topnav{
-	background-color: #333;
+	background-color: #2b2a29;
 	overflow: hidden;
 	z-index: 1;
 }
@@ -480,6 +477,15 @@ div.dropmenudiv a:hover
 {
 	color: #ff0000;
 	text-decoration: underline;
+}
+
+img.copier-table
+{
+	max-height: 400px;
+	max-width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /*Cookie Consent*/

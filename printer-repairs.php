@@ -30,11 +30,7 @@ include('include/pds-header.php');
 
 			</div>
 		</div>
-	</div>
-	<?php
-	include('include/pds-sidebar.php');
-	?>
-	<div id="equal-1" class="width-three">
+	<br>
 		<h2>Printer Repairs Form</h2>
 		<form method="post" name="myemailform" action="Service-to-email.php">
 			<p>
@@ -68,6 +64,9 @@ include('include/pds-header.php');
 			frmvalidator.addValidation("email","email","Please enter a valid email address");
 		</script>
 	</div>
+	<?php
+	include('include/pds-sidebar.php');
+	?>
 </div>
 <?php
 include('include/pds-footer.php');

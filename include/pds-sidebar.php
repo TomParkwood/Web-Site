@@ -169,17 +169,57 @@ $pageName = basename($_SERVER['PHP_SELF']);
 			echo "<p>If your print costs are spiraling out of control and want real time tracking of who and what is printing.<br>Look no further than PaperCut.</p>";
 			echo "<p><a href=\"papercut.php\">PaperCut</a></p>";
 			echo "<div class=\"separator\"></div>";
+			echo "<h1>Software</h1>";
+			echo "<p>We can offer you a range of software for your copiers.<br>This ranges from PaperCut, Drivve, Laserfiche and more.<br>All with the goal of improving your printing experience and reducing waste prints.</p>";
+			echo "<p><a href=\"software.php\">Software</a></p>";
+			echo "<div class=\"separator\"></div>";
+		}
+
+		if( $pageName == "products.php" )
+		{
+			echo "<h1>PaperCut</h1>";
+			echo "<p>If your print costs are spiraling out of control and want real time tracking of who and what is printing.<br>Look no further than PaperCut.</p>";
+			echo "<p><a href=\"papercut.php\">PaperCut</a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>JustPrint</h1>";
+			echo "<p>Just Print is a new way of getting a printer, all you have to do is pay for what you print. No rental, no leasing and no buying.</p>";
+			echo "<p><a href=\"justprint.php\">Just Print</a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Sharpdesk</h1>";
+			echo "<p>Sharpdesk enables you to create OCR documents and edit scanned documents with ease.</p>";
+			echo "<p><a href=\"sharpdesk.php\">Sharpdesk</a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Printer Repairs</h1>";
+			echo "<p>Ensure that your printer keeps performing to the best of its ability by ensuring that the repairs are kept up to date.</p>";
+			echo "<p><a href=\"printer-repairs.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
+			echo "<div class=\"separator\"></div>";
 		}
 
 		if( $pageName == "ProfiPack.php" )
 		{
 			echo "<h1>Skywell</h1>";
-			echo "<p>Another eco-friendly product that we can offer is the Skywell by Sharp.<br>What appears to be a simple water machine, until you notice that there are no water jugs or plumbing. But it still dispenses fresh hot and cold water each day.";
+			echo "<p>Another eco-friendly product that we can offer is the Skywell by Sharp.<br>What appears to be a simple water machine, until you notice that there are no water jugs or plumbing. But it still dispenses fresh hot and cold water each day.</p>";
 			echo "<p><a href=\"skywell.php\">Skywell</a></p>";
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Photocopiers</h1>";
 			echo "<p>The Griffin 2 range of photocopiers by Sharp, which go up to 40 pages per minute, so they are perfect for a small to medium office size.<br>With the different configurations available you can get a new photocopier without any compromises which does exactly what you need it to do.</p>";
 			echo "<p><a href=\"Griffin2.php\">Sharp Griffin 2 Range</a></p>";
+			echo "<div class=\"separator\"></div>";
+		}
+
+		if( $pageName == "sharp-range.php" )
+		{
+			echo "<h1>Nursery Table</h1>";
+			echo "<p>Sharp's new 40\" Nursery Table.<br>Unlike any other 40\" tablets it runs off of battery power and has a multi-point tiltable screen so children of all heights can use it.</p>";
+			echo "<p><a href=\"nursery-table.php\">Sharp Nursery Table</a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Software</h1>";
+			echo "<p>We can offer you a range of software for your copiers.<br>This ranges from PaperCut, Drivve, Laserfiche and more.<br>All with the goal of improving your printing experience.</p>";
+			echo "<p><a href=\"software.php\">Software</a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Skywell</h1>";
+			echo "<p>An eco-friendly product that we can offer is the Skywell, by Sharp.<br>What appears to be a simple water machine, until you notice that there are no water jugs or plumbing. But it still dispenses fresh hot and cold water each day.</p>";
+			echo "<p><a href=\"skywell.php\">Skywell</a></p>";
 			echo "<div class=\"separator\"></div>";
 		}
 
@@ -232,10 +272,31 @@ $pageName = basename($_SERVER['PHP_SELF']);
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Sharp Big Pads</h1>";
 			echo "<p>Sharp Big Pads are a range of large touch screens ranging from 40\" to 80\".<br>Some models allow for up to 3 to be grouped together as one surface.<br>Perfect for classrooms or meeting rooms.</p>";
+			echo "<p><a href=\"bigpad.php\">Big Pads</a></p>";
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Skywell</h1>";
 			echo "<p>A revolutionary product by Sharp is the Skywell.<br>What appears to be a simple water machine, until you notice that there is no water jugs or plumbing but it still dispenses fresh hot and cold water each day.</p>";
-			echo "<p><a href=\"skywell.php\">Skywell</a></p>";
+			echo "<p><a href=\"skywell.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
+			echo "<div class=\"separator\"></div>";
+		}
+
+		if( $pageName == "software(old).php" )
+		{
+			echo "<h1>Photocopiers</h1>";
+			echo "<p>A perfect pairing for software is a new photocopier, with the latest machines you are guaranteed the best experience with printing such as PaperCut.</p>";
+			echo "<p><a href=\"photocopiers.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Nursery Table</h1>";
+			echo "<p>Sharp's new 40\" Nursery Table.<br>Unlike any other 40\" tablets it runs off of battery power and has a multi-point tiltable screen so children of all heights can use it.</p>";
+			echo "<p><a href=\"nursery-table.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Sharp Big Pads</h1>";
+			echo "<p>Sharp Big Pads are a range of large touch screens ranging from 40\" to 80\".<br>Some models allow for up to 3 to be grouped together to work as one surface.<br>Perfect for classrooms or meeting rooms.</p>";
+			echo "<p><a href=\"bigpad.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
+			echo "<div class=\"separator\"></div>";
+			echo "<h1>Skywell</h1>";
+			echo "<p>A revolutionary product by Sharp is the Skywell.<br>What appears to be a simple water machine, until you notice that there is no water jugs or plumbing but it still dispenses fresh hot and cold water each day.</p>";
+			echo "<p><a href=\"skywell.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 		}
 
@@ -243,34 +304,27 @@ $pageName = basename($_SERVER['PHP_SELF']);
 		{
 			echo "<h1>F.A.Q</h1>";
 			echo "<p>If you are having a problem please have a look at our F.A.Q page. It may very well hold the answer and save time as well.</p>";
-			echo "<p><a href=\"faq.php\">Browse F.A.Q Page</a></p>";
+			echo "<p><a href=\"faq.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Photocopiers</h1>";
 			echo "<p>A perfect pairing for software is a new photocopier, with the latest machines you are guaranteed the best experience with printin such as PaperCut.</p>";
-			echo "<p><a href=\"photocopiers.php\">Photocopiers</a></p>";
+			echo "<p><a href=\"photocopiers.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Software</h1>";
 			echo "<p>We can offer you a range of software for your copiers.<br>This ranges from PaperCut, Drivve, Laserfiche and more.<br>All with the goal of improving your printing experience.</p>";
-			echo "<p><a href=\"software.php\">Software</a></p>";
+			echo "<p><a href=\"software.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 		}
 
 		if( $pageName == "utax-range.php" )
 		{
-			echo "<h1>Skywell</h1>";
-			echo "<p>A revoluntionary product by Sharp is the Skywell.<br>What appears to be a simple water machine, until you notice that there is no water jugs or plumbing but it still dispenses fresh hot and cold water each day.</p>";
-			echo "<p><a href=\"skywell.php\">Skywell</a></p>";
-			echo "<div class=\"separator\"></div>";
-			echo "<h1>Software</h1>";
-			echo "<p>We can offer you a range of software for your copiers.<br>This ranges from PaperCut, Drivve, Laserfiche and more.<br>All with the goal of improving your printing experience.</p>";
-			echo "<p><a href=\"software.php\">Software</a></p>";
-			echo "<div class=\"separator\"></div>";
 			echo "<h1>Nursery Table</h1>";
 			echo "<p>Sharp's new 40\" Nursery Table.<br>Unlike any other 40\" tablets it runs off of battery power and has a multi-point tiltable screen so children of all heights can use it.</p>";
-			echo "<p><a href=\"software.php\">Software</a></p>";
+			echo "<p><a href=\"nursery-table.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 			echo "<h1>Sharp Big pad</h1>";
 			echo "<p>Sharp Big Pads are a range of large touch screens ranging from 40\" to 80\".<br>Some models even allow for up to 3 to be grouped together as one surface.<br>Perfect for classrooms or meeting rooms.</p>";
+			echo "<p><a href=\"bigpad.php\"><img src=\"images/read-more.png\" alt=\"Read More\"></a></p>";
 			echo "<div class=\"separator\"></div>";
 		}
 

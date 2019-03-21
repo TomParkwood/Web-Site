@@ -21,8 +21,8 @@ include('include/pds-header.php');
         <td style="width:50%;"><strong>The A3 Colour Range</stong></td>
       </tr>
       <tr>
-        <td><a href="a4utax.php"><img src="images/utax/C2655.jpg"></a></td>
-        <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
+        <td><a href="a4utax.php"><img class="copier-table" src="images/utax/C2655.jpg" alt="Thumbnail of the A4 UTAX range."></a></td>
+        <td><a href="a3utax.php"><img class="copier-table" src="images/utax/6006ci.jpg" alt="Thumbnail of the A3 UTAX range."></a></td>
       </tr>
       <tr>
         <td>A pair of A4 colour devices which are perfect for a small office or low user, with running speeds of 21 or 26 pages per minute with all of the bells and whistles expected from a much larger machine.<br>
@@ -34,12 +34,7 @@ include('include/pds-header.php');
       </tr>
     </table>
     <br>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
-    <p>If you want more inormation on the UTAX machines then, please get in contact with us.</p> 
+    <p>If you want more inormation on the UTAX machines then, please get in contact with us.</p>
     <form method="psot" name="myemailform" action="To-Email.php">
       <p>
         <label for='name'>Enter Name:</label><br>
@@ -63,6 +58,9 @@ include('include/pds-header.php');
       frmValidator.addValidation("email","email","Please enter a valid email address");
     </script>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');

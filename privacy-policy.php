@@ -52,11 +52,7 @@ include('include/pds-header.php');
 			<p>ParkWood Document Solutions Lmd reserves the unilateral right to	update, modify, change and alter its Legal Notice, Disclaimer and Privacy	Policy at any time. All such updates, modifications, changes and alterations are binding on all users and browsers of this website and will be posted	here.</p>
 			<p>This page was last updated on: 15/10/2018</p>
 		</div>
-	</div>
-	<?php
-	include('include/pds-sidebar.php');
-	?>
-	<div id="equal-1" class="width-three">
+	<br>
 		<form method="post" name="myemailform" action="To-Email.php">
 			<p>
 				<label for='name'>Enter Name:</label><br>
@@ -80,6 +76,9 @@ include('include/pds-header.php');
 			frmvalidator.addValidation("email","email","Please provide a valid email address");
 		</script>
 	</div>
+	<?php
+	include('include/pds-sidebar.php');
+	?>
 </div>
 <?php
 include('include/pds-footer.php');

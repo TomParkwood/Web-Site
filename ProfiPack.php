@@ -1,10 +1,9 @@
-<!--sphinx-->
-<!--MX 2651-->
+<!--HSM ProfiPack-->
 <?php
 $pageTitle = "HSM ProfiPack";
 $pageSummary = "The new way to transform your waste cardboard into useful packaging";
-$metaKeywords = "";
-$metaDescription = "";
+$metaKeywords = "HSM ProfiPack, ProfiPack C400, ProfiPack P425, HSM C400, HSM P425";
+$metaDescription = "HSM ProfiPack allows you to transform your waste cardboard into useful packaging";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

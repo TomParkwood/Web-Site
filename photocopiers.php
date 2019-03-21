@@ -25,8 +25,8 @@ include('include/pds-header.php');
           </tr>
           <tr>
             <!--<td><a href="griffin.php"><img src="images/sharp/griffin.jpg" alt=""></a></td>-->
-            <td><a href="Griffin2.php"><img src="images/sharp/griffin2.jpg" alt=""></a></td>
-            <td><a href="neo.php"><img src="images/sharp/neo.jpg" alt=""></a></td>
+            <td><a href="Griffin2.php"><img class="copier-table" src="images/sharp/griffin2.jpg" alt="Thumbnail of the Griffin 2 range."></a></td>
+            <td><a href="neo.php"><img class="copier-table" src="images/sharp/neo.jpg" alt="Thumbnail of the Neo range."></a></td>
           </tr>
         </table>
         <br>
@@ -36,8 +36,8 @@ include('include/pds-header.php');
             <td style="width:50%;"><strong><a href="polaris.php">The Polaris Range</a></strong></td>
           </tr>
           <tr>
-            <td><a href="sphinx.php"><img src="images/sharp/sphinx.jpg" alt=""></a></td>
-            <td><a href="polaris.php"><img src="images/sharp/polaris.jpg" alt=""></a></td>
+            <td><a href="sphinx.php"><img class="copier-table" src="images/sharp/sphinx.jpg" alt="Thumbnail of the Sphinx range."></a></td>
+            <td><a href="polaris.php"><img class="copier-table" src="images/sharp/polaris.jpg" alt="Thumbnail of the Polaris range."></a></td>
           </tr>
         </table>
         <br>
@@ -50,8 +50,8 @@ include('include/pds-header.php');
             <td style="width:50%;"><strong><a href="a3utax.php">The A3 Colour Range</a></strong></td>
           </tr>
           <tr>
-            <td><a href="a4utax.php"><img src="images/utax/C2655.jpg"></a></td>
-            <td><a href="a3utax.php"><img src="images/utax/6006ci.jpg"></a></td>
+            <td><a href="a4utax.php"><img class="copier-table" src="images/utax/C2655.jpg" alt="Thumbail of the A4 UTAX range."></a></td>
+            <td><a href="a3utax.php"><img class="copier-table" src="images/utax/6006ci.jpg" alt="Thumbnail of the A3 UTAX range."></a></td>
           </tr>
         </table>
       <br>

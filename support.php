@@ -35,12 +35,8 @@ include('include/pds-header.php');
 			<div class="left">
 				<img alt="" src="images/support2.jpg" title="" /> </div>
 			<div class="right" style="width: 550px">
-				<p>To ensure a simple &amp; efficient method of supplying your meter
-				reading we have set up a direct link to our system. </p>
-				<p>Please either fill in our <a href="meter-reading-form.php">Meter
-				Reading Form</a> or email us at
-				<a href="mailto:meter@parkwoodsolutions.com?subject=Meter Readings">
-				meter@parkwoodsolutions.com</a> with the following information:-</p>
+				<p>To ensure a simple &amp; efficient method of supplying your meter reading we have set up a direct link to our system. </p>
+				<p>Please either fill in our <a href="meter-reading-form.php">Meter Reading Form</a> or email us at	<a href="mailto:meter@parkwoodsolutions.com?subject=Meter Readings"> meter@parkwoodsolutions.com</a> with the following information:-</p>
 				<ul>
 					<li>Company Name</li>
 					<li>Model Number &amp; Serial Number of the Device</li>

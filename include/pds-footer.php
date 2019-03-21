@@ -31,9 +31,7 @@
 		<img alt="Contact Us" src="./images/footer/contact.png" title="Contact Us" /></a>
 		</p>
 	</div>
-</div>
-<p class="footer">Copyright 2018: ParkWood Document Solutions |
-<a href="privacy-policy.php">Privacy Policy</a> | <a href="site-map.php">Site Map</a></p>
+<p class="footer">Copyright 2019: ParkWood Document Solutions | <a href="privacy-policy.php">Privacy Policy</a></p>
 </div>
 </body>
 </html>

@@ -26,11 +26,7 @@ include('include/pds-header.php');
       Sharpdesk also fully integrates with Sharp OSA Network Scanner Tool, it simplifies the process of getting the scanned documents into the program and also converts them directly into OCR compatible files.<br>
       Sharpdesk can helps making marketing materials easier to produce by enabling different file types to be put together in one document, so there is no more having to print out two parts of the document and place the paper copies together or having to have two electronic files to send out. It looks better to send out one files with all of the information needed.<br>
       A key fact is that you can convert your pre-existing scanned documents into OCR capable ones, it doesn't just work for newly scanned files, so you can convert your archive of documents into ones which can easily be found when needed.</p>
-  </div>
-  <?php
-  include('include/pds-sidebar.php');
-  ?>
-  <div id="equal-1" class="width-three">
+    <br>
     <form method="post" name="myemailform" action="To-Email.php">
       <p>
         <label for='name'>Enter Name:</label><br>
@@ -54,6 +50,9 @@ include('include/pds-header.php');
       frmvalidator.addValidation("email","email","Please provide a valid email address");
     </script>
   </div>
+  <?php
+  include('include/pds-sidebar.php');
+  ?>
 </div>
 <?php
 include('include/pds-footer.php');
